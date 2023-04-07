@@ -1,4 +1,5 @@
 import * as dotenv from "dotenv";
+import { writeFileSync } from "node:fs";
 import { Client } from "@notionhq/client";
 import {
   CheckboxPropertyItemObjectResponse,
@@ -36,6 +37,7 @@ const notion = new Client({
 });
 
 (async () => {
+  console.info("Fetching database items");
   const pages = await notion.databases.query({
     database_id: "43a82b0866c54c0fa847acc9d3bfa0f9",
     sorts: [
@@ -67,5 +69,7 @@ const notion = new Client({
     };
   });
 
-  console.log(episodes);
+  console.info("Writing to JSON file");
+  writeFileSync("../../data/database.json", JSON.stringify(episodes, null, 2));
+  console.info("Done");
 })();
