@@ -1,7 +1,10 @@
 {
-	"dependencies": {
-		"@notionhq/client": "^2.2.3",
-		"dotenv": "^16.0.3",
-		"ts-node": "^10.9.1"
-	}
+  "scripts": {
+    "fetch": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1"
+  }
 }

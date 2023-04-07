@@ -2,9 +2,11 @@ import * as dotenv from "dotenv";
 import { writeFileSync } from "node:fs";
 import { Client, collectPaginatedAPI } from "@notionhq/client";
 import {
+  BlockObjectResponse,
   CheckboxPropertyItemObjectResponse,
   NumberPropertyItemObjectResponse,
   PageObjectResponse,
+  ParagraphBlockObjectResponse,
   RichTextPropertyItemObjectResponse,
   TextRichTextItemResponse,
   TitlePropertyItemObjectResponse,
@@ -48,28 +50,44 @@ const notion = new Client({
     ],
   });
 
-  const episodes = (pages as PageObjectResponse[]).map((item) => {
-    const properties = item.properties as unknown as EpisodeItem;
-    const videoRegex = properties.youtube.url?.match(
-      /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/i
-    );
-    const video_ids = videoRegex ? [videoRegex[1]] : [];
+  const episodes = await Promise.all(
+    (pages as PageObjectResponse[]).map(async (item) => {
+      const properties = item.properties as unknown as EpisodeItem;
+      const videoRegex = properties.youtube.url?.match(
+        /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/i
+      );
+      const video_ids = videoRegex
+        ? [videoRegex[1]]
+        : await getVideoUrlsFromPageContent(item.id);
 
-    return {
-      id: item.id,
-      episode: properties.episode.number,
-      date: properties.date.rich_text[0]?.plain_text,
-      title: properties.title.title[0]?.plain_text,
-      topic: properties.topic.rich_text[0]?.plain_text,
-      figure: properties.figure.rich_text[0]?.plain_text,
-      is_official: !properties.youtube_non_official.checkbox,
-      video_ids,
-      video_url: properties.youtube.url,
-      download_url: properties.download.url,
-    };
-  });
+      return {
+        id: item.id,
+        episode: properties.episode.number,
+        date: properties.date.rich_text[0]?.plain_text,
+        title: properties.title.title[0]?.plain_text,
+        topic: properties.topic.rich_text[0]?.plain_text,
+        figure: properties.figure.rich_text[0]?.plain_text,
+        is_official: !properties.youtube_non_official.checkbox,
+        video_ids,
+        video_url: properties.youtube.url,
+        download_url: properties.download.url,
+      };
+    })
+  );
 
   console.info("Writing to JSON file");
   writeFileSync("../../data/database.json", JSON.stringify(episodes, null, 2));
   console.info("Done");
 })();
+
+async function getVideoUrlsFromPageContent(pageId: string): Promise<string[]> {
+  console.info(`Fetching video URLs for page: ${pageId}`);
+  const blocks = await notion.blocks.children.list({
+    block_id: pageId,
+  });
+
+  return (blocks.results as ParagraphBlockObjectResponse[])
+    .filter((block) => block.object === "block" && block.type === "paragraph")
+    .map((block) => block.paragraph.rich_text[0]?.href || "")
+    .filter((url) => url !== "");
+}
