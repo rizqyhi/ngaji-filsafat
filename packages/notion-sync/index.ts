@@ -1,6 +1,6 @@
 import * as dotenv from "dotenv";
 import { writeFileSync } from "node:fs";
-import { Client } from "@notionhq/client";
+import { Client, collectPaginatedAPI } from "@notionhq/client";
 import {
   CheckboxPropertyItemObjectResponse,
   NumberPropertyItemObjectResponse,
@@ -38,7 +38,7 @@ const notion = new Client({
 
 (async () => {
   console.info("Fetching database items");
-  const pages = await notion.databases.query({
+  const pages = await collectPaginatedAPI(notion.databases.query, {
     database_id: "43a82b0866c54c0fa847acc9d3bfa0f9",
     sorts: [
       {
@@ -48,7 +48,7 @@ const notion = new Client({
     ],
   });
 
-  const episodes = (pages.results as PageObjectResponse[]).map((item) => {
+  const episodes = (pages as PageObjectResponse[]).map((item) => {
     const properties = item.properties as unknown as EpisodeItem;
     const videoRegex = properties.youtube.url?.match(
       /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/i
