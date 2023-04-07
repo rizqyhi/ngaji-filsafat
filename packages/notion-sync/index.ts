@@ -63,7 +63,7 @@ const notion = new Client({
       return {
         id: item.id,
         episode: properties.episode.number,
-        date: properties.date.rich_text[0]?.plain_text,
+        date: parseDate(properties.date.rich_text[0]?.plain_text),
         title: properties.title.title[0]?.plain_text,
         topic: properties.topic.rich_text[0]?.plain_text,
         figure: properties.figure.rich_text[0]?.plain_text,
@@ -100,4 +100,20 @@ function extractVideoIdFromUrl(videoUrl: string | null): string {
   );
 
   return videoRegex ? videoRegex[1] : "";
+}
+
+function parseDate(toBeParsedDate: string): string {
+  const [year, month, date] = toBeParsedDate.split("-");
+
+  if (!year || !month || !date) {
+    throw new Error("INVALID_DATE_FORMAT");
+  }
+
+  const d = new Date();
+  d.setUTCHours(0, 0, 0);
+  d.setFullYear(2000 + Number(year));
+  d.setMonth(Number(month) - 1);
+  d.setDate(Number(date));
+
+  return d.toJSON();
 }
