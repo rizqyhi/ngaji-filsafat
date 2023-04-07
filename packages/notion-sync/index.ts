@@ -53,12 +53,12 @@ const notion = new Client({
   const episodes = await Promise.all(
     (pages as PageObjectResponse[]).map(async (item) => {
       const properties = item.properties as unknown as EpisodeItem;
-      const videoRegex = properties.youtube.url?.match(
-        /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/i
-      );
+      const videoRegex = extractVideoIdFromUrl(properties.youtube.url);
       const video_ids = videoRegex
-        ? [videoRegex[1]]
-        : await getVideoUrlsFromPageContent(item.id);
+        ? [videoRegex]
+        : (await getVideoUrlsFromPageContent(item.id)).map(
+            extractVideoIdFromUrl
+          );
 
       return {
         id: item.id,
@@ -90,4 +90,14 @@ async function getVideoUrlsFromPageContent(pageId: string): Promise<string[]> {
     .filter((block) => block.object === "block" && block.type === "paragraph")
     .map((block) => block.paragraph.rich_text[0]?.href || "")
     .filter((url) => url !== "");
+}
+
+function extractVideoIdFromUrl(videoUrl: string | null): string {
+  if (videoUrl === null) return "";
+
+  const videoRegex = videoUrl.match(
+    /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/i
+  );
+
+  return videoRegex ? videoRegex[1] : "";
 }
