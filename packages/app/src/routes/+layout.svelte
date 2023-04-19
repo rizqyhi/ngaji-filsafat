@@ -1,5 +1,8 @@
 <script>
-	import '../app.css';
+  import "../app.css";
 </script>
 
-<slot />
+<div class="max-w-lg mx-auto">
+  <h1>Ngaji Filsafat</h1>
+  <slot />
+</div>
