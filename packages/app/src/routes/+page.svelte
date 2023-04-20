@@ -6,6 +6,10 @@
   export let data: PageData;
 </script>
 
+<svelte:head>
+  <title>Ngaji Filsafat</title>
+</svelte:head>
+
 <Header>
   <h1 class="text-xl font-bold text-white">Ngaji Filsafat</h1>
 </Header>
