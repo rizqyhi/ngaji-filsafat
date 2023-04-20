@@ -3,9 +3,15 @@
   export let title: string;
   export let topic: string;
   export let videoId: string;
+  export let href: string;
 </script>
 
-<div class="flex mb-4">
+<div class="flex relative mb-4">
+  {#if href}
+    <a {href} class="absolute w-full h-full"
+      ><span class="sr-only">{title}</span></a
+    >
+  {/if}
   <div class="w-1/3 flex-none">
     <img
       src="https://img.youtube.com/vi/{videoId}/mqdefault.jpg"

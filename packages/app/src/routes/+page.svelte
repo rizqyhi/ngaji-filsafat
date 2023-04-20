@@ -1,5 +1,6 @@
 <script lang="ts">
   import type { PageData } from "./$types";
+  import { slugify } from "$lib/helpers";
   import EpisodeCard from "../components/EpisodeCard.svelte";
   import Header from "../components/Header.svelte";
 
@@ -21,6 +22,7 @@
       title={episode.title}
       topic={episode.topic}
       videoId={episode.video_ids[0]}
+      href={`/${episode.episode}/${slugify(episode.title)}`}
     />
   {/each}
 </div>
