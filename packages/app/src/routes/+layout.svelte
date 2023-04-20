@@ -2,7 +2,6 @@
   import "../app.css";
 </script>
 
-<div class="max-w-lg mx-auto">
-  <h1>Ngaji Filsafat</h1>
+<div class="max-w-lg mx-auto bg-gradient-to-r from-cyan-500 to-teal-400">
   <slot />
 </div>
