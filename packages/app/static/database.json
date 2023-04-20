@@ -1,0 +1,4560 @@
+[
+  {
+    "id": "d902013a-2210-4609-b585-6f254e9d7b83",
+    "episode": 1,
+    "date": "2013-04-21T00:00:00.880Z",
+    "title": "01. Pengantar Filsafat",
+    "topic": "Pengantar",
+    "is_official": true,
+    "video_ids": [
+      "KRLlhLkwESE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=KRLlhLkwESE",
+    "download_url": "http://www.mediafire.com/download/98dhttmsrrt2k2j/Pengantar_Filsafat_-_Fahrudin_Faiz_21420013.MP3"
+  },
+  {
+    "id": "25433b62-f1f5-4e64-ad07-ce29e0b41007",
+    "episode": 2,
+    "date": "2013-05-01T00:00:00.880Z",
+    "title": "Pengenalan Epistemologi",
+    "topic": "Pengantar",
+    "is_official": true,
+    "video_ids": [
+      "dKWrWWhFuW8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=dKWrWWhFuW8",
+    "download_url": "http://www.mediafire.com/download/si3xsrqwyo8iaib/1._Pengenalan_Epistemologi_1513-_Fahrudin_Faiz.MP3"
+  },
+  {
+    "id": "59b35659-5d04-464e-b5fb-244490046751",
+    "episode": 3,
+    "date": "2013-05-08T00:00:00.880Z",
+    "title": "Epistemologi",
+    "topic": "Pengantar",
+    "is_official": true,
+    "video_ids": [
+      "MIiYAI1IIG4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=MIiYAI1IIG4",
+    "download_url": "http://www.mediafire.com/download/fn6tjjgyj4q9vlb/Ngaji_Filsafat_Rutin_MJS_2.rar"
+  },
+  {
+    "id": "cd6512e4-d3b5-4ede-a325-a8547c9f3bc2",
+    "episode": 4,
+    "date": "2013-05-15T00:00:00.880Z",
+    "title": "Teori Kebenaran",
+    "topic": "Pengantar",
+    "is_official": true,
+    "video_ids": [
+      "LggTsSUxcTc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=LggTsSUxcTc",
+    "download_url": "http://www.mediafire.com/download/d9l1il3sx5y58v5/Ngaji_Filsafat_Rutin_MJS_3.rar"
+  },
+  {
+    "id": "e53d8b4c-6624-475e-aa87-74e9831f6b15",
+    "episode": 5,
+    "date": "2013-05-22T00:00:00.880Z",
+    "title": "Skeptisisme",
+    "topic": "Skeptisisme",
+    "is_official": true,
+    "video_ids": [
+      "6JsjszdfzW4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6JsjszdfzW4&list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18&index=14&t=3s",
+    "download_url": "http://www.mediafire.com/download/54heh2pevzm24du/Ngaji_Filsafat_Rutin_MJS_4.rar"
+  },
+  {
+    "id": "91c42009-7ff7-4451-8a34-29daa12e69f3",
+    "episode": 6,
+    "date": "2013-05-29T00:00:00.880Z",
+    "title": "Common Sense",
+    "topic": "Epistemologi Sosial",
+    "is_official": true,
+    "video_ids": [
+      "E9AK7kkww3U"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=E9AK7kkww3U&list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18&index=14",
+    "download_url": "http://www.mediafire.com/download/o467pv4dd704p43/Ngaji_Filsafat_Rutin_MJS_5.rar"
+  },
+  {
+    "id": "453fe114-4dd9-437c-a3bb-5c7890454afc",
+    "episode": 7,
+    "date": "2013-06-05T00:00:00.880Z",
+    "title": "Epistemologi Sosial",
+    "topic": "Epistemologi Sosial",
+    "is_official": true,
+    "video_ids": [
+      "crfwQC3sFQE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=crfwQC3sFQE&list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18&index=15",
+    "download_url": "http://www.mediafire.com/download/irpskhy6wmfsz25/Ngaji_Filsafat_Rutin_MJS_6.rar"
+  },
+  {
+    "id": "61421be4-6494-4583-b0a8-04d00ff82d7c",
+    "episode": 8,
+    "date": "2013-06-12T00:00:00.881Z",
+    "title": "Logika",
+    "topic": "Logika",
+    "is_official": true,
+    "video_ids": [
+      "k7F4Mh4IfHg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=k7F4Mh4IfHg&list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18&index=17&t=0s",
+    "download_url": "http://www.mediafire.com/download/cbdm3pa7m7vnqsg/Ngaji_Filsafat_Rutin_MJS_7.rar"
+  },
+  {
+    "id": "22be3c6b-2e84-419d-9055-f68dfc707094",
+    "episode": 9,
+    "date": "2013-06-19T00:00:00.881Z",
+    "title": "Logika 2",
+    "topic": "Logika",
+    "is_official": true,
+    "video_ids": [
+      "MiDWiG80Mq4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=MiDWiG80Mq4&list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18&index=18&t=0s",
+    "download_url": "http://www.mediafire.com/download/pf8lfa7y8gw1912/Ngaji_Filsafat_Rutin_MJS_8-9.rar"
+  },
+  {
+    "id": "3a16de53-5b75-425a-ab03-495c34ffe411",
+    "episode": 10,
+    "date": "2013-06-26T00:00:00.881Z",
+    "title": "Logika 3",
+    "topic": "Logika",
+    "is_official": true,
+    "video_ids": [
+      "X3W6vf4RYVw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=X3W6vf4RYVw&list=PL4WN5OeL0n_ZABoKx4G9yM6FzlP0_zp18&index=19&t=0s",
+    "download_url": "http://www.mediafire.com/download/pf8lfa7y8gw1912/Ngaji_Filsafat_Rutin_MJS_8-9.rar"
+  },
+  {
+    "id": "bd0ea88e-3dcd-4561-9ab2-9fc2a982653a",
+    "episode": 11,
+    "date": "2013-09-04T00:00:00.881Z",
+    "title": "Hermeneutika 1",
+    "topic": "Hermeneutika",
+    "is_official": true,
+    "video_ids": [
+      "xACkWfjSBx0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=xACkWfjSBx0&t=5496s",
+    "download_url": "http://www.mediafire.com/download/uj8uda1340xqd17/Ngaji_Filsafat_Rutin_MJS_10.rar"
+  },
+  {
+    "id": "4e5b6045-b7a5-46f2-9048-afebf213e6a0",
+    "episode": 12,
+    "date": "2013-09-11T00:00:00.881Z",
+    "title": "Hermeneutika 2",
+    "topic": "Hermeneutika",
+    "is_official": true,
+    "video_ids": [
+      "lhRPrGb6oJA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=lhRPrGb6oJA&t=17s",
+    "download_url": "http://www.mediafire.com/download/634zjv87jipibrf/Ngaji_Filsafat_Rutin_MJS_11-12.rar"
+  },
+  {
+    "id": "41ad0891-de5b-42b1-9671-e6c335d5caaf",
+    "episode": 13,
+    "date": "2013-09-18T00:00:00.881Z",
+    "title": "Ontologi",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "ZlF1DMEbSYE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ZlF1DMEbSYE&t=1530s",
+    "download_url": "http://www.mediafire.com/download/634zjv87jipibrf/Ngaji_Filsafat_Rutin_MJS_11-12.rar"
+  },
+  {
+    "id": "82b433f3-a211-47de-861a-5f3abdcf71a9",
+    "episode": 14,
+    "date": "2013-09-25T00:00:00.881Z",
+    "title": "Materialisme",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "Q37OAAixLtA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Q37OAAixLtA&t=2s",
+    "download_url": "http://www.mediafire.com/download/sa2spis7sixcqpa/Ngaji_Filsafat_Rutin_MJS_13.rar"
+  },
+  {
+    "id": "16b2bf5e-9d23-411a-9a7c-dd1fc27e2669",
+    "episode": 15,
+    "date": "2013-10-02T00:00:00.881Z",
+    "title": "Materialisme Historis",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "BYDZNjdZGT4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=BYDZNjdZGT4&t=5s",
+    "download_url": "http://www.mediafire.com/download/9y9trwg2c3ojhrs/Ngaji_Filsafat_Rutin_MJS_14.rar"
+  },
+  {
+    "id": "7c287391-8ccb-4487-b3c9-dde5964e1820",
+    "episode": 16,
+    "date": "2013-10-09T00:00:00.881Z",
+    "title": "Idealisme 1",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "zdH9e7CnW3Q"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=zdH9e7CnW3Q&t=5316s",
+    "download_url": "http://www.mediafire.com/download/v34tocg1bco3wwh/Ngaji_Filsafat_Rutin_MJS_15.rar"
+  },
+  {
+    "id": "a53caab8-1302-4c49-9905-26f04da571a0",
+    "episode": 17,
+    "date": "2013-10-23T00:00:00.881Z",
+    "title": "Idealisme 2",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "6f_BqFTVPQo"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6f_BqFTVPQo&t=285s",
+    "download_url": "http://www.mediafire.com/download/22tkkw19297dk40/Ngaji_Filsafat_Rutin_MJS_16-17.rar"
+  },
+  {
+    "id": "7d0b0f16-5a5f-4cce-9456-ae1c6b8e2cf8",
+    "episode": 18,
+    "date": "2013-10-30T00:00:00.881Z",
+    "title": "Dualisme",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "W6DetyR3PPI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=W6DetyR3PPI",
+    "download_url": "http://www.mediafire.com/download/22tkkw19297dk40/Ngaji_Filsafat_Rutin_MJS_16-17.rar"
+  },
+  {
+    "id": "ece3b134-505d-46c1-b742-0a080b27e62d",
+    "episode": 19,
+    "date": "2013-11-06T00:00:00.881Z",
+    "title": "Ontologi Pluralisme",
+    "topic": "Ontologi",
+    "is_official": true,
+    "video_ids": [
+      "e8BUuco7bvY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=e8BUuco7bvY&t=15s",
+    "download_url": "http://www.mediafire.com/download/ki9d2b2c5yl9uk2/Ngaji_Filsafat_Rutin_MJS_18.rar"
+  },
+  {
+    "id": "63f5f6c0-6de2-475d-9f9f-0ea85d85d4b6",
+    "episode": 20,
+    "date": "2013-11-20T00:00:00.881Z",
+    "title": "Pengantar Etika",
+    "topic": "Etika",
+    "is_official": true,
+    "video_ids": [
+      "eL8opCDQLmY"
+    ],
+    "video_url": "https://youtu.be/eL8opCDQLmY",
+    "download_url": "http://www.mediafire.com/download/1fxdn4bemth5xx8/Ngaji_Filsafat_Rutin_MJS_19.rar"
+  },
+  {
+    "id": "1584d029-9b20-4571-b554-b0811db12470",
+    "episode": 21,
+    "date": "2013-11-27T00:00:00.881Z",
+    "title": "Sistem-sistem Etika",
+    "topic": "Etika",
+    "is_official": true,
+    "video_ids": [
+      "wHAkBMESIVg"
+    ],
+    "video_url": "https://youtu.be/wHAkBMESIVg",
+    "download_url": "http://www.mediafire.com/download/1u7d0620stwvw8n/Ngaji+Filsafat+Rutin+MJS+20.rar"
+  },
+  {
+    "id": "a7f54596-e130-4215-9ea9-e4f9fff50371",
+    "episode": 22,
+    "date": "2013-12-11T00:00:00.881Z",
+    "title": "Etika Nikomanea Aristoteles",
+    "topic": "Etika",
+    "is_official": true,
+    "video_ids": [
+      "S12aMqMhGKE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=S12aMqMhGKE&t=2s",
+    "download_url": "http://www.mediafire.com/file/1a1u59927o23mi2/Ngaji+Filsafat+Rutin+MJS+21-22-23.rar"
+  },
+  {
+    "id": "b9680c68-8117-43cc-9c3a-8cb1ae58fcd2",
+    "episode": 23,
+    "date": "2013-12-18T00:00:00.881Z",
+    "title": "Relativisme, Altruisme, Egoisme Dalam Etika",
+    "topic": "Etika",
+    "is_official": true,
+    "video_ids": [
+      "pUUtAFN0fdI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=pUUtAFN0fdI",
+    "download_url": "http://www.mediafire.com/file/1a1u59927o23mi2/Ngaji+Filsafat+Rutin+MJS+21-22-23.rar"
+  },
+  {
+    "id": "bc81e4ee-2a15-44d1-85db-6950f50dad01",
+    "episode": 24,
+    "date": "2013-12-25T00:00:00.881Z",
+    "title": "Al Ghazali - Religious Ethics dan Filsafat Akhlak",
+    "topic": "Etika",
+    "is_official": true,
+    "video_ids": [
+      "ZMxaykZ6cX8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ZMxaykZ6cX8&t=2s",
+    "download_url": "http://www.mediafire.com/file/1a1u59927o23mi2/Ngaji+Filsafat+Rutin+MJS+21-22-23.rar"
+  },
+  {
+    "id": "e96bbbf9-6432-4fbb-9c92-0189ea2257ea",
+    "episode": 25,
+    "date": "2014-01-01T00:00:00.881Z",
+    "title": "Etika Situasi",
+    "topic": "Etika",
+    "is_official": true,
+    "video_ids": [
+      "SwQFLxbHzqI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=SwQFLxbHzqI",
+    "download_url": "http://www.mediafire.com/download/ctd93ot95s3nvay/Ngaji_Filsafat_Rutin_MJS_24-25-26.rar"
+  },
+  {
+    "id": "6bc5b7f8-e7c9-44f7-99a0-377ac2961be3",
+    "episode": 26,
+    "date": "2014-01-08T00:00:00.881Z",
+    "title": "Pengantar Estetika",
+    "topic": "Estetika",
+    "is_official": true,
+    "video_ids": [
+      "ypdJ8bbNBIY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ypdJ8bbNBIY",
+    "download_url": "http://www.mediafire.com/download/ctd93ot95s3nvay/Ngaji_Filsafat_Rutin_MJS_24-25-26.rar"
+  },
+  {
+    "id": "50c471e7-81af-43ee-8992-868b55c1ab78",
+    "episode": 27,
+    "date": "2014-01-15T00:00:00.881Z",
+    "title": "Teori-teori Estetika",
+    "topic": "Estetika",
+    "is_official": true,
+    "video_ids": [
+      "laEa7kEoqNs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=laEa7kEoqNs",
+    "download_url": "http://www.mediafire.com/download/ctd93ot95s3nvay/Ngaji_Filsafat_Rutin_MJS_24-25-26.rar"
+  },
+  {
+    "id": "064d55e6-4df8-4a85-8789-e990880d5943",
+    "episode": 28,
+    "date": "2014-01-29T00:00:00.881Z",
+    "title": "Estetika dan Agama",
+    "topic": "Estetika",
+    "is_official": true,
+    "video_ids": [
+      "_iN__7NgCwk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=_iN__7NgCwk",
+    "download_url": "http://www.mediafire.com/download/d71dldih7f4j6z7/Ngaji_Filsafat_Rutin_MJS_27.rar"
+  },
+  {
+    "id": "b508b5df-c907-406a-a2b4-28e9460b9100",
+    "episode": 29,
+    "date": "2014-02-12T00:00:00.881Z",
+    "title": "Romantisisme 1 - Pengantar",
+    "topic": "Romantisisme",
+    "is_official": true,
+    "video_ids": [
+      "d-jsY1Hh2yQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=d-jsY1Hh2yQ",
+    "download_url": "http://www.mediafire.com/download/e3rwk4eo3cz1789/Ngaji_Filsafat_Rutin_MJS_28.rar"
+  },
+  {
+    "id": "926163bf-0ec8-4f7f-b51c-d4fca78041f0",
+    "episode": 30,
+    "date": "2014-02-19T00:00:00.881Z",
+    "title": "Romantisisme 1 - Jean Jacques Rousseau",
+    "topic": "Romantisisme",
+    "is_official": true,
+    "video_ids": [
+      "JD1PqCzyWYM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=JD1PqCzyWYM",
+    "download_url": "http://www.mediafire.com/download/o4cs18murh28fgk/Ngaji_Filsafat_Rutin_MJS_29.rar"
+  },
+  {
+    "id": "c6c0f018-9346-4a8c-bff4-b52cec4f197d",
+    "episode": 31,
+    "date": "2014-02-26T00:00:00.881Z",
+    "title": "Eksistensialisme Søren Kierkegaard",
+    "topic": "Eksistensialisme",
+    "is_official": true,
+    "video_ids": [
+      "2iL8Y9mAkig"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=2iL8Y9mAkig&t=5222s",
+    "download_url": "http://www.mediafire.com/download/ayqdm28pybqrz3f/Ngaji_Filsafat_Rutin_MJS_30.rar"
+  },
+  {
+    "id": "99925ca1-8697-49b0-a082-a95d8a8e4d81",
+    "episode": 32,
+    "date": "2014-03-05T00:00:00.881Z",
+    "title": "Eksistensialisme &#8211; Friedrich Nietzsche",
+    "topic": "Eksistensialisme",
+    "is_official": true,
+    "video_ids": [
+      "cVqjyAcMhkM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=cVqjyAcMhkM&t=3s",
+    "download_url": "http://www.mediafire.com/download/6y455oha2f67q1a/Ngaji_Filsafat_Rutin_MJS_31-33_(Seadanya).rar"
+  },
+  {
+    "id": "47a45b9c-5272-44dc-8fe4-f5a06aa21d2a",
+    "episode": 33,
+    "date": "2014-03-12T00:00:00.881Z",
+    "title": "Eksistensialisme &#8211; Jean Paul Sartre",
+    "topic": "Eksistensialisme",
+    "is_official": false,
+    "video_ids": [
+      "AodFzKWc_Ko"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=AodFzKWc_Ko",
+    "download_url": "http://www.mediafire.com/download/6y455oha2f67q1a/Ngaji_Filsafat_Rutin_MJS_31-33_(Seadanya).rar"
+  },
+  {
+    "id": "02fb2e74-afce-4bc0-8dbc-4e0c89be7207",
+    "episode": 34,
+    "date": "2014-03-19T00:00:00.881Z",
+    "title": "Eksistensialisme &#8211; Muhammad Iqbal",
+    "topic": "Eksistensialisme",
+    "is_official": true,
+    "video_ids": [
+      "cI-EeecK9YM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=cI-EeecK9YM",
+    "download_url": "http://www.mediafire.com/download/6y455oha2f67q1a/Ngaji_Filsafat_Rutin_MJS_31-33_(Seadanya).rar"
+  },
+  {
+    "id": "bf13de9c-5b75-46e1-84d8-5d5dcb041be7",
+    "episode": 35,
+    "date": "2014-03-26T00:00:00.881Z",
+    "title": "Fenomenologi &#8211; Edmund Husserl",
+    "topic": "Fenomenologi",
+    "is_official": true,
+    "video_ids": [
+      "qri56L4VAPU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qri56L4VAPU&t=255s",
+    "download_url": "http://www.mediafire.com/download/mv5y477btos0fql/Ngaji_Filsafat_Rutin_MJS_35-38.rar"
+  },
+  {
+    "id": "1f21401a-d233-4b88-a280-a81c9f357ab3",
+    "episode": 36,
+    "date": "2014-04-02T00:00:00.881Z",
+    "title": "Fenomenologi &#8211; Martin Heidegger",
+    "topic": "Fenomenologi",
+    "is_official": true,
+    "video_ids": [
+      "tIlssY9XqcY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=tIlssY9XqcY",
+    "download_url": "http://www.mediafire.com/download/mv5y477btos0fql/Ngaji_Filsafat_Rutin_MJS_35-38.rar"
+  },
+  {
+    "id": "638851f6-0251-4dea-a1c7-a8f5f8e6dca5",
+    "episode": 37,
+    "date": "2014-04-09T00:00:00.881Z",
+    "title": "Filsafat Islam - Pra Wacana",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "ccB5H3C2Oq0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ccB5H3C2Oq0&t=1s",
+    "download_url": "http://www.mediafire.com/download/mv5y477btos0fql/Ngaji_Filsafat_Rutin_MJS_35-38.rar"
+  },
+  {
+    "id": "fc15453e-64e0-429a-bb8b-52602536779d",
+    "episode": 38,
+    "date": "2014-04-16T00:00:00.881Z",
+    "title": "Al Kindi",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "OHwRhGEH-Bg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=OHwRhGEH-Bg&t=2s",
+    "download_url": "http://www.mediafire.com/download/mv5y477btos0fql/Ngaji_Filsafat_Rutin_MJS_35-38.rar"
+  },
+  {
+    "id": "c3e453d8-5f04-4df4-860c-e68950035ff7",
+    "episode": 39,
+    "date": "2014-04-23T00:00:00.881Z",
+    "title": "Al Farabi",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "HxLTXIu7_Vw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=HxLTXIu7_Vw&t=1s",
+    "download_url": "http://www.mediafire.com/download/qk73lyknfznwlbb/Ngaji_Filsafat_Rutin_MJS_39-40-41.rar"
+  },
+  {
+    "id": "3dfbeaee-fdae-44bb-802b-6b4b2a5ced14",
+    "episode": 40,
+    "date": "2014-04-30T00:00:00.881Z",
+    "title": "Ibnu Sina",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "6UqHJuP9X5Q"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6UqHJuP9X5Q&t=1s",
+    "download_url": "http://www.mediafire.com/download/qk73lyknfznwlbb/Ngaji_Filsafat_Rutin_MJS_39-40-41.rar"
+  },
+  {
+    "id": "0291db78-0386-425a-a222-a0e77c682117",
+    "episode": 41,
+    "date": "2014-05-07T00:00:00.881Z",
+    "title": "Al Ghazali",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "I8rqL8BKZ-4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=I8rqL8BKZ-4&t=4s",
+    "download_url": "http://www.mediafire.com/download/qk73lyknfznwlbb/Ngaji_Filsafat_Rutin_MJS_39-40-41.rar"
+  },
+  {
+    "id": "0ab0c302-2988-498f-aa07-46b9b1fca4d9",
+    "episode": 42,
+    "date": "2014-05-14T00:00:00.881Z",
+    "title": "Ibnu Bajah",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "ie6SKndJ3hk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ie6SKndJ3hk&t=1s",
+    "download_url": "http://www.mediafire.com/download/j9c767k8uxfbkdn/42-Ibnu_Bajah.rar"
+  },
+  {
+    "id": "1ae7827b-5423-44fb-8939-2f066e7fb383",
+    "episode": 43,
+    "date": "2014-05-21T00:00:00.881Z",
+    "title": "Ibnu Thufail",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "Vq_xpszOMTA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Vq_xpszOMTA&t=1s",
+    "download_url": "http://www.mediafire.com/download/ej942l41c7ydlha/43-Ibnu_Thufail.rar"
+  },
+  {
+    "id": "ec673130-0ddc-485f-af26-2765e8207b2c",
+    "episode": 44,
+    "date": "2014-05-28T00:00:00.881Z",
+    "title": "Ibnu Rusyd",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "H4JBZDUp6LQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=H4JBZDUp6LQ",
+    "download_url": null
+  },
+  {
+    "id": "0e705173-5344-44b6-bf3d-afba0dfbe821",
+    "episode": 45,
+    "date": "2014-06-04T00:00:00.881Z",
+    "title": "Ibnu Khaldun",
+    "topic": "Filsafat Islam",
+    "is_official": true,
+    "video_ids": [
+      "ZtX81r3ooLE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ZtX81r3ooLE&t=15s",
+    "download_url": "http://www.mediafire.com/listen/dhyq0a9k5pw9ty7/Ngaji_Filsafat_MJS_45_Ibnu_Khaldun_FFaiz_U.mp3"
+  },
+  {
+    "id": "0593e31c-e010-4fe3-a01e-ebf3512c8faf",
+    "episode": 46,
+    "date": "2014-09-03T00:00:00.881Z",
+    "title": "Renaissance dan Aufklärung",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "MsvrbulfX1c"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=MsvrbulfX1c",
+    "download_url": "http://www.mediafire.com/file/mf8e9xfev619g9h/46._Ngaji_Filsafat_Rutin_MJS_392014_FFaiz.mp3/file"
+  },
+  {
+    "id": "c0e7dadc-d09d-4314-81e6-3c803d0a8a74",
+    "episode": 47,
+    "date": "2014-09-10T00:00:00.881Z",
+    "title": "Humanisme",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "TuMfeCOIPhA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=TuMfeCOIPhA",
+    "download_url": "http://www.mediafire.com/download/x3bvmxmg3o7kahg/47._Ngaji_Filsafat_Rutin_MJS.rar"
+  },
+  {
+    "id": "74bfe507-6b6e-4030-8892-7e5b7e1b21e1",
+    "episode": 48,
+    "date": "2014-09-17T00:00:00.881Z",
+    "title": "Niccolo Machiavelli",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "_T041VI4GR8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=_T041VI4GR8",
+    "download_url": "http://www.mediafire.com/file/4z1u9cgimdzumzl/48._Ngaji_Filsafat_Rutin_MJS.rar/file"
+  },
+  {
+    "id": "62de3f8a-4c45-4476-ad5f-9894f9be4c06",
+    "episode": 49,
+    "date": "2014-09-24T00:00:00.881Z",
+    "title": "Voltaire",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "Q92yfxxtE3o"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Q92yfxxtE3o",
+    "download_url": "http://www.mediafire.com/file/ykmd7t361mnm944/Ngaji_Filsafat_Rutin_MJS_49-50-51.rar/file"
+  },
+  {
+    "id": "d0bfc9b0-f4d9-474a-8414-f0af6414f123",
+    "episode": 50,
+    "date": "2014-10-01T00:00:00.881Z",
+    "title": "Auguste Comte",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "WVsbK1wuOG8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=WVsbK1wuOG8",
+    "download_url": "http://www.mediafire.com/download/ykmd7t361mnm944/Ngaji_Filsafat_Rutin_MJS_49-50-51.rar"
+  },
+  {
+    "id": "3c6a6e5a-c90b-4cfa-aa7b-026b35ce7806",
+    "episode": 51,
+    "date": "2014-10-08T00:00:00.881Z",
+    "title": "Charles Darwin",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "m0V08ozIYlw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=m0V08ozIYlw&t=40s",
+    "download_url": "http://www.mediafire.com/download/ykmd7t361mnm944/Ngaji_Filsafat_Rutin_MJS_49-50-51.rar"
+  },
+  {
+    "id": "a56b185c-8fb7-4557-83c4-8f081a04b0f5",
+    "episode": 52,
+    "date": "2014-10-15T00:00:00.881Z",
+    "title": "Sigmund Freud",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "Q6-DKORifPU"
+    ],
+    "video_url": "https://youtu.be/Q6-DKORifPU",
+    "download_url": "http://www.mediafire.com/download/q8vebc8qgz75dct/Ngaji_Filsafat_Rutin_MJS_52-53-54.rar"
+  },
+  {
+    "id": "283abe80-cc65-41cc-b418-f207c94f70c0",
+    "episode": 53,
+    "date": "2014-10-22T00:00:00.881Z",
+    "title": "William James",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "X3V01dknArQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=X3V01dknArQ&t=12s",
+    "download_url": "http://www.mediafire.com/file/q8vebc8qgz75dct/Ngaji_Filsafat_Rutin_MJS_52-53-54.rar/file"
+  },
+  {
+    "id": "981d0c1e-d755-4c6a-bbde-d80db0ed11fa",
+    "episode": 54,
+    "date": "2014-10-29T00:00:00.881Z",
+    "title": "Karl Marx",
+    "topic": "Filsafat Barat Modern",
+    "is_official": true,
+    "video_ids": [
+      "EFjxSTnPWlM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=EFjxSTnPWlM&t=14s",
+    "download_url": "http://www.mediafire.com/download/q8vebc8qgz75dct/Ngaji_Filsafat_Rutin_MJS_52-53-54.rar"
+  },
+  {
+    "id": "e3aaaba0-b96d-491d-bcee-2784c0c21cca",
+    "episode": 55,
+    "date": "2014-11-05T00:00:00.881Z",
+    "title": "Pengantar Tradisi Illuminasi",
+    "topic": "Filsafat Islam (Tradisi Illuminasi)",
+    "is_official": true,
+    "video_ids": [
+      "3k74daE5JaE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=3k74daE5JaE&t=12s",
+    "download_url": "http://www.mediafire.com/file/algjlisjaru6l69/Ngaji_Filsafat_Rutin_MJS_55-56.rar/file"
+  },
+  {
+    "id": "a8aff3dd-dfde-43af-a640-5d2ade45bfee",
+    "episode": 56,
+    "date": "2014-11-12T00:00:00.881Z",
+    "title": "Suhrawardi",
+    "topic": "Filsafat Islam (Tradisi Illuminasi)",
+    "is_official": true,
+    "video_ids": [
+      "R8iHRwhA5sQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=R8iHRwhA5sQ&t=4011s",
+    "download_url": "http://www.mediafire.com/file/algjlisjaru6l69/Ngaji_Filsafat_Rutin_MJS_55-56.rar/file"
+  },
+  {
+    "id": "aa892e24-6b7b-4969-9a42-4d9229d80c39",
+    "episode": 57,
+    "date": "2014-11-19T00:00:00.881Z",
+    "title": "Ibnu Arabi",
+    "topic": "Filsafat Islam (Tradisi Illuminasi)",
+    "is_official": true,
+    "video_ids": [
+      "mVemLbbZR5M"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=mVemLbbZR5M&t=3s",
+    "download_url": "http://www.mediafire.com/download/4tg1aad55e6mszf/Ngaji_Filsafat_Rutin_MJS_57-58.rar"
+  },
+  {
+    "id": "e58a9085-2ba0-47e3-90e3-3a71bd494f5b",
+    "episode": 58,
+    "date": "2014-11-26T00:00:00.881Z",
+    "title": "Mulla Sadra",
+    "topic": "Filsafat Islam (Tradisi Illuminasi)",
+    "is_official": true,
+    "video_ids": [
+      "KiyacA84dE8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=KiyacA84dE8",
+    "download_url": "http://www.mediafire.com/file/4tg1aad55e6mszf/Ngaji_Filsafat_Rutin_MJS_57-58.rar/file"
+  },
+  {
+    "id": "5f55e4dd-d281-40c9-a541-1103012a5d86",
+    "episode": 60,
+    "date": "2014-12-03T00:00:00.881Z",
+    "title": "Pengantar Postmodernisme",
+    "topic": "Posmodernisme",
+    "is_official": true,
+    "video_ids": [
+      "GQ6PZHGlTFg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=GQ6PZHGlTFg&t=3s",
+    "download_url": "http://www.mediafire.com/download/plvenwv1ad9p88e/Ngaji_Filsafat_Rutin_MJS_59.rar"
+  },
+  {
+    "id": "ee74c093-476f-4d9c-a160-0c9bc27bfc80",
+    "episode": 61,
+    "date": "2014-12-17T00:00:00.881Z",
+    "title": "Richard Rorty",
+    "topic": "Posmodernisme",
+    "is_official": true,
+    "video_ids": [
+      "i1zqOczsqJo"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=i1zqOczsqJo",
+    "download_url": "http://www.mediafire.com/download/ll11o1egnr9ti5s/Ngaji_Filsafat_Rutin_61-62.rar"
+  },
+  {
+    "id": "5a72a57c-088a-492f-9892-71f0c5b94a18",
+    "episode": 62,
+    "date": "2014-12-24T00:00:00.881Z",
+    "title": "Jacques Derrida",
+    "topic": "Posmodernisme",
+    "is_official": true,
+    "video_ids": [
+      "1GT3V-HfyWo"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=1GT3V-HfyWo",
+    "download_url": "http://www.mediafire.com/download/ll11o1egnr9ti5s/Ngaji_Filsafat_Rutin_61-62.rar"
+  },
+  {
+    "id": "df05d8fc-e1fb-40e8-96ac-699db32b99ea",
+    "episode": 63,
+    "date": "2015-01-14T00:00:00.881Z",
+    "title": "Pierre Bourdieu",
+    "topic": "Posmodernisme",
+    "is_official": true,
+    "video_ids": [
+      "hz1WOkzV-Ws"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hz1WOkzV-Ws",
+    "download_url": "http://www.mediafire.com/download/1qj635qdl5pjmnu/Ngaji_Filsafat_Rutin_MJS_63-66.rar"
+  },
+  {
+    "id": "02ebbd1f-38f7-416f-8073-142f860b2553",
+    "episode": 64,
+    "date": "2015-01-21T00:00:00.881Z",
+    "title": "Jean Baudrillard",
+    "topic": "Posmodernisme",
+    "is_official": true,
+    "video_ids": [
+      "sYZNowCv6L4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=sYZNowCv6L4",
+    "download_url": "http://www.mediafire.com/download/1qj635qdl5pjmnu/Ngaji_Filsafat_Rutin_MJS_63-66.rar"
+  },
+  {
+    "id": "d633edb8-f1f8-49c5-b7e8-d0750c09db3f",
+    "episode": 65,
+    "date": "2015-01-28T00:00:00.881Z",
+    "title": "Pengantar Filsafat Timur",
+    "topic": "Filsafat Timur",
+    "is_official": true,
+    "video_ids": [
+      "hoJh30lQZyc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hoJh30lQZyc&t=8s",
+    "download_url": "http://www.mediafire.com/download/1qj635qdl5pjmnu/Ngaji_Filsafat_Rutin_MJS_63-66.rar"
+  },
+  {
+    "id": "8a4cab66-6347-4a1a-977c-7af0e797543f",
+    "episode": 66,
+    "date": "2015-02-11T00:00:00.881Z",
+    "title": "Taoisme",
+    "topic": "Filsafat Timur",
+    "is_official": true,
+    "video_ids": [
+      "bc0IAAjYe3g"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=bc0IAAjYe3g&t=14s",
+    "download_url": "http://www.mediafire.com/download/1qj635qdl5pjmnu/Ngaji_Filsafat_Rutin_MJS_63-66.rar"
+  },
+  {
+    "id": "7e30e25f-1d82-442c-ac47-fcabe18e971f",
+    "episode": 67,
+    "date": "2015-02-18T00:00:00.881Z",
+    "title": "Konfusianisme",
+    "topic": "Filsafat Timur",
+    "is_official": true,
+    "video_ids": [
+      "IoiG-oekXSE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=IoiG-oekXSE",
+    "download_url": "http://www.mediafire.com/download/2uh4lg1lw3ta9xb/Ngaji_Filsafat_Rutin_MJS_67-68.rar"
+  },
+  {
+    "id": "17c0deda-4d2f-4896-b018-27e1b6191c60",
+    "episode": 68,
+    "date": "2015-02-25T00:00:00.881Z",
+    "title": "Filsafat Perang Sun Tsu",
+    "topic": "Filsafat Timur",
+    "is_official": true,
+    "video_ids": [
+      "cxNoKkM5ajg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=cxNoKkM5ajg",
+    "download_url": "http://www.mediafire.com/download/2uh4lg1lw3ta9xb/Ngaji_Filsafat_Rutin_MJS_67-68.rar"
+  },
+  {
+    "id": "2c6e82fb-d9d1-4f00-a356-46ac7c8d621a",
+    "episode": 69,
+    "date": "2015-03-04T00:00:00.881Z",
+    "title": "Hans-Georg Gadamer",
+    "topic": "Posmodernisme #2",
+    "is_official": true,
+    "video_ids": [
+      "0dmy409DeFg"
+    ],
+    "video_url": "https://youtu.be/0dmy409DeFg",
+    "download_url": "http://www.mediafire.com/download/atxuuvwtnz304bo/Ngaji_Filsafat_Rutin_MJS_69-70.rar"
+  },
+  {
+    "id": "2f743db6-a277-4139-8c9a-b9245821eec4",
+    "episode": 70,
+    "date": "2015-03-11T00:00:00.881Z",
+    "title": "Paul Ricoeur",
+    "topic": "Posmodernisme #2",
+    "is_official": true,
+    "video_ids": [
+      "L7uH_3CnK3A"
+    ],
+    "video_url": "https://youtu.be/L7uH_3CnK3A",
+    "download_url": "http://www.mediafire.com/download/atxuuvwtnz304bo/Ngaji_Filsafat_Rutin_MJS_69-70.rar"
+  },
+  {
+    "id": "8ac6d343-12e5-49d2-8bb3-9a7ea80fd22a",
+    "episode": 71,
+    "date": "2015-03-18T00:00:00.881Z",
+    "title": "Filsafat India",
+    "topic": "Filsafat India",
+    "is_official": true,
+    "video_ids": [
+      "-fCH0jl2-68"
+    ],
+    "video_url": "https://youtu.be/-fCH0jl2-68",
+    "download_url": "http://www.mediafire.com/download/gf8bkugzezps1bu/Ngaji_Filsafat_Rutin_MJS_71-72-73.rar"
+  },
+  {
+    "id": "ea99ee68-0a29-4e6c-a9c8-52bbb2e90316",
+    "episode": 72,
+    "date": "2015-03-25T00:00:00.881Z",
+    "title": "Hinduisme",
+    "topic": "Filsafat India",
+    "is_official": true,
+    "video_ids": [
+      "1hrYEuhbYP0"
+    ],
+    "video_url": "https://youtu.be/1hrYEuhbYP0",
+    "download_url": "http://www.mediafire.com/download/gf8bkugzezps1bu/Ngaji_Filsafat_Rutin_MJS_71-72-73.rar"
+  },
+  {
+    "id": "c99eae9c-2a60-40dd-9bb9-aba10ece2eb6",
+    "episode": 73,
+    "date": "2015-04-01T00:00:00.881Z",
+    "title": "Budhisme",
+    "topic": "Filsafat India",
+    "is_official": true,
+    "video_ids": [
+      "Xh0wReYRM8A"
+    ],
+    "video_url": "https://youtu.be/Xh0wReYRM8A",
+    "download_url": "http://www.mediafire.com/download/gf8bkugzezps1bu/Ngaji_Filsafat_Rutin_MJS_71-72-73.rar"
+  },
+  {
+    "id": "9ea99c67-8db2-4674-839c-e558dd9a9eaf",
+    "episode": 74,
+    "date": "2015-05-06T00:00:00.881Z",
+    "title": "Mahatma Gandhi",
+    "topic": "Filsafat India",
+    "is_official": true,
+    "video_ids": [
+      "C4RWJ2EmR0c"
+    ],
+    "video_url": "https://youtu.be/C4RWJ2EmR0c",
+    "download_url": "http://www.mediafire.com/download/efqm1siyzymd7xy/Ngaji_Filsafat_Rutin_MJS_74-75.rar"
+  },
+  {
+    "id": "b688c682-9572-4a0b-a518-24b65d9e70a6",
+    "episode": 75,
+    "date": "2015-05-13T00:00:00.881Z",
+    "title": "Atheisme",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "9R2fW8ZI7d4"
+    ],
+    "video_url": "https://youtu.be/9R2fW8ZI7d4",
+    "download_url": "http://www.mediafire.com/download/efqm1siyzymd7xy/Ngaji_Filsafat_Rutin_MJS_74-75.rar"
+  },
+  {
+    "id": "e2882771-21bc-470d-af1c-bcde24ce1ba8",
+    "episode": 76,
+    "date": "2015-05-20T00:00:00.881Z",
+    "title": "Agnostik",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "A0GQkUBws3o"
+    ],
+    "video_url": "https://youtu.be/A0GQkUBws3o",
+    "download_url": "http://www.mediafire.com/download/93doacuqn3b6fvx/Ngaji_Filsafat_Rutin_MJS_76-77-78.rar"
+  },
+  {
+    "id": "5b83ed6d-30d7-4ae9-8d07-71d4aa34aaf7",
+    "episode": 77,
+    "date": "2015-05-27T00:00:00.881Z",
+    "title": "Teodisi",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "3fYHb4tN-0s"
+    ],
+    "video_url": "https://youtu.be/3fYHb4tN-0s",
+    "download_url": "http://www.mediafire.com/download/93doacuqn3b6fvx/Ngaji_Filsafat_Rutin_MJS_76-77-78.rar"
+  },
+  {
+    "id": "926bb111-f38a-49b7-a1c6-aebe95321951",
+    "episode": 78,
+    "date": "2015-06-03T00:00:00.881Z",
+    "title": "Argumen Logis Adanya Tuhan",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "nz0zyDN9Wvs"
+    ],
+    "video_url": "https://youtu.be/nz0zyDN9Wvs",
+    "download_url": "http://www.mediafire.com/download/93doacuqn3b6fvx/Ngaji_Filsafat_Rutin_MJS_76-77-78.rar"
+  },
+  {
+    "id": "6cf745b2-ed21-4a6c-9f4a-8f870b4b3e34",
+    "episode": 79,
+    "date": "2015-09-09T00:00:00.881Z",
+    "title": "Ontologi Ketuhanan",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "8Bv7yeXZnHQ"
+    ],
+    "video_url": "https://youtu.be/8Bv7yeXZnHQ",
+    "download_url": "http://www.mediafire.com/download/v13yc05r746qdcy/79._ONTOTEOLOGI.rar"
+  },
+  {
+    "id": "2944defa-b0e0-48cd-a2d6-290921adc716",
+    "episode": 80,
+    "date": "2015-09-16T00:00:00.881Z",
+    "title": "Neoatheisme",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "qgcMGdqkILM"
+    ],
+    "video_url": "https://youtu.be/qgcMGdqkILM",
+    "download_url": "http://www.mediafire.com/download/ski11na41sdlgak/80._NEOATHEISME.rar"
+  },
+  {
+    "id": "a074595e-8894-4223-b19d-da758241512f",
+    "episode": 81,
+    "date": "2015-09-30T00:00:00.881Z",
+    "title": "A History of God &#8211; Karen Amstrong",
+    "topic": "Filsafat Ketuhanan",
+    "is_official": true,
+    "video_ids": [
+      "7ZWI-3EoYR0"
+    ],
+    "video_url": "https://youtu.be/7ZWI-3EoYR0",
+    "download_url": "http://www.mediafire.com/download/3hpmmlu32ij4nui/81._History_Of_God.rar"
+  },
+  {
+    "id": "5f40a09b-a74c-4009-8c19-30b3af4caf31",
+    "episode": 82,
+    "date": "2015-10-07T00:00:00.881Z",
+    "title": "Pengantar Filsafat Jepang",
+    "topic": "Filsafat Jepang",
+    "is_official": true,
+    "video_ids": [
+      "bWNkVp-emJQ"
+    ],
+    "video_url": "https://youtu.be/bWNkVp-emJQ",
+    "download_url": "http://www.mediafire.com/download/js5cdyrzjc64cvl/82._FILSAFAT_JEPANG.rar"
+  },
+  {
+    "id": "a9ffb37a-b1a6-4740-bf26-f6c26afcc51b",
+    "episode": 83,
+    "date": "2015-10-14T00:00:00.881Z",
+    "title": "Zen Budhisme",
+    "topic": "Filsafat Jepang",
+    "is_official": true,
+    "video_ids": [
+      "eBv-Q5qlGgk"
+    ],
+    "video_url": "https://youtu.be/eBv-Q5qlGgk",
+    "download_url": "http://www.mediafire.com/download/nkdd3hymxxnd84p/83._ZEN_BUDDHISME.rar"
+  },
+  {
+    "id": "9ac88609-3b4c-47be-8739-cef201de74a4",
+    "episode": 84,
+    "date": "2015-10-21T00:00:00.881Z",
+    "title": "Bushido",
+    "topic": "Filsafat Jepang",
+    "is_official": true,
+    "video_ids": [
+      "sAl7XUQMTSw"
+    ],
+    "video_url": "https://youtu.be/sAl7XUQMTSw",
+    "download_url": "http://www.mediafire.com/download/qrrxmyat3akc6g5/84._BUSIDHO.rar"
+  },
+  {
+    "id": "e1fce1df-2269-4be9-923b-505e60e514e0",
+    "episode": 85,
+    "date": "2015-10-28T00:00:00.881Z",
+    "title": "Kahlil Gibran",
+    "topic": "Para Pujangga",
+    "is_official": true,
+    "video_ids": [
+      "RxlRB3Y19Vs"
+    ],
+    "video_url": "https://youtu.be/RxlRB3Y19Vs",
+    "download_url": "http://www.mediafire.com/download/eq9vcxtxdctp3s9/85._KAHLIL_GIBRAN.rar"
+  },
+  {
+    "id": "6c6b4639-80fe-41e0-a5be-8f0f83dba74c",
+    "episode": 86,
+    "date": "2015-11-04T00:00:00.881Z",
+    "title": "Rabindranath Tagore",
+    "topic": "Para Pujangga",
+    "is_official": true,
+    "video_ids": [
+      "uM4YKxL62rs"
+    ],
+    "video_url": "https://youtu.be/uM4YKxL62rs",
+    "download_url": "http://www.mediafire.com/download/u6ggljqocc7ypxk/86._TAGORE.rar"
+  },
+  {
+    "id": "246e339e-240b-48df-b50d-518efff2848e",
+    "episode": 87,
+    "date": "2015-11-11T00:00:00.881Z",
+    "title": "Johann Wolfgang von Goethe",
+    "topic": "Para Pujangga",
+    "is_official": true,
+    "video_ids": [
+      "6Uof-YDCfgk"
+    ],
+    "video_url": "https://youtu.be/6Uof-YDCfgk",
+    "download_url": "http://www.mediafire.com/download/ho9h5fzkaupab4h/87._GOUTHE.rar"
+  },
+  {
+    "id": "f3194252-3961-4d62-8156-a6a53b66a9f3",
+    "episode": 88,
+    "date": "2015-11-18T00:00:00.881Z",
+    "title": "Hazrat Inayat Khan",
+    "topic": "Para Pujangga",
+    "is_official": true,
+    "video_ids": [
+      "OzmzFw25ACc"
+    ],
+    "video_url": "https://youtu.be/OzmzFw25ACc",
+    "download_url": "http://www.mediafire.com/download/kcwl3luzdgeikkv/88._HAZRAT_INAYAT_KHAN.rar"
+  },
+  {
+    "id": "9822aa31-2ac9-4251-823d-4264d3940233",
+    "episode": 89,
+    "date": "2015-11-25T00:00:00.881Z",
+    "title": "Ronggowarsito",
+    "topic": "Para Pujangga",
+    "is_official": true,
+    "video_ids": [
+      "NMlLQSSRJfM"
+    ],
+    "video_url": "https://youtu.be/NMlLQSSRJfM",
+    "download_url": "http://www.mediafire.com/download/okv8amn71jy911k/89._RANGGAWARSITO.rar"
+  },
+  {
+    "id": "79f4f650-af0b-4b13-afa0-ef813d38857d",
+    "episode": 90,
+    "date": "2015-12-02T00:00:00.881Z",
+    "title": "Hannah Arendt",
+    "topic": "Filosof Perempuan",
+    "is_official": true,
+    "video_ids": [
+      "ikgMYx05n4Y"
+    ],
+    "video_url": "https://youtu.be/ikgMYx05n4Y",
+    "download_url": "http://www.mediafire.com/download/wnt4jjl7v57h7rp/90._HANAH_ARENT.rar"
+  },
+  {
+    "id": "d9ccb19d-b8d7-4c13-8515-86b6c55db1df",
+    "episode": 91,
+    "date": "2015-12-09T00:00:00.881Z",
+    "title": "Julia Kristeva",
+    "topic": "Filosof Perempuan",
+    "is_official": true,
+    "video_ids": [
+      "BiHAos4Gtl4"
+    ],
+    "video_url": "https://youtu.be/BiHAos4Gtl4",
+    "download_url": "http://www.mediafire.com/download/0z1s0sh4cgr3bfz/91._JULIA_KRISTEVA.rar"
+  },
+  {
+    "id": "ae94b156-68b1-42d8-a161-66160db04810",
+    "episode": 92,
+    "date": "2015-12-16T00:00:00.881Z",
+    "title": "Simone de Beauvoir",
+    "topic": "Filosof Perempuan",
+    "is_official": true,
+    "video_ids": [
+      "sPYuCT_4YXk"
+    ],
+    "video_url": "https://youtu.be/sPYuCT_4YXk",
+    "download_url": null
+  },
+  {
+    "id": "160fdc15-dbbb-4fac-9cff-3f3093a8d469",
+    "episode": 93,
+    "date": "2015-12-23T00:00:00.881Z",
+    "title": "Ayn Rand",
+    "topic": "Filosof Perempuan",
+    "is_official": true,
+    "video_ids": [
+      "FH6uFBAhZEA"
+    ],
+    "video_url": "https://youtu.be/FH6uFBAhZEA",
+    "download_url": "http://www.mediafire.com/download/69snyli3hm14j2j/93._AYN_RAND.rar"
+  },
+  {
+    "id": "727e7df9-8b10-4d1f-8d49-0f483b34eab4",
+    "episode": 94,
+    "date": "2015-12-29T00:00:00.881Z",
+    "title": "Filsafat Kebahagiaan",
+    "topic": "Tema Sisipan",
+    "is_official": true,
+    "video_ids": [
+      "FI21ls467m8"
+    ],
+    "video_url": "https://youtu.be/FI21ls467m8",
+    "download_url": "http://www.mediafire.com/download/n2rfaslbuwzggv3/94._FILSAFAT_KEBAHAGIAAN.rar"
+  },
+  {
+    "id": "8c4ec6b3-c83c-4bbb-ba11-dc1373948108",
+    "episode": 95,
+    "date": "2016-01-06T00:00:00.881Z",
+    "title": "Manusia Langit Zarathustra",
+    "topic": "Manusia Langit",
+    "is_official": true,
+    "video_ids": [
+      "VOYNTzgZzlA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=VOYNTzgZzlA",
+    "download_url": "http://www.mediafire.com/download/1pkqoh5mkvgaar8/95._ZARATHUSTRA.rar"
+  },
+  {
+    "id": "af06991e-973f-4c68-b3d3-9723b6b45e13",
+    "episode": 96,
+    "date": "2016-01-13T00:00:00.881Z",
+    "title": "Manusia Langit Isa",
+    "topic": "Manusia Langit",
+    "is_official": true,
+    "video_ids": [
+      "x4bIF3KyNbU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=x4bIF3KyNbU",
+    "download_url": "http://www.mediafire.com/download/fku5s36cccur1tx/96._ISA_AS.rar"
+  },
+  {
+    "id": "4143ef4b-d969-4cab-8c4c-d1a8c790d9e2",
+    "episode": 97,
+    "date": "2016-01-20T00:00:00.881Z",
+    "title": "Manusia Langit Krisna",
+    "topic": "Manusia Langit",
+    "is_official": true,
+    "video_ids": [
+      "BuUfe9Scn7E"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=BuUfe9Scn7E",
+    "download_url": "http://www.mediafire.com/download/h87p4fudyttfsgq/97._KRISHNA.rar"
+  },
+  {
+    "id": "ac522254-9cd0-4d2c-9e7a-adeb31eb7e16",
+    "episode": 98,
+    "date": "2016-01-27T00:00:00.881Z",
+    "title": "Manusia Langit Semar",
+    "topic": "Manusia Langit",
+    "is_official": true,
+    "video_ids": [
+      "bASFLfuY0V0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=bASFLfuY0V0&t=2s",
+    "download_url": "http://www.mediafire.com/download/1ey888parp8of88/98._SEMAR.rar"
+  },
+  {
+    "id": "23affaea-1314-4505-9711-ce8f3c703478",
+    "episode": 99,
+    "date": "2016-02-03T00:00:00.881Z",
+    "title": "Liberalisme",
+    "topic": "Ideologi",
+    "is_official": true,
+    "video_ids": [
+      "_p8DWi_ZrUk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=_p8DWi_ZrUk",
+    "download_url": "http://www.mediafire.com/download/w62kbd8cws8w7ps/99._LIBERALISME.rar"
+  },
+  {
+    "id": "5a024d17-c5e8-48e1-8f11-9db5457d6e1f",
+    "episode": 100,
+    "date": "2016-02-10T00:00:00.881Z",
+    "title": "Pluralisme",
+    "topic": "Ideologi",
+    "is_official": true,
+    "video_ids": [
+      "5Vl2MFMZocY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=5Vl2MFMZocY",
+    "download_url": "http://www.mediafire.com/download/7n5b7083k7b5cv8/100._PLURALISME.rar"
+  },
+  {
+    "id": "2837e2a7-788d-4700-ba95-08cea57530d9",
+    "episode": 101,
+    "date": "2016-02-17T00:00:00.881Z",
+    "title": "Sekularisme",
+    "topic": "Ideologi",
+    "is_official": true,
+    "video_ids": [
+      "de218dLaSJU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=de218dLaSJU",
+    "download_url": "http://www.mediafire.com/download/l92kxn4h43lz5ae/101._SEKULARISME.rar"
+  },
+  {
+    "id": "f2b46025-0fd3-491b-9e78-ab77683ee57e",
+    "episode": 102,
+    "date": "2016-02-24T00:00:00.881Z",
+    "title": "Sosialisme",
+    "topic": "Ideologi",
+    "is_official": true,
+    "video_ids": [
+      "wh-jYcfdBTo"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wh-jYcfdBTo",
+    "download_url": "http://www.mediafire.com/download/4ar48uo62rzhwf3/102._SOSIALISME.rar"
+  },
+  {
+    "id": "1d27dfd4-1906-444f-9ef9-fd47893b6aed",
+    "episode": 103,
+    "date": "2016-03-02T00:00:00.881Z",
+    "title": "Filsafat Kebahagiaan Plato",
+    "topic": "Filsafat Kebahagiaan",
+    "is_official": true,
+    "video_ids": [
+      "qN4ugFgjBSU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qN4ugFgjBSU",
+    "download_url": "http://www.mediafire.com/download/1383q14ah80p3r5/103._PLATO.rar"
+  },
+  {
+    "id": "f0017b61-003c-413b-ad27-15006498bd36",
+    "episode": 104,
+    "date": "2016-03-09T00:00:00.881Z",
+    "title": "Filsafat Kebahagiaan Al Farabi",
+    "topic": "Filsafat Kebahagiaan",
+    "is_official": true,
+    "video_ids": [
+      "LxCcVvI-V24"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=LxCcVvI-V24",
+    "download_url": "http://www.mediafire.com/download/yy43c9a76aj19qa/104._AL_FARABI.rar"
+  },
+  {
+    "id": "b354f17b-b28f-41d7-bff3-bb7349899a39",
+    "episode": 105,
+    "date": "2016-03-16T00:00:00.881Z",
+    "title": "Filsafat Kebahagiaan Al Ghazali",
+    "topic": "Filsafat Kebahagiaan",
+    "is_official": true,
+    "video_ids": [
+      "dop0MrI_CsA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=dop0MrI_CsA&t=8s",
+    "download_url": "http://www.mediafire.com/download/9j3kvnpc2aa7tzl/105._AL_GHAZALI.rar"
+  },
+  {
+    "id": "14fc5c01-c88b-45c4-855a-7dd60277c277",
+    "episode": 106,
+    "date": "2016-03-23T00:00:00.881Z",
+    "title": "Filsafat Kebahagiaan Ki Ageng Suryamentaram",
+    "topic": "Filsafat Kebahagiaan",
+    "is_official": true,
+    "video_ids": [
+      "jN52p043st0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=jN52p043st0",
+    "download_url": "http://www.mediafire.com/download/ktcfpi7zx5xu2kw/106._KI_AGENG_SURYOMENTARAM.rar"
+  },
+  {
+    "id": "119a79f0-7d9e-445b-bafd-484b4c184121",
+    "episode": 107,
+    "date": "2016-04-06T00:00:00.881Z",
+    "title": "Thomas Hobbes: Leviathan",
+    "topic": "Pemikiran Politik",
+    "is_official": true,
+    "video_ids": [
+      "GWGcae4w26k"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=GWGcae4w26k",
+    "download_url": "http://www.mediafire.com/download/m2ecrd3cr204ewd/107._THOMAS_HOBBES.rar"
+  },
+  {
+    "id": "501ea514-dc6d-4484-bda4-66aeaba39a53",
+    "episode": 108,
+    "date": "2016-04-13T00:00:00.881Z",
+    "title": "Adolf Hitler: Nazizme",
+    "topic": "Pemikiran Politik",
+    "is_official": true,
+    "video_ids": [
+      "5aC1fj2vXow"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=5aC1fj2vXow&t=42s",
+    "download_url": "http://www.mediafire.com/download/7sv4g0jnmsmmx0h/108._NAZIZME.rar"
+  },
+  {
+    "id": "6a9c5173-79e2-4caf-a30c-95b76d2023d7",
+    "episode": 109,
+    "date": "2016-04-20T00:00:00.881Z",
+    "title": "Al Mawardi: Al-Ahkam Al-Sulthaniyah",
+    "topic": "Pemikiran Politik",
+    "is_official": true,
+    "video_ids": [
+      "w2STw0jFicA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=w2STw0jFicA",
+    "download_url": "http://www.mediafire.com/download/hljuhlhid9ri92q/109._AL_MAWARDI.rar"
+  },
+  {
+    "id": "02743447-9c81-4133-b7d5-0308d827c57d",
+    "episode": 110,
+    "date": "2016-04-27T00:00:00.881Z",
+    "title": "Soekarno: Marhaenisme",
+    "topic": "Pemikiran Politik",
+    "is_official": true,
+    "video_ids": [
+      "Elk42u0vQu8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Elk42u0vQu8&t=900s",
+    "download_url": "http://www.mediafire.com/download/6f9f5tlwffdfz4c/110._MARHAENISME.rar"
+  },
+  {
+    "id": "6fea0aa5-7b52-422c-a1c1-164bbf0e916c",
+    "episode": 111,
+    "date": "2016-05-04T00:00:00.881Z",
+    "title": "Martir: Socrates",
+    "topic": "Para Martir Dunia Ilmu dan Filsafat",
+    "is_official": true,
+    "video_ids": [
+      "29YX5VRtKcE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=29YX5VRtKcE",
+    "download_url": "http://www.mediafire.com/download/ihk340la6v0zjkt/111._SOCRATES.rar"
+  },
+  {
+    "id": "07b0db0b-f5a2-4816-a5bd-236430fd3990",
+    "episode": 112,
+    "date": "2016-05-11T00:00:00.881Z",
+    "title": "Martir: Al Hallaj",
+    "topic": "Para Martir Dunia Ilmu dan Filsafat",
+    "is_official": true,
+    "video_ids": [
+      "UXbE-Qtb3p0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=UXbE-Qtb3p0",
+    "download_url": "http://www.mediafire.com/file/gfzww33p8e5k0ew/112.+AL+HALLAJ.rar"
+  },
+  {
+    "id": "ee2452f3-3647-42b9-aa46-4d5cbd29f7b0",
+    "episode": 113,
+    "date": "2016-05-18T00:00:00.881Z",
+    "title": "Martir: Syekh Siti Jenar",
+    "topic": "Para Martir Dunia Ilmu dan Filsafat",
+    "is_official": true,
+    "video_ids": [
+      "mnqbXqfdhkk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=mnqbXqfdhkk",
+    "download_url": "http://www.mediafire.com/download/aj6e3kja7v13a1l/113._SYAIKH_SITI_JENAR.rar"
+  },
+  {
+    "id": "a550d8fb-59d5-471a-a5f5-19ccabb3654c",
+    "episode": 114,
+    "date": "2016-05-25T00:00:00.881Z",
+    "title": "Martir: Hypatia",
+    "topic": "Para Martir Dunia Ilmu dan Filsafat",
+    "is_official": true,
+    "video_ids": [
+      "QSeXiJPo3_0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=QSeXiJPo3_0",
+    "download_url": "http://www.mediafire.com/download/30sby6m67ymcvoy/114._HYPATIA.rar"
+  },
+  {
+    "id": "d0929098-9169-476e-af7c-e6ac8af0a6cc",
+    "episode": 115,
+    "date": "2016-08-03T00:00:00.881Z",
+    "title": "Pengantar Filsafat Kebebasan",
+    "topic": "Filsafat Kebebasan",
+    "is_official": true,
+    "video_ids": [
+      "dtghjXkC3_4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=dtghjXkC3_4&t=135s",
+    "download_url": "http://www.mediafire.com/download/dg4fv8yhh5ba2db/115._PENGANTAR_FILSAFAT_KEBEBASAN.rar"
+  },
+  {
+    "id": "39c68162-7f4b-4161-bdbb-dec2baa3fb82",
+    "episode": 116,
+    "date": "2016-08-10T00:00:00.881Z",
+    "title": "Jhon Stuart Mill: Kebebasan",
+    "topic": "Filsafat Kebebasan",
+    "is_official": true,
+    "video_ids": [
+      "rg8CXpourN4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=rg8CXpourN4",
+    "download_url": "http://www.mediafire.com/download/o7pblxhq320bc3g/116._JHON_STRUART_MILL_-"
+  },
+  {
+    "id": "832fc373-eb3b-47b9-85a2-862394bf4103",
+    "episode": 117,
+    "date": "2016-08-17T00:00:00.881Z",
+    "title": "Soekarno: Kemerdekaan",
+    "topic": "Filsafat Kebebasan",
+    "is_official": true,
+    "video_ids": [
+      "8ONpwVqGF5w"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=8ONpwVqGF5w&t=603s",
+    "download_url": "http://www.mediafire.com/file/f290ntxm8kpyffm/117.+SOEKARNO+-+KEMERDEKAAN.rar"
+  },
+  {
+    "id": "0402dfe2-443a-4534-9c78-b45595b2f095",
+    "episode": 118,
+    "date": "2016-08-24T00:00:00.881Z",
+    "title": "Abu Hasan Al-Asy’ari: Kebebasan Manusia",
+    "topic": "Filsafat Kebebasan",
+    "is_official": true,
+    "video_ids": [
+      "4ALf2Zo6xgs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=4ALf2Zo6xgs",
+    "download_url": "http://www.mediafire.com/file/fj59ybxarwh5ved/118.+ABU+HASAN+AL-ASY%E2%80%99ARI+-+KEBEBASAN+MANUSIA.rar"
+  },
+  {
+    "id": "a5abcff6-9f3e-4469-b8c7-e51e566b6fe4",
+    "episode": 119,
+    "date": "2016-08-31T00:00:00.881Z",
+    "title": "Ibnu ‘Arabi: Kebebasan",
+    "topic": "Filsafat Kebebasan",
+    "is_official": true,
+    "video_ids": [
+      "KE-97e6elTA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=KE-97e6elTA",
+    "download_url": "http://www.mediafire.com/file/zbkkkvipzxyvy8b/119.+IBNU+ARABI+-+KEBEBASAN.rar"
+  },
+  {
+    "id": "5a1b62b3-4f75-4973-a1a6-17c05709cd76",
+    "episode": 120,
+    "date": "2016-09-07T00:00:00.881Z",
+    "title": "Pengantar Filsafat Keadilan",
+    "topic": "Filsafat Keadilan",
+    "is_official": true,
+    "video_ids": [
+      "9f0kmxvnp7s"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=9f0kmxvnp7s",
+    "download_url": "http://www.mediafire.com/file/py3yhh7hiks6s8f/120.+PENGANTAR+FILSAFAT+KEADILAN.rar"
+  },
+  {
+    "id": "1584bec2-4ec1-4e7c-a6a5-d7f93aa48edf",
+    "episode": 121,
+    "date": "2016-09-14T00:00:00.881Z",
+    "title": "Keadilan Aristoteles",
+    "topic": "Filsafat Keadilan",
+    "is_official": true,
+    "video_ids": [
+      "Z1eLrhDwnkY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Z1eLrhDwnkY",
+    "download_url": "http://www.mediafire.com/file/nxbzr085eyd0968/121.+ARISTOTELES+-+KEADILAN.rar"
+  },
+  {
+    "id": "11b0a1f6-ecd4-401c-a38e-f6c584005b36",
+    "episode": 122,
+    "date": "2016-09-21T00:00:00.881Z",
+    "title": "Keadilan Thomas Aquinas",
+    "topic": "Filsafat Keadilan",
+    "is_official": true,
+    "video_ids": [
+      "JvSEq4P16H4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=JvSEq4P16H4",
+    "download_url": "https://www.mediafire.com/file/fzf5i4va77rsu67/122._THOMAS_AQUINAS_-_KEADILAN.rar"
+  },
+  {
+    "id": "607de717-319a-45b7-a897-b98a3c93f14a",
+    "episode": 123,
+    "date": "2016-09-28T00:00:00.881Z",
+    "title": "Keadilan John Rawls",
+    "topic": "Filsafat Keadilan",
+    "is_official": true,
+    "video_ids": [
+      "Y_0_glIVZ8A"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Y_0_glIVZ8A",
+    "download_url": "http://www.mediafire.com/file/kvsuat6lzae0tcx/123._JOHN_RAWLS_-_KEADILAN.rar"
+  },
+  {
+    "id": "98aa8658-dd18-4445-a4a9-8eb4123298f9",
+    "episode": 124,
+    "date": "2016-10-05T00:00:00.881Z",
+    "title": "Ghazali: Al-Munqidz min Al-Dalal",
+    "topic": "Buku Tipis",
+    "is_official": true,
+    "video_ids": [
+      "Y4xHZg0LAIo"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Y4xHZg0LAIo",
+    "download_url": "http://www.mediafire.com/file/zanvz41j7fwmi6f/124.+GHAZALI+-+AL-MUNQIDZ+MIN+AL+DALAL.rar"
+  },
+  {
+    "id": "b7fd5739-75a5-43d2-8905-4accea609a28",
+    "episode": 125,
+    "date": "2016-10-12T00:00:00.881Z",
+    "title": "Ibn Rusyd: Fashl Al-Maqal",
+    "topic": "Buku Tipis",
+    "is_official": true,
+    "video_ids": [
+      "lWtcj55vk20"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=lWtcj55vk20",
+    "download_url": "http://www.mediafire.com/file/q3pm25tnc85r9my/125.+IBN+RUSYD+-+FASHL+AL+MAQAL.rar"
+  },
+  {
+    "id": "9a50fdf0-2fe9-45dc-881e-400049a1fe13",
+    "episode": 126,
+    "date": "2016-10-19T00:00:00.881Z",
+    "title": "Ibn Thufayl: Hayy Ibn Yaqzan",
+    "topic": "Buku Tipis",
+    "is_official": true,
+    "video_ids": [
+      "knnFJQJJoGI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=knnFJQJJoGI",
+    "download_url": "http://www.mediafire.com/file/4bo9ia6ogddyuj1/126.+IBN+THUFAYL+-+HAYY+IBN+YAQZAN.rar"
+  },
+  {
+    "id": "c4f66c78-9283-4712-bad2-0b60b20cb97b",
+    "episode": 127,
+    "date": "2016-10-26T00:00:00.881Z",
+    "title": "Kahlil Gibran: The Prophet",
+    "topic": "Buku Tipis",
+    "is_official": true,
+    "video_ids": [
+      "-FZww60uWfI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=-FZww60uWfI",
+    "download_url": "http://www.mediafire.com/file/n1d6olg2o19ywb2/127.+KAHLIL+GIBRAN+-+THE+PROPHET.rar"
+  },
+  {
+    "id": "cfec8c2b-7f69-44f8-96e9-f9ef5104f1a2",
+    "episode": 128,
+    "date": "2016-11-02T00:00:00.881Z",
+    "title": "Friedrich Nietzsche: Ubermensch",
+    "topic": "Teori Manusia Istimewa",
+    "is_official": true,
+    "video_ids": [
+      "wBP2eW_KT7M"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wBP2eW_KT7M",
+    "download_url": "http://www.mediafire.com/file/bodjim9jmxmj4my/128.+NIETZSCHE+-+UBERMENSCH.rar"
+  },
+  {
+    "id": "d4f827c4-7be8-497e-8ee0-edfa96b75fbf",
+    "episode": 129,
+    "date": "2016-11-09T00:00:00.881Z",
+    "title": "Max Weber: Kharisma",
+    "topic": "Teori Manusia Istimewa",
+    "is_official": true,
+    "video_ids": [
+      "hyXGxBbt6aE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hyXGxBbt6aE",
+    "download_url": "http://www.mediafire.com/file/67hk9z54pphx8f0/129.+MAX+WEBER+-+KHARISMA.rar"
+  },
+  {
+    "id": "23607deb-7049-4fd6-8dbd-a140e417cb46",
+    "episode": 130,
+    "date": "2016-11-16T00:00:00.881Z",
+    "title": "Muhammad Iqbal: Insan Kamil",
+    "topic": "Teori Manusia Istimewa",
+    "is_official": true,
+    "video_ids": [
+      "QpDYaxY9m7Y"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=QpDYaxY9m7Y",
+    "download_url": "http://www.mediafire.com/file/21eun5tr0jwp2q2/130.+IQBAL+-+INSAN+KAMIL.rar"
+  },
+  {
+    "id": "1ba6e879-fd1f-4857-9b1d-bb4d49ecf4c9",
+    "episode": 131,
+    "date": "2016-11-23T00:00:00.881Z",
+    "title": "Ali Syari’ati: Rausyan Fikr",
+    "topic": "Teori Manusia Istimewa",
+    "is_official": true,
+    "video_ids": [
+      "wFFGOQCIBTI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wFFGOQCIBTI",
+    "download_url": "http://www.mediafire.com/file/ts2ih99o2x6hj72/131.+ALI+SYARI%E2%80%99ATI+-+RAUSYAN+FIKR.rar"
+  },
+  {
+    "id": "422995a5-d828-4642-8fdf-de00a11605dc",
+    "episode": 132,
+    "date": "2016-11-30T00:00:00.881Z",
+    "title": "Ibnu Arabi: Insan Kamil",
+    "topic": "Teori Manusia Istimewa",
+    "is_official": true,
+    "video_ids": [
+      "HcmRhqhyVRE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=HcmRhqhyVRE",
+    "download_url": "http://www.mediafire.com/file/o84q5lrlhpo40lj/132.+IBNU+ARABI+-+INSAN+KAMIL.rar"
+  },
+  {
+    "id": "9128e879-0497-41f1-acb7-c0d6b41289c8",
+    "episode": 133,
+    "date": "2016-12-07T00:00:00.881Z",
+    "title": "Ferdinand de Saussure - Semiologi",
+    "topic": "Semiotik",
+    "is_official": true,
+    "video_ids": [
+      "T8fO0VXJfhQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=T8fO0VXJfhQ&t=118s",
+    "download_url": "http://www.mediafire.com/file/9yilk9lb38s2b4r/133.+FERDINAND+DE+SAUSSURE+-+SEMIOLOGI.rar"
+  },
+  {
+    "id": "597dc0e5-62c8-4511-a463-6adb5304e4e5",
+    "episode": 134,
+    "date": "2016-12-14T00:00:00.881Z",
+    "title": "Rolland Barthes - Semiotika",
+    "topic": "Semiotik",
+    "is_official": true,
+    "video_ids": [
+      "5QUJBjDgviI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=5QUJBjDgviI",
+    "download_url": "http://www.mediafire.com/file/05t4z5zcml6n73e/134.+ROLLAND+BARTHES+-+SEMIOTIKA.rar"
+  },
+  {
+    "id": "8bdeebdf-1ade-49d4-a8d1-624eb3985284",
+    "episode": 135,
+    "date": "2016-12-21T00:00:00.881Z",
+    "title": "Charles Pierce - Semiotika",
+    "topic": "Semiotik",
+    "is_official": true,
+    "video_ids": [
+      "my_X9l6YPCE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=my_X9l6YPCE",
+    "download_url": "http://www.mediafire.com/file/pa622q5zyj44x0c/135.+CHARLES+PIERCE+-+SEMIOTIKA.rar"
+  },
+  {
+    "id": "30bf747d-0af8-47d9-9a02-502993f9e8f7",
+    "episode": 136,
+    "date": "2016-12-28T00:00:00.881Z",
+    "title": "Umberto Eco - Semiotika",
+    "topic": "Semiotik",
+    "is_official": true,
+    "video_ids": [
+      "VdVZCVcHKUQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=VdVZCVcHKUQ",
+    "download_url": "http://www.mediafire.com/file/5itii01a5c28dmd/136.+UMBERTO+ECO+-+SEMIOTIKA.rar"
+  },
+  {
+    "id": "4c0f1c7f-d269-4e52-a84a-d34ef391cbde",
+    "episode": 137,
+    "date": "2017-01-04T00:00:00.881Z",
+    "title": "Hamzah Fansuri",
+    "topic": "Sufi Nusantara",
+    "is_official": true,
+    "video_ids": [
+      "Tluj4PSAvoQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Tluj4PSAvoQ",
+    "download_url": "http://www.mediafire.com/file/baahc0zg6qg26pg/137.+SUFI+NUSANTARA+-+HAMZAH+FANSURI.rar"
+  },
+  {
+    "id": "358ac5cc-4130-484f-921a-6b54abb15e3d",
+    "episode": 138,
+    "date": "2017-01-11T00:00:00.881Z",
+    "title": "Sunan Kalijaga",
+    "topic": "Sufi Nusantara",
+    "is_official": true,
+    "video_ids": [
+      "wCfNKC9y66A"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wCfNKC9y66A",
+    "download_url": "http://www.mediafire.com/file/lzef5woawphsir8/138.+SUFI+NUSANTARA+-+SUNAN+KALIJAGA.rar"
+  },
+  {
+    "id": "0bd5a6c5-f93d-47b8-86c3-ce41e5bfcf67",
+    "episode": 139,
+    "date": "2017-01-18T00:00:00.881Z",
+    "title": "Syaikh Muhammad Arsyad Al-Banjari",
+    "topic": "Sufi Nusantara",
+    "is_official": true,
+    "video_ids": [
+      "GkwtNTCDD2w"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=GkwtNTCDD2w",
+    "download_url": "http://www.mediafire.com/file/vrinqh3m13q8p88/139.+SUFI+NUSANTARA+-+SYAIKH+MUHAMMAD+ARSYAD+AL+BANJARI.rar"
+  },
+  {
+    "id": "84c7853d-7162-40b9-91e3-7dd421b4e809",
+    "episode": 140,
+    "date": "2017-01-25T00:00:00.881Z",
+    "title": "Syekh Yusuf Al-Makassari",
+    "topic": "Sufi Nusantara",
+    "is_official": true,
+    "video_ids": [
+      "tQ8XETY3oJc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=tQ8XETY3oJc",
+    "download_url": "http://www.mediafire.com/file/2ad2uwrww4vdn9c/140.+SUFI+NUSANTARA+-+SYEKH+YUSUF+AL-MAKASSARI.rar"
+  },
+  {
+    "id": "db38147c-3889-452a-a8c8-5e93bff7e907",
+    "episode": 141,
+    "date": "2017-02-02T00:00:00.881Z",
+    "title": "Plato",
+    "topic": "Filsafat Cinta",
+    "is_official": true,
+    "video_ids": [
+      "tQ8XETY3oJc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=tQ8XETY3oJc",
+    "download_url": "http://www.mediafire.com/file/k1u9l473lztm1xn/141.+FILSAFAT+CINTA+-+PLATO.rar"
+  },
+  {
+    "id": "6f0e503d-ce3d-4970-b3dd-f6b922a991b6",
+    "episode": 142,
+    "date": "2017-02-09T00:00:00.881Z",
+    "title": "Erich Fromm",
+    "topic": "Filsafat Cinta",
+    "is_official": true,
+    "video_ids": [
+      "wNghLfnIbP8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wNghLfnIbP8&t=932s",
+    "download_url": "http://www.mediafire.com/file/3bdxdr5knuorgey/142.+FILSAFAT+CINTA+-+ERICH+FROMM.rar"
+  },
+  {
+    "id": "39825c6c-aa23-4779-8194-d0bf25f45b07",
+    "episode": 143,
+    "date": "2017-02-16T00:00:00.881Z",
+    "title": "Rabiah Al-Adawiyah",
+    "topic": "Filsafat Cinta",
+    "is_official": true,
+    "video_ids": [
+      "FeiUDwGfKuE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=FeiUDwGfKuE",
+    "download_url": "http://www.mediafire.com/file/7vag83ll1ww72fa/143.+FILSAFAT+CINTA+-+RABIAH+AL-ADAWIYAH.rar"
+  },
+  {
+    "id": "02467bd8-989b-4ec4-9080-c28630a9885e",
+    "episode": 144,
+    "date": "2017-02-23T00:00:00.881Z",
+    "title": "Jalaluddin Rumi",
+    "topic": "Filsafat Cinta",
+    "is_official": true,
+    "video_ids": [
+      "Ekj9PJtCGEs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Ekj9PJtCGEs",
+    "download_url": "http://www.mediafire.com/file/nhkmpnz9l6i6ko6/144.+FILSAFAT+CINTA+-+JALALUDDIN+RUMI.rar"
+  },
+  {
+    "id": "4e1760f8-5f47-4064-bab6-1ab65f571e50",
+    "episode": 145,
+    "date": "2017-03-01T00:00:00.881Z",
+    "title": "Sofisme",
+    "topic": "Pikiran-Pikiran Dasar Filsafat/Yunani Kuno",
+    "is_official": true,
+    "video_ids": [
+      "KMnAbaRPz9g"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=KMnAbaRPz9g",
+    "download_url": "http://www.mediafire.com/file/ngbocgctiwkksbj/145.+YUNANI+KUNO+-+SOFISME.rar"
+  },
+  {
+    "id": "e1c1cd0b-ba06-4273-83dd-a80c51bb4a2e",
+    "episode": 146,
+    "date": "2017-03-08T00:00:00.881Z",
+    "title": "Epicureanism",
+    "topic": "Pikiran-Pikiran Dasar Filsafat/Yunani Kuno",
+    "is_official": true,
+    "video_ids": [
+      "kzkTVMFeSS8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=kzkTVMFeSS8",
+    "download_url": "http://www.mediafire.com/file/3t60cwt1dw3wcpi/146.+YUNANI+KUNO+-+EPICUREANISM.rar"
+  },
+  {
+    "id": "132a5ee5-a52e-4503-85e4-5ac6a0188b34",
+    "episode": 147,
+    "date": "2017-03-15T00:00:00.881Z",
+    "title": "Stoikisme",
+    "topic": "Pikiran-Pikiran Dasar Filsafat/Yunani Kuno",
+    "is_official": true,
+    "video_ids": [
+      "pTN3LGiwuHs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=pTN3LGiwuHs",
+    "download_url": "http://www.mediafire.com/file/nacnzfea80t9wyx/147.+YUNANI+KUNO+-+STOIKISME.rar"
+  },
+  {
+    "id": "18d0bce3-98be-4583-abeb-daf22a38f3f5",
+    "episode": 148,
+    "date": "2017-03-22T00:00:00.881Z",
+    "title": "Neoplatonisme",
+    "topic": "Pikiran-Pikiran Dasar Filsafat/Yunani Kuno",
+    "is_official": true,
+    "video_ids": [
+      "qBkNyMka4Ug"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qBkNyMka4Ug",
+    "download_url": "http://www.mediafire.com/file/qwtdr0z7usa9yzv/148.+YUNANI+KUNO+-+NEOPLATONISME.rar"
+  },
+  {
+    "id": "4d789f44-0480-4cf1-aa7b-6860afaeaa6c",
+    "episode": 149,
+    "date": "2017-04-05T00:00:00.881Z",
+    "title": "Betty Freiden",
+    "topic": "Feminisme",
+    "is_official": true,
+    "video_ids": [
+      "errM0ZwaaY0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=errM0ZwaaY0",
+    "download_url": "http://www.mediafire.com/file/h0tqovau687hqwf/149.+FEMINISME+-+BETTY+FREIDEN.rar"
+  },
+  {
+    "id": "1f667885-8f4c-4f78-870b-ffea14975b88",
+    "episode": 150,
+    "date": "2017-04-12T00:00:00.881Z",
+    "title": "Fatima Mernissi",
+    "topic": "Feminisme",
+    "is_official": true,
+    "video_ids": [
+      "6TACBz5qGus"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6TACBz5qGus",
+    "download_url": "http://www.mediafire.com/file/ixf82w2iciuwer7/150.+FEMINISME+-+FATIMA+MERNISSI.rar"
+  },
+  {
+    "id": "cfaa2022-4d2e-4253-823d-be6a1f8cf7ff",
+    "episode": 151,
+    "date": "2017-04-19T00:00:00.881Z",
+    "title": "Kartini",
+    "topic": "Feminisme",
+    "is_official": true,
+    "video_ids": [
+      "MdPk28cHxG4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=MdPk28cHxG4",
+    "download_url": "http://www.mediafire.com/file/3jf5zgxxaxoqesr/151.+FEMINISME+-+KARTINI.rar"
+  },
+  {
+    "id": "64513985-0b50-4f38-918c-0e2219dfa079",
+    "episode": 152,
+    "date": "2017-04-26T00:00:00.881Z",
+    "title": "Nawal El-Sadawi",
+    "topic": "Feminisme",
+    "is_official": true,
+    "video_ids": [
+      "N2PbMNCWpNc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=N2PbMNCWpNc",
+    "download_url": "http://www.mediafire.com/file/ardg2m93ecx2k2j/152.+FEMINISME+-+NAWAL+EL+SA%27ADAWI.rar"
+  },
+  {
+    "id": "7c531172-63c3-438f-9e5c-e2182567d98e",
+    "episode": 153,
+    "date": "2017-05-03T00:00:00.881Z",
+    "title": "Syaikh Abdul Qadir Al Jailani: Ibadah Lahir Ibadah Batin",
+    "topic": "Religius Service (Ibadah)",
+    "is_official": true,
+    "video_ids": [
+      "yMich21Qrak"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=yMich21Qrak&t=5668s",
+    "download_url": "http://www.mediafire.com/file/kfnjdii9ocdbowg/153._IBADAH_-_SYAIKH_ABDUL_QADIR_JAELANI.rar"
+  },
+  {
+    "id": "b8a7b3a9-ebdd-4418-827f-bab9f578a45f",
+    "episode": 154,
+    "date": "2017-05-10T00:00:00.881Z",
+    "title": "Syekh Siti Jenar: Shalat",
+    "topic": "Religius Service (Ibadah)",
+    "is_official": true,
+    "video_ids": [
+      "FrnSHWoVddg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=FrnSHWoVddg",
+    "download_url": "http://www.mediafire.com/file/dm6u97nsqo0c9nk/154._SHALAT_-_SYEKH_SITI_JENAR.rar"
+  },
+  {
+    "id": "13f5e8b7-a3cd-4d58-b86c-97c5e2695334",
+    "episode": 155,
+    "date": "2017-05-17T00:00:00.881Z",
+    "title": "Ali Syari’ati: Haji",
+    "topic": "Religius Service (Ibadah)",
+    "is_official": true,
+    "video_ids": [
+      "JUKocTWIbME"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=JUKocTWIbME",
+    "download_url": "http://www.mediafire.com/file/lz4f7k0i7i1n360/155._HAJI_-_ALI_SYARI%27ATI.rar"
+  },
+  {
+    "id": "bb459405-a739-482f-abd2-cf4a4fe69869",
+    "episode": 156,
+    "date": "2017-05-24T00:00:00.881Z",
+    "title": "Al Ghazali: Puasa",
+    "topic": "Religius Service (Ibadah)",
+    "is_official": true,
+    "video_ids": [
+      "e9IebUMm03k"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=e9IebUMm03k",
+    "download_url": "http://www.mediafire.com/file/e52kowv2wot615y/156._PUASA_-_AL-GHAZALI.rar"
+  },
+  {
+    "id": "203de256-0a3c-4860-ace7-bdee4106952b",
+    "episode": 157,
+    "date": "2017-07-19T00:00:00.881Z",
+    "title": "Kebencian (Hatred)",
+    "topic": "Halal bi Halal",
+    "is_official": true,
+    "video_ids": [
+      "66wouJ3QzMo"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=66wouJ3QzMo&t=1s",
+    "download_url": "http://www.mediafire.com/file/kvtshv7xc74gjbj/157._HALAL_BI_HALAL_-_FILSAFAT_KEBENCIAN.rar"
+  },
+  {
+    "id": "863a0820-dfcc-48b6-a3a1-0c9aa6aaa6a9",
+    "episode": 158,
+    "date": "2017-07-26T00:00:00.895Z",
+    "title": "Pemaafan (Forgiveness)",
+    "topic": "Halal bi Halal",
+    "is_official": true,
+    "video_ids": [
+      "SukNhavddok",
+      "-jzBN6WfDfw"
+    ],
+    "video_url": null,
+    "download_url": "http://www.mediafire.com/file/nwx69pvll57upmd/158._HALAL_BI_HALAL_-_FILSAFAT_PEMAAFAN.rar"
+  },
+  {
+    "id": "11a2633c-b22b-4967-82d5-cadb836ebd8d",
+    "episode": 159,
+    "date": "2017-08-02T00:00:00.882Z",
+    "title": "HOS Tjokroaminoto (Tokoh Nasional)",
+    "topic": "Kemerdekaan",
+    "is_official": true,
+    "video_ids": [
+      "UqylBvPsM8w"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=UqylBvPsM8w",
+    "download_url": "http://www.mediafire.com/file/3yti84o5ym72cc3/159._EDISI_KEMERDEKAAN_-_HOS_COKROAMINOTO.rar"
+  },
+  {
+    "id": "01ff0450-c0c4-4728-b6f3-c0b34a02443a",
+    "episode": 160,
+    "date": "2017-08-09T00:00:00.882Z",
+    "title": "Ibrahim Datuk Tan Malaka (Tokoh Nasional)",
+    "topic": "Kemerdekaan",
+    "is_official": true,
+    "video_ids": [
+      "RAEqaOVI_sg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=RAEqaOVI_sg",
+    "download_url": "http://www.mediafire.com/file/j6qqmd64ybt494g/160._EDISI_KEMERDEKAAN_-_TAN_MALAKA.rar"
+  },
+  {
+    "id": "9e304ab0-8eea-4e3e-b62c-f85858e101e9",
+    "episode": 161,
+    "date": "2017-08-16T00:00:00.882Z",
+    "title": "Tirakatan (Meng-Indonesia)",
+    "topic": "Kemerdekaan",
+    "is_official": true,
+    "video_ids": [
+      "IoARk5t5Xkk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=IoARk5t5Xkk",
+    "download_url": "http://www.mediafire.com/file/r0a5t8hgfjhgqv2/161._EDISI_KEMERDEKAAN_-_MENG-INDONESIA.rar"
+  },
+  {
+    "id": "11657589-4c4d-4b50-b44e-df960d2aa153",
+    "episode": 162,
+    "date": "2017-08-23T00:00:00.882Z",
+    "title": "Soekarno: Islam",
+    "topic": "Kemerdekaan",
+    "is_official": true,
+    "video_ids": [
+      "qfP_fTI1Ya0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qfP_fTI1Ya0",
+    "download_url": "http://www.mediafire.com/file/vuripkzoqq08t9y/162._EDISI_KEMERDEKAAN_-_SOEKARNO.rar"
+  },
+  {
+    "id": "9c7d8e26-71f7-47a2-bdca-6d9f2200f391",
+    "episode": 163,
+    "date": "2017-08-30T00:00:00.882Z",
+    "title": "Mohammad Hatta (Tokoh Nasional)",
+    "topic": "Kemerdekaan",
+    "is_official": true,
+    "video_ids": [
+      "StcrQdQOpuE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=StcrQdQOpuE",
+    "download_url": "http://www.mediafire.com/file/aubkv7ej91ej8nd/163._EDISI_KEMERDEKAAN_-_MUHAMMAD_HATTA.rar"
+  },
+  {
+    "id": "7b9d2056-e02a-40de-a7da-b95a2d3af2ae",
+    "episode": 164,
+    "date": "2017-09-06T00:00:00.882Z",
+    "title": "Ta’lim al Muta’allim karya Burhanuddin al-Zarnujy",
+    "topic": "Etika dan Etiket Ilmiah (Scientific Attitude)",
+    "is_official": true,
+    "video_ids": [
+      "4MOHmmbtm4g"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=4MOHmmbtm4g&t=42s",
+    "download_url": "http://www.mediafire.com/file/9gpin20206myp89/164._SCIENTIFIC_ATTITUDE_-_TA%27LIM_AL_MUTA%27ALLIM.rar"
+  },
+  {
+    "id": "78385fa1-21c0-48a5-8d91-105804e01804",
+    "episode": 165,
+    "date": "2017-09-13T00:00:00.882Z",
+    "title": "Adab al-’Alim wal al-Muta’allim karya KH. M. Hasyim Asy&#8217;arie",
+    "topic": "Etika dan Etiket Ilmiah (Scientific Attitude)",
+    "is_official": true,
+    "video_ids": [
+      "mc78_nZ4lr0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=mc78_nZ4lr0",
+    "download_url": "http://www.mediafire.com/file/6z14qc8bpvxgh96/165._SCIENTIFIC_ATTITUDE_-_ADAB_AL-%27ALIM_WAL_AL-MUTA%27ALLIM.rar"
+  },
+  {
+    "id": "b9cf2da1-79d5-409e-9d37-39178a070cde",
+    "episode": 166,
+    "date": "2017-09-20T00:00:00.882Z",
+    "title": "Bidayah al-Hidayah karya Imam al-Ghazali",
+    "topic": "Etika dan Etiket Ilmiah (Scientific Attitude)",
+    "is_official": true,
+    "video_ids": [
+      "6GXVK6g7aO0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6GXVK6g7aO0",
+    "download_url": "http://www.mediafire.com/file/15gtc5vrv8es414/166._SCIENTIFIC_ATTITUDE_-_BIDAYAH_AL-HIDAYAH.rar"
+  },
+  {
+    "id": "dd817045-e938-434a-bd42-bd5e035cce8f",
+    "episode": 167,
+    "date": "2017-09-27T00:00:00.882Z",
+    "title": "Adab Al-Ikhtilaf karya Thaha Jabir al-Awa",
+    "topic": "Etika dan Etiket Ilmiah (Scientific Attitude)",
+    "is_official": true,
+    "video_ids": [
+      "_yvAGUbE2FI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=_yvAGUbE2FI",
+    "download_url": "http://www.mediafire.com/file/uwlv1hl5idr5anu/167._SCIENTIFIC_ATTITUDE_-_ADAB_AL_IKHTILAF.rar"
+  },
+  {
+    "id": "265dca15-9210-4f2b-925a-eab1868400e3",
+    "episode": 168,
+    "date": "2017-10-04T00:00:00.882Z",
+    "title": "Herbert Marcuse: Kritik Modernitas",
+    "topic": "Kritik Ideologi dan Modernitas",
+    "is_official": true,
+    "video_ids": [
+      "K4O8Yqx_PfM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=K4O8Yqx_PfM",
+    "download_url": null
+  },
+  {
+    "id": "876a4238-df69-46be-9c4a-b73c25fae531",
+    "episode": 169,
+    "date": "2017-10-11T00:00:00.882Z",
+    "title": "Jürgen Habermas: Teori Kritis",
+    "topic": "Kritik Ideologi dan Modernitas",
+    "is_official": true,
+    "video_ids": [
+      "71XZC4XwnqA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=71XZC4XwnqA",
+    "download_url": null
+  },
+  {
+    "id": "de4a0418-06ef-4131-a252-68c250079d2c",
+    "episode": 170,
+    "date": "2017-10-18T00:00:00.882Z",
+    "title": "Antonio Gramsci: Hegemoni",
+    "topic": "Kritik Ideologi dan Modernitas",
+    "is_official": true,
+    "video_ids": [
+      "2fkoOX8h3IA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=2fkoOX8h3IA&t=632s",
+    "download_url": null
+  },
+  {
+    "id": "fbad0e7c-be49-423b-a2b7-1780f5e39d02",
+    "episode": 171,
+    "date": "2017-10-25T00:00:00.213Z",
+    "title": "Louis Althusser - Ideologi",
+    "topic": "Kritik Ideologi dan Modernitas",
+    "is_official": true,
+    "video_ids": [
+      "bx-0E1mMCAs",
+      "_Ctd1lYHtAw",
+      "uvSCS9ZWRQ4"
+    ],
+    "video_url": null,
+    "download_url": null
+  },
+  {
+    "id": "ff740112-47ae-4527-9bfa-790fce047741",
+    "episode": 172,
+    "date": "2017-11-01T00:00:00.883Z",
+    "title": "Filsafat Sejarah G.W.F Hegel",
+    "topic": "Filsafat Sejarah",
+    "is_official": true,
+    "video_ids": [
+      "_kqMDfB3WpY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=_kqMDfB3WpY",
+    "download_url": "http://www.mediafire.com/file/r53u73lc7z03nhv/172._Filsafat_Sejarah_-_Hegel.rar"
+  },
+  {
+    "id": "e2a74b51-2a2c-4c0d-80ff-cd93d5b73e87",
+    "episode": 173,
+    "date": "2017-11-08T00:00:00.883Z",
+    "title": "Filsafat Sejarah Ibnu Khaldun",
+    "topic": "Filsafat Sejarah",
+    "is_official": true,
+    "video_ids": [
+      "DdqNRND7Q6I"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=DdqNRND7Q6I",
+    "download_url": "http://www.mediafire.com/file/hbf5vlcxd3gxt22/173._Filsafat_Sejarah_-_Ibnu_Khaldun.rar"
+  },
+  {
+    "id": "c368286d-ebb7-48a5-ba04-ff68fd280d55",
+    "episode": 174,
+    "date": "2017-11-22T00:00:00.855Z",
+    "title": "Wisdom (Pengganti dua pertemuan sebelumnya Arnold J. Toynbee & Malek Bennabi)",
+    "topic": "Sisipan Filsafat Sejarah",
+    "is_official": true,
+    "video_ids": [
+      "oX1onEkAXP4",
+      "ZbEaTyluf3U",
+      "8aPGDSjzX6g"
+    ],
+    "video_url": null,
+    "download_url": "http://www.mediafire.com/file/gai5459vjxdzvmd/174._Wisdom_-_Fahruddin_Faiz.rar"
+  },
+  {
+    "id": "ed4e3cd9-f227-40f2-b4c4-2d4a46708aa3",
+    "episode": 175,
+    "date": "2017-11-29T00:00:00.884Z",
+    "title": "Kuntowijoyo: Ilmu Sosial Profetik",
+    "topic": "Sisipan Filsafat Sejarah",
+    "is_official": true,
+    "video_ids": [
+      "oj59hArgvYM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=oj59hArgvYM",
+    "download_url": null
+  },
+  {
+    "id": "eda5a4fb-4b11-4493-8f52-231736d139a0",
+    "episode": 176,
+    "date": "2017-12-06T00:00:00.884Z",
+    "title": "Immanuel Kant: Deontologi",
+    "topic": "Filsafat Moral",
+    "is_official": true,
+    "video_ids": [
+      "bY8rtp7w6Fs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=bY8rtp7w6Fs",
+    "download_url": "http://www.mediafire.com/file/lwvgl8egj3ah26n/176._Deontologi_-_Immanuel_Kant.rar"
+  },
+  {
+    "id": "91503145-187a-4684-8929-8a6e214bc5b0",
+    "episode": 177,
+    "date": "2017-12-13T00:00:00.884Z",
+    "title": "John Dewey: Pragmatisme",
+    "topic": "Filsafat Moral",
+    "is_official": true,
+    "video_ids": [
+      "F1g2jgGAZIE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=F1g2jgGAZIE",
+    "download_url": "http://www.mediafire.com/file/q8kc6mdp4mwbfk8/177._Etika_Pragmatisme_-_John_Dewey.rar"
+  },
+  {
+    "id": "53d754ee-70a6-4656-b4db-847174f8f1e5",
+    "episode": 178,
+    "date": "2017-12-20T00:00:00.884Z",
+    "title": "Ibnu Miskawaih: Filsafat Akhlak",
+    "topic": "Filsafat Moral",
+    "is_official": false,
+    "video_ids": [
+      "OySYpAV5qJ4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=OySYpAV5qJ4&t=252s",
+    "download_url": "http://www.mediafire.com/file/85b9o5ddgbj593n/178._Filsafat_Akhlak_-_Ibnu_Miskawaih.rar"
+  },
+  {
+    "id": "929398d7-48d2-48c9-955d-78d0ac7f5e8a",
+    "episode": 179,
+    "date": "2017-12-27T00:00:00.884Z",
+    "title": "Mangkunegara IV: Wedhatama",
+    "topic": "Filsafat Moral",
+    "is_official": false,
+    "video_ids": [
+      "eudItUEGCTQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=eudItUEGCTQ",
+    "download_url": "http://www.mediafire.com/file/9wwn8dwk7h3u69u/179._Wedhatama_-_Mangkunegara_IV.rar"
+  },
+  {
+    "id": "bd871c18-34c9-4c52-80d2-ef752f32d6a1",
+    "episode": 180,
+    "date": "2018-01-03T00:00:00.884Z",
+    "title": "Teologi Pembebasan Islam – Asghar Ali Engineer",
+    "topic": "Teologi Pembebasan Islam",
+    "is_official": false,
+    "video_ids": [
+      "OXwmfoJCXyk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=OXwmfoJCXyk",
+    "download_url": "http://www.mediafire.com/file/h1d2q0dplk8pr6f/180._Teologi_Pembebasan_Islam_-_Asghar_Ali_Engineer.rar"
+  },
+  {
+    "id": "0ec8daa3-b7f5-467d-a6e4-2564449f5f70",
+    "episode": 181,
+    "date": "2018-01-10T00:00:00.884Z",
+    "title": "Teologi Pembebasan Islam – Ali Syari’ati",
+    "topic": "Teologi Pembebasan Islam",
+    "is_official": false,
+    "video_ids": [
+      "eD3wsr3guSI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=eD3wsr3guSI",
+    "download_url": "http://www.mediafire.com/file/iyq8w8jvbqc5ala/181._Teologi_Pembebasan_Islam_-_Ali_Syari%27ati.rar"
+  },
+  {
+    "id": "8da396e6-e178-448f-b8ca-8f00b15bfa1e",
+    "episode": 182,
+    "date": "2018-01-17T00:00:00.884Z",
+    "title": "Teologi Pembebasan Islam – Hasan Hanafi",
+    "topic": "Teologi Pembebasan Islam",
+    "is_official": false,
+    "video_ids": [
+      "6Mxb7bs8ed8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6Mxb7bs8ed8",
+    "download_url": "http://www.mediafire.com/file/3c0pyihzs9qg4ub/182._Teologi_Pembebasan_Islam_-_Hasan_Hanafi.rar"
+  },
+  {
+    "id": "31956f1d-a6ab-406c-b572-f5786e77c681",
+    "episode": 183,
+    "date": "2018-01-24T00:00:00.884Z",
+    "title": "Teologi Pembebasan Islam – Farid Esack",
+    "topic": "Teologi Pembebasan Islam",
+    "is_official": false,
+    "video_ids": [
+      "bUFfCHPIbv8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=bUFfCHPIbv8",
+    "download_url": "http://www.mediafire.com/file/qe8idsvdvll6sma/183._Teologi_Pembebasan_Islam_-_Farid_Esack.rar"
+  },
+  {
+    "id": "bf42e880-0456-4d8b-8a7e-7c12d0b21b33",
+    "episode": 184,
+    "date": "2018-02-07T00:00:00.884Z",
+    "title": "Cinta Eksistensialis – Gabriel Marcel",
+    "topic": "Cinta Eksistensialis",
+    "is_official": true,
+    "video_ids": [
+      "YvEWm8CQ34c"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=YvEWm8CQ34c&t=650s",
+    "download_url": "http://www.mediafire.com/file/v5aqbbvufsfwodw/184._Cinta_Eksistensialis_-_Gabriel_Marcel.rar"
+  },
+  {
+    "id": "c3c72aa8-4024-4514-b699-b38129b0cae0",
+    "episode": 185,
+    "date": "2018-02-14T00:00:00.884Z",
+    "title": "Cinta Eksistensialis – Soren Kierkegaard",
+    "topic": "Cinta Eksistensialis",
+    "is_official": true,
+    "video_ids": [
+      "wdXx5yPK1oA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wdXx5yPK1oA&t=166s",
+    "download_url": "http://www.mediafire.com/file/4audjqy98h4pfqi/185._Cinta_Eksistensialis_-_Soren_Kierkegaard.rar"
+  },
+  {
+    "id": "0648e1f0-a65a-4615-90e3-392b5d9de6e7",
+    "episode": 186,
+    "date": "2018-02-21T00:00:00.884Z",
+    "title": "Cinta Eksistensialis – Arthur Schopenhauer",
+    "topic": "Cinta Eksistensialis",
+    "is_official": true,
+    "video_ids": [
+      "YcPXRP8DtcU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=YcPXRP8DtcU&t=144s",
+    "download_url": "http://www.mediafire.com/file/p3ax2v8sy6y2208/186._Cinta_Eksistensialis_-_Arthur_Schopenhauer.rar"
+  },
+  {
+    "id": "7b860054-92ad-4562-a098-eb5f5a5ea355",
+    "episode": 187,
+    "date": "2018-02-28T00:00:00.884Z",
+    "title": "Cinta Eksistensialis – Jean Paul Sartre",
+    "topic": "Cinta Eksistensialis",
+    "is_official": true,
+    "video_ids": [
+      "yjCKHP8Rj74"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=yjCKHP8Rj74&t=115s",
+    "download_url": "http://www.mediafire.com/file/itenvoqsibk36po/187._Cinta_Eksistensialis_-_Jean_Paul_Sartre.rar"
+  },
+  {
+    "id": "10b3355d-f4b4-4c5b-b6bb-9f41aeb8459f",
+    "episode": 188,
+    "date": "2018-03-07T00:00:00.884Z",
+    "title": "Thomas Kuhn: Paradigma Ilmu",
+    "topic": "Ilmu dan Pengetahuan",
+    "is_official": true,
+    "video_ids": [
+      "EIlWCLEbDl0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=EIlWCLEbDl0",
+    "download_url": "http://www.mediafire.com/file/13zxmmy12c9v2c1/188._Paradigma_Ilmu_-_Thomas_Kuhn.rar"
+  },
+  {
+    "id": "8d74d9af-708b-47ad-aed2-4ad9a2e34b95",
+    "episode": 189,
+    "date": "2018-03-14T00:00:00.884Z",
+    "title": "Paul K. Feyerabend: Anarkhisme Epistemologi",
+    "topic": "Ilmu dan Pengetahuan",
+    "is_official": true,
+    "video_ids": [
+      "qcxZl8cI75Q"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qcxZl8cI75Q",
+    "download_url": "http://www.mediafire.com/file/x70v3gdf0mc4brs/189._Anarkhisme_Epistemologi_-_Paul_K._Feyerabend.rar"
+  },
+  {
+    "id": "40b9fb9e-d524-4c82-a8f4-5a88363cfc17",
+    "episode": 190,
+    "date": "2018-03-20T00:00:00.884Z",
+    "title": "Seyyed Hossein Nasr: Scientia Sacra",
+    "topic": "Ilmu dan Pengetahuan",
+    "is_official": true,
+    "video_ids": [
+      "2yGa5K3rcmw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=2yGa5K3rcmw",
+    "download_url": "http://www.mediafire.com/file/c71j2z47734gmo5/190._Scientia_Sacra_-_Seyyed_Hossein_Nasr.rar"
+  },
+  {
+    "id": "965fffc8-72df-45c6-9cf6-6b2e43b283a6",
+    "episode": 191,
+    "date": "2018-03-28T00:00:00.884Z",
+    "title": "Al Ghazali: Ilmu Laduni",
+    "topic": "Ilmu dan Pengetahuan",
+    "is_official": true,
+    "video_ids": [
+      "1DKFKTPrdfE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=1DKFKTPrdfE",
+    "download_url": "http://www.mediafire.com/file/b5xtrxux30p3567/191._Ilmu_Laduni_-_Al_Ghazali.rar"
+  },
+  {
+    "id": "ce6b7bd6-02d3-4352-b901-a9b13518ef85",
+    "episode": 192,
+    "date": "2018-07-04T00:00:00.884Z",
+    "title": "Jamaluddin Al Afghani: Pan Islamisme",
+    "topic": "Teologi Islam Modern",
+    "is_official": true,
+    "video_ids": [
+      "uvFy0g3P0LE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=uvFy0g3P0LE",
+    "download_url": "http://www.mediafire.com/file/iztk8239kad655e/192._Pan_Islamisme_-_Jamaluddin_Al_Afghani.rar"
+  },
+  {
+    "id": "5bd84f14-718a-4cad-b315-733ee5334eed",
+    "episode": 194,
+    "date": "2018-07-11T00:00:00.884Z",
+    "title": "Muhammad Abduh: Risalah Tauhid",
+    "topic": "Teologi Islam Modern",
+    "is_official": true,
+    "video_ids": [
+      "RFcZ_CUMUU8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=RFcZ_CUMUU8",
+    "download_url": "http://www.mediafire.com/file/3veoa2a9j2z6i3q/193._Risalah_Tauhid_-_Muhammad_Abduh.rar"
+  },
+  {
+    "id": "a966e5a2-435a-448a-a781-66c86d85f86a",
+    "episode": 194,
+    "date": "2018-07-18T00:00:00.884Z",
+    "title": "Rekonstruksi Pemikiran Religius dalam Islam – Muhammad Iqbal",
+    "topic": "Teologi Islam Modern",
+    "is_official": true,
+    "video_ids": [
+      "ECzA-knrTTY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ECzA-knrTTY",
+    "download_url": "http://www.mediafire.com/file/u9fpoc2cw6tgx6z/194._Rekonstruksi_Pemikiran_Religius_dalam_Islam_-_Muhammad_Iqbal.rar/file"
+  },
+  {
+    "id": "edee0871-dbcc-48e1-a936-67a3d1f9f5df",
+    "episode": 195,
+    "date": "2018-07-25T00:00:00.884Z",
+    "title": "Sayyid Amir Ali: The Spirit Of Islam",
+    "topic": "Teologi Islam Modern",
+    "is_official": true,
+    "video_ids": [
+      "gWP8QVEFakY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=gWP8QVEFakY",
+    "download_url": "http://www.mediafire.com/file/bcf6ict6j9carkn/195._The_Spirit_Of_Islam_-_Sayyid_Amir_Ali.rar/file"
+  },
+  {
+    "id": "099d6bfd-7542-4bde-8433-979362b85fd7",
+    "episode": 196,
+    "date": "2018-08-01T00:00:00.884Z",
+    "title": "Edisi Komunikasi – Etika Komunikasi",
+    "topic": "Komunikasi",
+    "is_official": false,
+    "video_ids": [
+      "UIAjBlMT2Yk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=UIAjBlMT2Yk",
+    "download_url": "http://www.mediafire.com/file/9ioi3xjd7w5cfkx/196._Edisi_Komunikasi_-_Etika_Komunikasi.rar/file"
+  },
+  {
+    "id": "c8e9a5ba-394f-4455-abcd-32f08d0055b8",
+    "episode": 197,
+    "date": "2018-08-08T00:00:00.884Z",
+    "title": "Edisi Komunikasi – Ektasi Komunikasi",
+    "topic": "Komunikasi",
+    "is_official": true,
+    "video_ids": [
+      "OqlwlUGqhhg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=OqlwlUGqhhg",
+    "download_url": "http://www.mediafire.com/file/kd4v1d830t99dv3/197._Edisi_Komunikasi_-_Ektasi_Komunikasi.rar/file"
+  },
+  {
+    "id": "34b168ee-c989-4567-a64c-6a1137ae3055",
+    "episode": 198,
+    "date": "2018-08-15T00:00:00.884Z",
+    "title": "Edisi Komunikasi – Komunikasi Intercultural",
+    "topic": "Komunikasi",
+    "is_official": true,
+    "video_ids": [
+      "at1bEiMdMNI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=at1bEiMdMNI",
+    "download_url": "http://www.mediafire.com/file/da7fft1apzxuplw/198._Edisi_Komunikasi_-_Komunikasi_Intercultural.rar/file"
+  },
+  {
+    "id": "385be936-a975-4d73-8686-5aab5fbdcadf",
+    "episode": 199,
+    "date": "2018-08-22T00:00:00.884Z",
+    "title": "Edisi Komunikasi – Post Truth",
+    "topic": "Komunikasi",
+    "is_official": true,
+    "video_ids": [
+      "AGrO9JM2DKc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=AGrO9JM2DKc",
+    "download_url": "http://www.mediafire.com/file/gl16sd1w6f3e3o4/199._Edisi_Komunikasi_-_Post_Truth.rar/file"
+  },
+  {
+    "id": "5aa0cf7e-1f20-44a4-8f7d-5b24c574535f",
+    "episode": 200,
+    "date": "2018-09-05T00:00:00.884Z",
+    "title": "Manusia Alternatif – Diogenes",
+    "topic": "Manusia Alternatif",
+    "is_official": true,
+    "video_ids": [
+      "aZZQCU9YMdI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=aZZQCU9YMdI",
+    "download_url": "http://www.mediafire.com/file/b7ap4ttwkmse8i4/200._Manusia_Alternatif_-_Diogenes.rar/file"
+  },
+  {
+    "id": "5fa7e274-148f-4a37-9cca-fbe4e50571bc",
+    "episode": 201,
+    "date": "2018-09-12T00:00:00.215Z",
+    "title": "Manusia Alternatif – Nasrudin Hoja",
+    "topic": "Manusia Alternatif",
+    "is_official": true,
+    "video_ids": [
+      "4LgZ1S4NxxM",
+      "aqcUck7fRUs",
+      "-DvkPrrqBas"
+    ],
+    "video_url": null,
+    "download_url": "http://www.mediafire.com/file/bd8hr1zr1c855zj/201._Manusia_Alternatif_-_Nasrudin_Hoja.rar/file"
+  },
+  {
+    "id": "d22bb69e-3e09-42b3-96d5-55cf106cbbab",
+    "episode": 202,
+    "date": "2018-09-19T00:00:00.892Z",
+    "title": "Manusia Alternatif – H.P. Blavatsky",
+    "topic": "Manusia Alternatif",
+    "is_official": true,
+    "video_ids": [
+      "AltDAMD2_nE",
+      "RGcnzrIxfI0",
+      "wa6LixN9pzk"
+    ],
+    "video_url": null,
+    "download_url": "http://www.mediafire.com/file/z2rc4z81qfyf8ka/202._Manusia_Alternatif_-_H._P._Blavatsky.rar/file"
+  },
+  {
+    "id": "e479e70f-a477-473a-a05d-c6cd8d21f921",
+    "episode": 203,
+    "date": "2018-09-26T00:00:00.012Z",
+    "title": "Manusia Alternatif – R.M.P. Sosrokartono",
+    "topic": "Manusia Alternatif",
+    "is_official": true,
+    "video_ids": [
+      "gOQHuLoy19A",
+      "i1QPvwgYBkw",
+      "qS-1uWAhKu4"
+    ],
+    "video_url": null,
+    "download_url": "http://www.mediafire.com/file/csqruwx71eyo0pc/203._Manusia_Alternatif_-_R.M.P_Sosrokartono.rar/file"
+  },
+  {
+    "id": "8c86203f-f88c-4a4d-a226-ed6b3f6fa837",
+    "episode": 204,
+    "date": "2018-10-03T00:00:00.886Z",
+    "title": "Filsafat Pendidikan – Benjamin S. Bloom",
+    "topic": "Filsafat Pendidikan",
+    "is_official": true,
+    "video_ids": [
+      "OMep2ub37Rg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=OMep2ub37Rg",
+    "download_url": "http://www.mediafire.com/file/bpi4s46011td2bf/204._Filsafat_Pendidikan_-_Benjamin_S._Bloom.rar/file"
+  },
+  {
+    "id": "dfc8cb11-6507-4b62-a3d3-f08b0dcaa704",
+    "episode": 205,
+    "date": "2018-10-10T00:00:00.886Z",
+    "title": "Filsafat Pendidikan – Jean Piaget",
+    "topic": "Filsafat Pendidikan",
+    "is_official": true,
+    "video_ids": [
+      "cYlukfJ1ltA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=cYlukfJ1ltA",
+    "download_url": "http://www.mediafire.com/file/2ey4acumeud1of2/205._Filsafat_Pendidikan_-_Jean_Piaget.rar/file"
+  },
+  {
+    "id": "ad43b646-2f07-42d0-8165-5449094ecce9",
+    "episode": 206,
+    "date": "2018-10-17T00:00:00.886Z",
+    "title": "Filsafat Pendidikan – Paulo Freire",
+    "topic": "Filsafat Pendidikan",
+    "is_official": true,
+    "video_ids": [
+      "kr_oTzSxtb8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=kr_oTzSxtb8",
+    "download_url": "http://www.mediafire.com/file/652afy338bim6ey/206._Filsafat_Pendidikan_-_Paulo_Freire.rar/file"
+  },
+  {
+    "id": "093c3299-927b-446f-b672-d6a9e282f350",
+    "episode": 207,
+    "date": "2018-10-24T00:00:00.886Z",
+    "title": "Filsafat Pendidikan – Ivan Illich",
+    "topic": "Filsafat Pendidikan",
+    "is_official": true,
+    "video_ids": [
+      "hc_lAAu8RWs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hc_lAAu8RWs",
+    "download_url": "http://www.mediafire.com/file/l2twbpwb9ab04dd/207._Filsafat_Pendidikan_-_Ivan_Illich.rar/file"
+  },
+  {
+    "id": "9af24c96-d753-431a-9b8e-81741f2c2655",
+    "episode": 208,
+    "date": "2018-10-31T00:00:00.886Z",
+    "title": "Filsafat Pendidikan – Rudolf Steiner",
+    "topic": "Filsafat Pendidikan",
+    "is_official": true,
+    "video_ids": [
+      "zJdC934ot94"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=zJdC934ot94",
+    "download_url": "http://www.mediafire.com/file/c4na01fx6cxc12p/208._Filsafat_Pendidikan_-_Rudolf_Steiner.rar/file"
+  },
+  {
+    "id": "c0389141-bc6c-480f-b252-5cf61f4515a9",
+    "episode": 209,
+    "date": "2018-11-07T00:00:00.886Z",
+    "title": "The Philisopher King – Marcus Aurelius",
+    "topic": "The Philosopher King",
+    "is_official": true,
+    "video_ids": [
+      "pvOI47sTDUM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=pvOI47sTDUM",
+    "download_url": "http://www.mediafire.com/file/rse13eo8tgnxg4u/209._The_Philosopher_King_-_Marcus_Aurelius.rar"
+  },
+  {
+    "id": "2760af86-25e9-46cd-96f8-8bf01d5ef8f4",
+    "episode": 210,
+    "date": "2018-11-14T00:00:00.886Z",
+    "title": "The Philisopher King – Umar Bin Abdul Aziz",
+    "topic": "The Philosopher King",
+    "is_official": true,
+    "video_ids": [
+      "wvvr2c-SJuM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wvvr2c-SJuM",
+    "download_url": "http://www.mediafire.com/file/j5b1cvrlrud5i8y/210._The_Philosopher_King_-_Umar_Bin_Abdul_Aziz.rar/file"
+  },
+  {
+    "id": "f2a27ef5-ac27-40e7-9885-942cb3aa7678",
+    "episode": 211,
+    "date": "2018-11-21T00:00:00.886Z",
+    "title": "The Philisopher King – Sultan Akbar Agung",
+    "topic": "The Philosopher King",
+    "is_official": true,
+    "video_ids": [
+      "hhD0SUX_U-8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hhD0SUX_U-8",
+    "download_url": "http://www.mediafire.com/file/d18r0u65am3eh5e/211._The_Philosopher_King_-_Jalaluddin_Muhammad_Akbar.rar/file"
+  },
+  {
+    "id": "1d9dfa05-39b0-4f41-8795-7c5e8c75ad30",
+    "episode": 212,
+    "date": "2018-11-28T00:00:00.886Z",
+    "title": "The Philisopher King – Sultan Agung Hanyakrakusuma",
+    "topic": "The Philosopher King",
+    "is_official": true,
+    "video_ids": [
+      "b-Wnhfjq1y4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=b-Wnhfjq1y4",
+    "download_url": "http://www.mediafire.com/file/b16979igp3as6av/212._The_Philosopher_King_-_Sultan_Agung.rar/file"
+  },
+  {
+    "id": "f6f17f7a-9bbe-4f4f-a384-5844dc7f6a50",
+    "episode": 213,
+    "date": "2018-12-05T00:00:00.886Z",
+    "title": "Filsafat Manusia: Kepribadian &#8211; Carl Gustav Jung",
+    "topic": "FIlsafat Manusia",
+    "is_official": true,
+    "video_ids": [
+      "wPJmc-En-rQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wPJmc-En-rQ&feature=youtu.be",
+    "download_url": "http://www.mediafire.com/file/eks87q34fq22b8q/213._Filsafat_Manusia_-_Kepribadian_-_Carl_Gustav_Jung.rar/file"
+  },
+  {
+    "id": "305807ae-e3eb-4a1e-bc0a-0f43f2928304",
+    "episode": 214,
+    "date": "2018-12-12T00:00:00.886Z",
+    "title": "Filsafat Manusia: Kepribadian &#8211; Gordon Allport",
+    "topic": "FIlsafat Manusia",
+    "is_official": true,
+    "video_ids": [
+      "nROFneuU6Ac"
+    ],
+    "video_url": "https://youtu.be/nROFneuU6Ac",
+    "download_url": "http://www.mediafire.com/file/51565su40y4p4tu/214._Filsafat_Manusia_-_Kepribadian_-_Gordon_Allport.rar/file"
+  },
+  {
+    "id": "979315a1-9adf-40ba-84cc-a4623ad8bcd6",
+    "episode": 215,
+    "date": "2018-12-19T00:00:00.886Z",
+    "title": "Filsafat Manusia: Kepribadian &#8211; Abraham Maslow",
+    "topic": "FIlsafat Manusia",
+    "is_official": true,
+    "video_ids": [
+      "18dN9LJOpCU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=18dN9LJOpCU&feature=youtu.be",
+    "download_url": "http://www.mediafire.com/file/eabl03kme3fxda3/215._Filsafat_Manusia_-_Kepribadian_-_Abraham_Maslow.rar/file"
+  },
+  {
+    "id": "74732562-bb20-4434-853c-dd585ea7ab96",
+    "episode": 216,
+    "date": "2018-12-26T00:00:00.886Z",
+    "title": "Filsafat Manusia: Kepribadian &#8211; Erich Fromm",
+    "topic": "FIlsafat Manusia",
+    "is_official": true,
+    "video_ids": [
+      "GTmmSC6PfQg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=GTmmSC6PfQg",
+    "download_url": "http://www.mediafire.com/file/tysuofy3y02pn48/216._Filsafat_Manusia_-_Kepribadian_-_Erich_Fromm.rar/file"
+  },
+  {
+    "id": "f8132808-8b5d-4680-816e-af91dad86518",
+    "episode": 217,
+    "date": "2019-01-02T00:00:00.886Z",
+    "title": "Philosophy Of Hope",
+    "topic": "FIlsafat Kehidupan",
+    "is_official": true,
+    "video_ids": [
+      "GTmmSC6PfQg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=GTmmSC6PfQg",
+    "download_url": "http://www.mediafire.com/file/je65uhororehfi9/217._Filsafat_Kehidupan_-_Harapan.rar/file"
+  },
+  {
+    "id": "fb0935f9-8855-49cb-9231-a95524c4b45d",
+    "episode": 218,
+    "date": "2019-01-09T00:00:00.886Z",
+    "title": "Philosophy Of Fear",
+    "topic": "FIlsafat Kehidupan",
+    "is_official": true,
+    "video_ids": [
+      "SjhmclC-k0Q"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=SjhmclC-k0Q",
+    "download_url": "http://www.mediafire.com/file/r5smoww9b7fdwgd/218._Filsafat_Kehidupan_-_Ketakutan.rar/file"
+  },
+  {
+    "id": "21615c32-d640-4425-b498-199553e85a05",
+    "episode": 219,
+    "date": "2019-01-16T00:00:00.886Z",
+    "title": "Philosophy Of Time",
+    "topic": "FIlsafat Kehidupan",
+    "is_official": true,
+    "video_ids": [
+      "00cCUX229ug"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=00cCUX229ug",
+    "download_url": "http://www.mediafire.com/file/d0nb6r5m3dmykg5/219._Filsafat_Kehidupan_-_Waktu.rar/file"
+  },
+  {
+    "id": "fba91aff-b4c3-4332-84de-5e93a0b23ff9",
+    "episode": 220,
+    "date": "2019-02-20T00:00:00.886Z",
+    "title": "Alegori Cinta Ilahiat : Nuruddin Abdurrahman Al Jami&#8217; &#8211; Yusuf Zulaikha",
+    "topic": "Alegori Cinta Ilahiat",
+    "is_official": true,
+    "video_ids": [
+      "Oee71z4vO0A"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Oee71z4vO0A",
+    "download_url": "http://www.mediafire.com/file/szmlyjms1j7lxbq/220._Alegori_Cinta_Ilahiyat_-_Jami%2527_-_Yusuf_Zulaikha.rar/file"
+  },
+  {
+    "id": "2e4fa7b2-8e67-4e8a-bd12-30290dca7210",
+    "episode": 221,
+    "date": "2019-02-27T00:00:00.886Z",
+    "title": "Alegori Cinta Ilahiat: Nizami Ganjavi & Laila Majnun",
+    "topic": "Alegori Cinta Ilahiat",
+    "is_official": true,
+    "video_ids": [
+      "K6W6BYNpWMs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=K6W6BYNpWMs",
+    "download_url": "http://www.mediafire.com/file/e1tfxv8a5a5c12w/221._Alegori_Cinta_Ilahiyat_-_Nizami_-_Layla_Majnun.rar/file"
+  },
+  {
+    "id": "27e4125a-1903-4fc2-baa2-028708da0ffc",
+    "episode": 222,
+    "date": "2019-03-13T00:00:00.886Z",
+    "title": "Rene Descartes: Skeptisisme",
+    "topic": "Filsafat Barat Lagi",
+    "is_official": true,
+    "video_ids": [
+      "qgyQ5O0X4W8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qgyQ5O0X4W8",
+    "download_url": "http://www.mediafire.com/file/ka42p5ei1bbvk36/222._Filsafat_Barat_Lagi_-_Rene_Descartes_-_Skeptisisme.rar/file"
+  },
+  {
+    "id": "2684e5f2-5518-4d15-8915-d300ed0f4d71",
+    "episode": 223,
+    "date": "2019-03-20T00:00:00.886Z",
+    "title": "Henri Bergson: Intuisisme",
+    "topic": "Filsafat Barat Lagi",
+    "is_official": true,
+    "video_ids": [
+      "rBqtgwLw868"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=rBqtgwLw868",
+    "download_url": "http://www.mediafire.com/file/xrj9e2uuuqon8wm/223._Filsafat_Barat_Lagi_-_Henri_Bergson_-_Intuisionisme.rar/file"
+  },
+  {
+    "id": "ab8825d8-6597-4de4-bf89-4b7a1a2e61b3",
+    "episode": 224,
+    "date": "2019-03-27T00:00:00.886Z",
+    "title": "Albert Camus: Absurditas",
+    "topic": "Filsafat Barat Lagi",
+    "is_official": true,
+    "video_ids": [
+      "UCRw1ZKwSLQ"
+    ],
+    "video_url": "https://youtu.be/UCRw1ZKwSLQ",
+    "download_url": "http://www.mediafire.com/file/0qybfltiy7t98dl/224._Filsafat_Barat_Lagi_-_Albert_Camus_-_Absurditas.rar/file"
+  },
+  {
+    "id": "7db8b140-a0e1-42e5-ba98-7346d7724312",
+    "episode": 225,
+    "date": "2019-04-03T00:00:00.886Z",
+    "title": "Buya Hamka: Lembaga Budi",
+    "topic": "Filsafat Kitab Penata Moral",
+    "is_official": true,
+    "video_ids": [
+      "TQYoTl1eg3s"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=TQYoTl1eg3s",
+    "download_url": "http://www.mediafire.com/file/z9d8szr5jhnroc0/225._Kitab_Penata_Moral_-_Buya_Hamka_-_Lembaga_Budi.rar/file"
+  },
+  {
+    "id": "b7f1050a-0f0c-41de-a2c2-31ae57725602",
+    "episode": 226,
+    "date": "2019-04-10T00:00:00.886Z",
+    "title": "Sri Susuhunan Pakubuwana IV: Serat Wulangreh",
+    "topic": "Filsafat Kitab Penata Moral",
+    "is_official": true,
+    "video_ids": [
+      "LaZ5F5x0MEk"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=LaZ5F5x0MEk&t=3026s",
+    "download_url": "http://www.mediafire.com/file/qud7tdfj2oivmms/226._Kitab_Penata_Moral_-_Sri_Susuhunan_Pakubuwana_IV_-_Serat_Wulangreh.rar/file"
+  },
+  {
+    "id": "cbbbf807-b6aa-42e7-9051-bffeeee474be",
+    "episode": 227,
+    "date": "2019-04-17T00:00:00.886Z",
+    "title": "Al Ghazali: Al Kasyfu Wa Al Tabyin",
+    "topic": "Filsafat Kitab Penata Moral",
+    "is_official": true,
+    "video_ids": [
+      "QDahUn6vUKA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=QDahUn6vUKA&t=732s",
+    "download_url": "http://www.mediafire.com/file/0a2or4dyws8vgrn/227._Kitab_Penata_Moral_-_Imam_Al_Ghazali_-_Al-Kasyfu_Wa_Al-Tabyin.rar/file"
+  },
+  {
+    "id": "fe6cc098-2ad1-4334-8d31-ce1a39dfd7c9",
+    "episode": 228,
+    "date": "2019-07-03T00:00:00.886Z",
+    "title": "Fitrah",
+    "topic": "Falsafah Hidup",
+    "is_official": true,
+    "video_ids": [
+      "gOPgTAp4Wd8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=gOPgTAp4Wd8&t=376s",
+    "download_url": "http://www.mediafire.com/file/jsskuohactnafcb/228._Falsafah_Hidup_-_Fitrah.rar/file"
+  },
+  {
+    "id": "f5bad791-cdb7-4c61-8d8b-49148a1af01c",
+    "episode": 229,
+    "date": "2019-07-10T00:00:00.886Z",
+    "title": "Doa",
+    "topic": "Falsafah Hidup",
+    "is_official": true,
+    "video_ids": [
+      "ai5NmoH3ifA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=ai5NmoH3ifA&t=4984s",
+    "download_url": "http://www.mediafire.com/file/g6g1fgumup26j7y/229._Falsafah_Hidup_-_Doa.rar/file"
+  },
+  {
+    "id": "c95bd1e9-0c7e-4005-aef0-33cc1e023d4f",
+    "episode": 230,
+    "date": "2019-07-17T00:00:00.886Z",
+    "title": "Humor",
+    "topic": "Falsafah Hidup",
+    "is_official": true,
+    "video_ids": [
+      "buiPYXjyrW8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=buiPYXjyrW8&t=294s",
+    "download_url": "http://www.mediafire.com/file/jn5jm263ebl1lgk/230._Falsafah_Hidup_-_Humor.rar/file"
+  },
+  {
+    "id": "7314a8d2-473e-4371-916f-da001ec2a519",
+    "episode": 231,
+    "date": "2019-07-24T00:00:00.886Z",
+    "title": "Permainan",
+    "topic": "Falsafah Hidup",
+    "is_official": true,
+    "video_ids": [
+      "Jde9ekMF4tY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Jde9ekMF4tY&t=290s",
+    "download_url": "http://www.mediafire.com/file/4e8ly4q25hxyjgy/231._Falsafah_Hidup_-_Permainan.rar/file"
+  },
+  {
+    "id": "a158e33b-abb4-4b86-b9a5-fbbe9fe28cfc",
+    "episode": 232,
+    "date": "2019-07-31T00:00:00.886Z",
+    "title": "Pernikahan",
+    "topic": "Falsafah Hidup",
+    "is_official": true,
+    "video_ids": [
+      "hy30nx8444o"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hy30nx8444o&t=534s",
+    "download_url": "http://www.mediafire.com/file/a7auo2tylxsqoqi/232._Falsafah_Hidup_-_Pernikahan.rar/file"
+  },
+  {
+    "id": "0eb2e5a3-4976-4be8-8662-1c698756b191",
+    "episode": 233,
+    "date": "2019-08-07T00:00:00.886Z",
+    "title": "Tokoh Muda",
+    "topic": "Tokoh Muda",
+    "is_official": true,
+    "video_ids": [
+      "Z4WJVr935P0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Z4WJVr935P0",
+    "download_url": "http://www.mediafire.com/file/79n8ygh1i1noqhw/233._Tokoh_Muda_-_Soe_Hok_Gie.rar/file"
+  },
+  {
+    "id": "26cc1ecf-9d15-43ee-a844-fc1e18208ff2",
+    "episode": 234,
+    "date": "2019-08-14T00:00:00.886Z",
+    "title": "Tokoh Muda: Ahmad Wahib",
+    "topic": "Tokoh Muda",
+    "is_official": true,
+    "video_ids": [
+      "VB7L5t2Mm7c"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=VB7L5t2Mm7c",
+    "download_url": "http://www.mediafire.com/file/msv7fg076tz99cw/234._Tokoh_Muda_-_Ahmad_Wahib.rar/file"
+  },
+  {
+    "id": "ac6c2c12-f70a-418b-a948-bc81efc6e83d",
+    "episode": 235,
+    "date": "2019-08-21T00:00:00.886Z",
+    "title": "Tokoh Muda: K.H Abdul Wahid Hasyim",
+    "topic": "Tokoh Muda",
+    "is_official": true,
+    "video_ids": [
+      "8KZIL_6oC_g"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=8KZIL_6oC_g",
+    "download_url": "http://www.mediafire.com/file/93arzecx0szoox4/235._Tokoh_Muda_-_K.H.A._Wahid_Hasyim.rar/file"
+  },
+  {
+    "id": "2e74ad5f-b31f-4149-a61f-db01b73148d1",
+    "episode": 236,
+    "date": "2019-08-28T00:00:00.886Z",
+    "title": "Tokoh Muda: Chairil Anwar",
+    "topic": "Tokoh Muda",
+    "is_official": true,
+    "video_ids": [
+      "Nnlq9VSZdfU"
+    ],
+    "video_url": "https://youtu.be/Nnlq9VSZdfU",
+    "download_url": "http://www.mediafire.com/file/tn1m1kl28s8036k/236._Tokoh_Muda_-_Chairil_Anwar.rar/file"
+  },
+  {
+    "id": "e6962d74-785e-4deb-97a8-eca148499ac8",
+    "episode": 237,
+    "date": "2019-09-04T00:00:00.886Z",
+    "title": "Ismail Raji al-Faruqi: Seni Tauhid",
+    "topic": "Seni dan Estetika Islam",
+    "is_official": true,
+    "video_ids": [
+      "bO23fo3WyFw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=bO23fo3WyFw",
+    "download_url": "http://www.mediafire.com/file/v1yruli0w0la8lr/237._Ismail_Al_Faruqi_-_Seni_Tauhid.rar/file"
+  },
+  {
+    "id": "2ffa3ebb-985b-4a31-964c-d81f32d12f5b",
+    "episode": 238,
+    "date": "2019-09-11T00:00:00.886Z",
+    "title": "Seyyed Hossein Nasr",
+    "topic": "Seni dan Estetika Islam",
+    "is_official": true,
+    "video_ids": [
+      "Ow3EXP62HaY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Ow3EXP62HaY",
+    "download_url": "http://www.mediafire.com/file/r8wnupz3p0y26i6/238._Seyyed_Hossein_Nasr_-_Spiritualitas_Seni_Islam.rar/file"
+  },
+  {
+    "id": "c8c36bf2-fcef-470a-bc1a-ead5092be6ef",
+    "episode": 239,
+    "date": "2019-09-18T00:00:00.886Z",
+    "title": "Muhammad Iqbal",
+    "topic": "Seni dan Estetika Islam",
+    "is_official": true,
+    "video_ids": [
+      "TrSqL_GwNQA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=TrSqL_GwNQA",
+    "download_url": "http://www.mediafire.com/file/f7tg1yvf202ftdh/239._Muhammad_Iqbal_-_Seni_Islam.rar/file"
+  },
+  {
+    "id": "44a86fe5-3366-4ee4-9f78-86a21c18c106",
+    "episode": 240,
+    "date": "2019-09-25T00:00:00.886Z",
+    "title": "Hazrat Inayat Khan: ",
+    "topic": "Seni dan Estetika Islam",
+    "is_official": true,
+    "video_ids": [
+      "hZOYcqEEvck"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hZOYcqEEvck",
+    "download_url": "http://www.mediafire.com/file/znuj1yv2qd3b1vm/240._Hazrat_Inayat_Khan_-_Dimensi_Mistik_Musik_dan_Bunyi.rar/file"
+  },
+  {
+    "id": "05a38ef7-740e-4d40-9af3-97f273c813c1",
+    "episode": 241,
+    "date": "2019-10-02T00:00:00.886Z",
+    "title": "Thales",
+    "topic": "Kembali ke Yunani Lagi",
+    "is_official": true,
+    "video_ids": [
+      "GqrCfIFuVKw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=GqrCfIFuVKw",
+    "download_url": "http://www.mediafire.com/file/lnv20ncu70wcxl5/241._Thales.rar/file"
+  },
+  {
+    "id": "d8a03dc6-4fa9-46c8-9ade-4f38b6cc72e4",
+    "episode": 242,
+    "date": "2019-10-09T00:00:00.886Z",
+    "title": "Pythagoras",
+    "topic": "Kembali ke Yunani Lagi",
+    "is_official": true,
+    "video_ids": [
+      "Gs3_s9nVquA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Gs3_s9nVquA",
+    "download_url": "http://www.mediafire.com/file/qk3nkocsb0vt31n/242._Pythagoras.rar/file"
+  },
+  {
+    "id": "0eb4b6a9-6f8b-4669-8c54-f0a01769c12f",
+    "episode": 243,
+    "date": "2019-10-16T00:00:00.886Z",
+    "title": "Parmenides",
+    "topic": "Kembali ke Yunani Lagi",
+    "is_official": true,
+    "video_ids": [
+      "V-C7Sy6Khh4"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=V-C7Sy6Khh4",
+    "download_url": "http://www.mediafire.com/file/5hs5fhwzexnq0p4/243._Parmenides.rar/file"
+  },
+  {
+    "id": "6f54f8c1-50bf-4d3a-b2a0-2888f9d2e4a0",
+    "episode": 244,
+    "date": "2019-10-23T00:00:00.886Z",
+    "title": "Herakleitos",
+    "topic": "Kembali ke Yunani Lagi",
+    "is_official": true,
+    "video_ids": [
+      "J_p4L2r5200"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=J_p4L2r5200",
+    "download_url": "http://www.mediafire.com/file/3eijevstmys67fw/244._Heraclitus.rar/file"
+  },
+  {
+    "id": "ae54c4e0-0e5a-465c-953f-f4db2dde8452",
+    "episode": 245,
+    "date": "2019-10-30T00:00:00.886Z",
+    "title": "Abu Nuwas",
+    "topic": "Tema Sisipan Bulan Oktober",
+    "is_official": true,
+    "video_ids": [
+      "iDAIi7Ocygs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=iDAIi7Ocygs",
+    "download_url": "http://www.mediafire.com/file/5ms556ifjzsrgi4/245._Abu_Nuwas.rar/file"
+  },
+  {
+    "id": "ad09501c-0ffc-4ab5-941b-038e5a3ceb6c",
+    "episode": 246,
+    "date": "2019-11-13T00:00:00.886Z",
+    "title": "Wisdom of Albert Einstein",
+    "topic": "Para Genius",
+    "is_official": true,
+    "video_ids": [
+      "TQbYPlOE_N8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=TQbYPlOE_N8",
+    "download_url": "http://www.mediafire.com/file/9rb1befy6cgt9ot/246._Albert_Einstein.rar/file"
+  },
+  {
+    "id": "8ff69dec-c153-4e28-8706-bfa228479e31",
+    "episode": 247,
+    "date": "2019-11-20T00:00:00.886Z",
+    "title": "Wisdom of Isaac Newton",
+    "topic": "Para Genius",
+    "is_official": true,
+    "video_ids": [
+      "iCYoPnxwvtY"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=iCYoPnxwvtY",
+    "download_url": "http://www.mediafire.com/file/oly68crlfb1e1g7/247._Isaac_Newton.rar/file"
+  },
+  {
+    "id": "7b422e9a-0f9d-47f6-ab26-4a30e3592eac",
+    "episode": 248,
+    "date": "2019-11-27T00:00:00.886Z",
+    "title": "Wisdom of Leonardo da Vinci",
+    "topic": "Para Genius",
+    "is_official": true,
+    "video_ids": [
+      "lpRAiobhVYw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=lpRAiobhVYw",
+    "download_url": "http://www.mediafire.com/file/04bzeda3u8z06gz/248._Leonardo_Da_Vinci.rar/file"
+  },
+  {
+    "id": "bd04c725-58ac-4553-81bd-af2647640d62",
+    "episode": 249,
+    "date": "2019-12-11T00:00:00.886Z",
+    "title": "Imam Hasan Al-Bashri",
+    "topic": "Muhasabah",
+    "figure": "Imam Hasan Al-Bashri",
+    "is_official": true,
+    "video_ids": [
+      "mUpj06IBOm0"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=mUpj06IBOm0",
+    "download_url": "http://www.mediafire.com/file/p79wzqy4m1axmo4/249._Imam_Hasan_Al_Bashri.rar/file"
+  },
+  {
+    "id": "f40b5c4b-2cf5-46a4-a449-5fc1c1eb0fd1",
+    "episode": 250,
+    "date": "2019-12-18T00:00:00.886Z",
+    "title": "Imam Abu Harits al-Muhasibi",
+    "topic": "Muhasabah",
+    "figure": "Imam Abu Harits al-Muhasibi",
+    "is_official": true,
+    "video_ids": [
+      "qQXil4OAlFc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=qQXil4OAlFc",
+    "download_url": "http://www.mediafire.com/file/g0ijv7sl3htnkkq/250._Imam_Haris_Al_Muhasibi.rar/file"
+  },
+  {
+    "id": "25659f54-2805-4d87-8b7b-280923873fac",
+    "episode": 251,
+    "date": "2019-12-25T00:00:00.886Z",
+    "title": "Imam Junaid al-Baghdad",
+    "topic": "Muhasabah",
+    "figure": "Imam Junaid al-Baghdad",
+    "is_official": true,
+    "video_ids": [
+      "SKi2308ck9A"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=SKi2308ck9A",
+    "download_url": "http://www.mediafire.com/file/z7qxwycq616cgh5/251._Imam_Junaid_Al_Baghdadi.rar/file"
+  },
+  {
+    "id": "6a141568-0fe9-4b07-92e4-1e8ab0affb1a",
+    "episode": 252,
+    "date": "2020-01-08T00:00:00.886Z",
+    "title": "Meng Zi (konfusianisme)",
+    "topic": "Belajar Sampai Ke Negeri Cina",
+    "is_official": true,
+    "video_ids": [
+      "J1wgTZ-pVR8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=J1wgTZ-pVR8",
+    "download_url": "http://www.mediafire.com/file/2qy6ziz8v05n1ti/252._Meng_Zi.rar/file"
+  },
+  {
+    "id": "7a389611-469d-46f9-a138-50eb94b5ae37",
+    "episode": 253,
+    "date": "2020-01-15T00:00:00.886Z",
+    "title": "Han Fei Zi (legalisme)",
+    "topic": "Belajar Sampai Ke Negeri Cina",
+    "is_official": true,
+    "video_ids": [
+      "NlU8DCWjz3g"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=NlU8DCWjz3g",
+    "download_url": "http://www.mediafire.com/file/eq3j83vb8cls41b/253._Han_Fei_Zi.rar/file"
+  },
+  {
+    "id": "a035c6a3-e8aa-4a09-9418-93dd890de424",
+    "episode": 254,
+    "date": "2020-01-22T00:00:00.886Z",
+    "title": "Zhuang Zi (taoisme)",
+    "topic": "Belajar Sampai Ke Negeri Cina",
+    "is_official": true,
+    "video_ids": [
+      "EL8axwGEe48"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=EL8axwGEe48",
+    "download_url": "http://www.mediafire.com/file/8utm3urqvjp7djf/254._Zhuang_Zi.rar/file"
+  },
+  {
+    "id": "6b093bf0-2a74-4391-bc88-6c08de1ff908",
+    "episode": 255,
+    "date": "2020-01-29T00:00:00.886Z",
+    "title": "Mozi (mohisme)",
+    "topic": "Belajar Sampai Ke Negeri Cina",
+    "is_official": true,
+    "video_ids": [
+      "n9zztdwf1qM"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=n9zztdwf1qM",
+    "download_url": "http://www.mediafire.com/file/y52dlqqk9cwi1kp/255._Mo_Zi.rar/file"
+  },
+  {
+    "id": "7a53f8b3-6d72-400c-81fc-8fd1001142f6",
+    "episode": 256,
+    "date": "2020-02-05T00:00:00.886Z",
+    "title": "KH. Ahmad Dahlan",
+    "topic": "FIlsafat Pendidikan",
+    "figure": "KH. Ahmad Dahlan",
+    "is_official": true,
+    "video_ids": [
+      "z6I5nm_s0wI"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=z6I5nm_s0wI",
+    "download_url": "http://www.mediafire.com/file/j3n74xgc200p1w6/256._KH_Ahmad_Dahlan_-_Pendidikan.rar/file"
+  },
+  {
+    "id": "a931676f-62f6-4143-956a-aa4e7c716d4f",
+    "episode": 257,
+    "date": "2020-02-12T00:00:00.886Z",
+    "title": "KH. Hasyim Asy’ari",
+    "topic": "FIlsafat Pendidikan",
+    "figure": "KH. Hasyim Asy’ari",
+    "is_official": true,
+    "video_ids": [
+      "wMHTd9u2QXg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wMHTd9u2QXg",
+    "download_url": "http://www.mediafire.com/file/cl7tlmmb4wi5fnl/257._KH_Hasyim_Asy%2527arie_-_Pendidikan.rar/file"
+  },
+  {
+    "id": "26bd3cda-4c71-4569-a9e9-18a8acb5135b",
+    "episode": 258,
+    "date": "2020-02-19T00:00:00.886Z",
+    "title": "R. Dewi Sartika",
+    "topic": "FIlsafat Pendidikan",
+    "figure": "R. Dewi Sartika",
+    "is_official": true,
+    "video_ids": [
+      "iGXQVEF3PbQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=iGXQVEF3PbQ",
+    "download_url": "http://www.mediafire.com/file/j53mt5ssi9ln0rx/258._Raden_Dewi_Sartika_-_Pendidikan.rar/file"
+  },
+  {
+    "id": "4375ce80-4d3d-4c2a-881e-785ec3516787",
+    "episode": 259,
+    "date": "2020-02-26T00:00:00.886Z",
+    "title": "Ki Hadjar Dewantara",
+    "topic": "FIlsafat Pendidikan",
+    "figure": "Ki Hadjar Dewantara",
+    "is_official": true,
+    "video_ids": [
+      "pjPOEHXtTMU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=pjPOEHXtTMU",
+    "download_url": "http://www.mediafire.com/file/2ceperxiur76uxn/259._Ki_Hadjar_Dewantara_-_Pendidikan.rar/file"
+  },
+  {
+    "id": "83501ed2-adcf-4b2d-aab9-2f3a39410d5b",
+    "episode": 260,
+    "date": "2020-03-04T00:00:00.886Z",
+    "title": "Adam Smith",
+    "topic": "FIlsafat Ekonomi",
+    "is_official": true,
+    "video_ids": [
+      "UpbbO_thtsg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=UpbbO_thtsg",
+    "download_url": "http://www.mediafire.com/file/lxhnidlgtlk6uxo/260._Adam_Smith.rar/file"
+  },
+  {
+    "id": "5b17d2ea-2329-4c0c-80df-1c51e78793b6",
+    "episode": 261,
+    "date": "2020-03-11T00:00:00.886Z",
+    "title": "Max Weber - ",
+    "topic": "FIlsafat Ekonomi",
+    "figure": "Max Weber",
+    "is_official": true,
+    "video_ids": [
+      "aM7iW1TUJQ8"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=aM7iW1TUJQ8",
+    "download_url": "http://www.mediafire.com/file/e50myuvyqidqpdk/261._Max_Weber.rar/file"
+  },
+  {
+    "id": "c51bf15a-0500-4024-b540-2be53690d4ca",
+    "episode": 262,
+    "date": "2020-06-10T00:00:00.886Z",
+    "title": "Bencana",
+    "topic": "Musibah",
+    "is_official": true,
+    "video_ids": [
+      "VkXoFfEe_zE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=VkXoFfEe_zE&t=156s",
+    "download_url": "http://www.mediafire.com/file/qb1kvnb7m1zj72t/262._Membaca_Bencana.rar/file"
+  },
+  {
+    "id": "bbdc2ba2-c2db-4eb4-a8d9-a965d3093772",
+    "episode": 263,
+    "date": "2020-06-17T00:00:00.886Z",
+    "title": "Sakit",
+    "topic": "Musibah",
+    "is_official": true,
+    "video_ids": [
+      "cf3o_oiQU2U"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=cf3o_oiQU2U&t=2294s",
+    "download_url": "http://www.mediafire.com/file/0w1vxyo6aeupswf/263._Memaknai_Sakit.rar/file"
+  },
+  {
+    "id": "cb4d037b-955d-4651-ae78-7515ceac7a4d",
+    "episode": 264,
+    "date": "2020-06-24T00:00:00.886Z",
+    "title": "Penderitaan",
+    "topic": "Musibah",
+    "is_official": true,
+    "video_ids": [
+      "-SHqsfNiQRg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=-SHqsfNiQRg&t=1s",
+    "download_url": "http://www.mediafire.com/file/obz45g1ex5fb570/264._Menyelami_Penderitaan.rar/file"
+  },
+  {
+    "id": "36df29f1-0503-4349-9a48-68c63e5b2460",
+    "episode": 265,
+    "date": "2020-07-01T00:00:00.886Z",
+    "title": "Wisdom of Francis Bacon",
+    "topic": "Wisdom of Empiricism",
+    "figure": "Francis Bacon",
+    "is_official": true,
+    "video_ids": [
+      "nkcKa6kb0xQ"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=nkcKa6kb0xQ&t=869s",
+    "download_url": "https://www.mediafire.com/file/8w6ykkl7k484y35/file"
+  },
+  {
+    "id": "76493c11-f1cd-40b0-82f3-68a1eb7f8c17",
+    "episode": 266,
+    "date": "2020-07-08T00:00:00.886Z",
+    "title": "Wisdom of John Locke",
+    "topic": "Wisdom of Empiricism",
+    "figure": "John Locke",
+    "is_official": true,
+    "video_ids": [
+      "5fe_QPqmqTs"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=5fe_QPqmqTs&t=8s",
+    "download_url": "https://www.mediafire.com/file/t19404bj62a2plc/file"
+  },
+  {
+    "id": "46c5c8b5-cf9e-47cd-8864-2268af056f03",
+    "episode": 267,
+    "date": "2020-07-15T00:00:00.886Z",
+    "title": "Wisdom of George Berkeley",
+    "topic": "Wisdom of Empiricism",
+    "figure": "George Berkeley",
+    "is_official": true,
+    "video_ids": [
+      "Bh5v0-g05OA"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=Bh5v0-g05OA",
+    "download_url": "http://www.mediafire.com/file/t3t9ngd5jt2ulo0/file"
+  },
+  {
+    "id": "88ab45ec-1e63-44b0-966e-b85596886bc9",
+    "episode": 268,
+    "date": "2020-07-22T00:00:00.886Z",
+    "title": "Wisdom of David Hume",
+    "topic": "Wisdom of Empiricism",
+    "figure": "David Hume",
+    "is_official": true,
+    "video_ids": [
+      "_gMx3xEwWOU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=_gMx3xEwWOU",
+    "download_url": "http://www.mediafire.com/file/8mfu02vo836ysie/file"
+  },
+  {
+    "id": "a2b7a664-af54-4398-a17b-001b34f9767e",
+    "episode": 269,
+    "date": "2020-07-29T00:00:00.886Z",
+    "title": "Pengorbanan",
+    "topic": "Tema Sisipan / Falsafah hidup",
+    "is_official": true,
+    "video_ids": [
+      "im0sImH_AJc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=im0sImH_AJc",
+    "download_url": "http://www.mediafire.com/file/ed6laen101nysy4/file"
+  },
+  {
+    "id": "d9f59ff6-997a-4b77-bf2b-53f598ce419e",
+    "episode": 270,
+    "date": "2020-08-05T00:00:00.886Z",
+    "title": "Syaikh Abdus-Samad al-Falimbani",
+    "topic": "Sufi Nusantara #2",
+    "figure": "Syaikh Abdus-Samad al-Falimbani",
+    "is_official": true,
+    "video_ids": [
+      "2bMPn4OlOec"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=2bMPn4OlOec",
+    "download_url": "http://www.mediafire.com/file/wxkjp13feviqkzv/270._Syaikh_Abdus-Samad_al-Falimbani.rar/file"
+  },
+  {
+    "id": "d1c2218e-0af1-45cb-8654-535764aa075b",
+    "episode": 271,
+    "date": "2020-08-12T00:00:00.886Z",
+    "title": "Syaikh Nawawi al-Bantani",
+    "topic": "Sufi Nusantara #2",
+    "figure": "Syaikh Nawawi al-Bantani",
+    "is_official": true,
+    "video_ids": [
+      "hmWzcwfUikE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=hmWzcwfUikE",
+    "download_url": "http://www.mediafire.com/file/zw42wy1hqhg0asj/271._Syaikh_Namawi_Al_Bantani.rar/file"
+  },
+  {
+    "id": "3e174b8c-fce4-4dd9-9a6d-1d40ef560e44",
+    "episode": 272,
+    "date": "2020-08-19T00:00:00.886Z",
+    "title": "Kh Sholeh Darat As-Samarani",
+    "topic": "Sufi Nusantara #2",
+    "figure": "Kh Sholeh Darat As-Samarani",
+    "is_official": true,
+    "video_ids": [
+      "DZoQMw8e65Q"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=DZoQMw8e65Q",
+    "download_url": "http://www.mediafire.com/file/retwzz9tuvr0wvj/file"
+  },
+  {
+    "id": "c4e0b0ae-5261-4060-9968-748c2b6ec818",
+    "episode": 273,
+    "date": "2020-08-26T00:00:00.886Z",
+    "title": "Sunan Bonang",
+    "topic": "Sufi Nusantara #2",
+    "figure": "Sunan Bonang",
+    "is_official": true,
+    "video_ids": [
+      "wDv60JOqnfU"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=wDv60JOqnfU&feature=youtu.be",
+    "download_url": "http://www.mediafire.com/file/wtcxmeqpgroa8gm/273._Sunan_Bonang.rar/file"
+  },
+  {
+    "id": "e4df911c-1e97-483d-87c1-0e4800b490e8",
+    "episode": 274,
+    "date": "2020-09-02T00:00:00.886Z",
+    "title": "Aristoteles",
+    "topic": "Kepimpinan",
+    "figure": "Aristoteles",
+    "is_official": true,
+    "video_ids": [
+      "MFfePhclpLw"
+    ],
+    "video_url": "https://youtu.be/MFfePhclpLw",
+    "download_url": "http://www.mediafire.com/file/113cn4gmmdlgqwx/274._Aristoteles_-_Kepemimpinan.rar/file"
+  },
+  {
+    "id": "cfe26657-ef30-4bd8-8033-faa052095921",
+    "episode": 275,
+    "date": "2020-09-09T00:00:00.886Z",
+    "title": "Machiavelli",
+    "topic": "Kepimpinan",
+    "figure": "Machiavelli",
+    "is_official": true,
+    "video_ids": [
+      "k2ceIAhRubg"
+    ],
+    "video_url": "https://youtu.be/k2ceIAhRubg",
+    "download_url": "http://www.mediafire.com/file/k1r1tihbqi8d296/275._Machiavelli_-_Kepemimpinan.rar/file"
+  },
+  {
+    "id": "22fe6575-bed6-4fd3-9297-6e29efec47cd",
+    "episode": 276,
+    "date": "2020-09-16T00:00:00.886Z",
+    "title": "Al Mawardi",
+    "topic": "Kepimpinan",
+    "figure": "Al Mawardi",
+    "is_official": true,
+    "video_ids": [
+      "DVtmRm5GuAc"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=DVtmRm5GuAc",
+    "download_url": "http://www.mediafire.com/file/hnz1tboo0u9dulr/276._Al_Mawardi_-_Kepemimpinan.rar/file"
+  },
+  {
+    "id": "143320e1-bfc2-432a-a66d-8b84f14dde7b",
+    "episode": 277,
+    "date": "2020-09-23T00:00:00.886Z",
+    "title": "Lao Tzu",
+    "topic": "Kepimpinan",
+    "figure": "Lao Tzu",
+    "is_official": true,
+    "video_ids": [
+      "68R7FqepQ0Y"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=68R7FqepQ0Y",
+    "download_url": "http://www.mediafire.com/file/ku0f1y0wcthtnd9/277._Lao_Tzu_-_Kepemimpinan.rar/file"
+  },
+  {
+    "id": "37434601-9adb-496a-a748-f37df4b0e25b",
+    "episode": 278,
+    "date": "2020-09-30T00:00:00.886Z",
+    "title": "Mangkunegara IV",
+    "topic": "Kepimpinan",
+    "figure": "Mangkunegara IV",
+    "is_official": true,
+    "video_ids": [
+      "6ZOHUZt_UiM"
+    ],
+    "video_url": "https://youtu.be/6ZOHUZt_UiM",
+    "download_url": "http://www.mediafire.com/file/iwe4z9nhj3vwfxb/278._KGPAA_Mangkunegara_IV_-_Kepemimpinan.rar/file"
+  },
+  {
+    "id": "89b49bc8-18a7-427e-b712-6870406f2048",
+    "episode": 279,
+    "date": "2020-10-07T00:00:00.886Z",
+    "title": "Ragam Pengalaman Keagamaan (Varieties of Religious Experience)",
+    "topic": "Pengalaman Beragama",
+    "is_official": true,
+    "video_ids": [
+      "IYAllvYJxfg"
+    ],
+    "video_url": "https://youtu.be/IYAllvYJxfg",
+    "download_url": "http://www.mediafire.com/file/u82k9zsvjr8od7c/279._Ragam_Pengalaman_Keagamaan.rar/file"
+  },
+  {
+    "id": "06105cf0-2a85-47bf-b0e6-c3cb13283063",
+    "episode": 280,
+    "date": "2020-10-14T00:00:00.886Z",
+    "title": "Kematangan Beragama (Religious Maturity)",
+    "topic": "Pengalaman Beragama",
+    "is_official": true,
+    "video_ids": [
+      "325YC9q6Jio"
+    ],
+    "video_url": "https://youtu.be/325YC9q6Jio",
+    "download_url": "http://www.mediafire.com/file/0snfmhmf71r54a0/280._Religious_Maturity.rar/file"
+  },
+  {
+    "id": "58ce83e4-8112-4e80-b4f9-564d32377de1",
+    "episode": 281,
+    "date": "2020-10-21T00:00:00.886Z",
+    "title": "Toleransi Agama (Religious Tolerance)",
+    "topic": "Pengalaman Beragama",
+    "is_official": true,
+    "video_ids": [
+      "AYYFrRSAX9M"
+    ],
+    "video_url": "https://youtu.be/AYYFrRSAX9M",
+    "download_url": "https://www.mediafire.com/file/eq4ku3v29sg4n9l/281._Religious_Tolerance.rar/file"
+  },
+  {
+    "id": "07797b8d-a10e-49e8-8c68-553c95456d39",
+    "episode": 282,
+    "date": "2020-10-28T00:00:00.886Z",
+    "title": "Pengalaman Puncak (Peak Experience)",
+    "topic": "Pengalaman Beragama",
+    "is_official": true,
+    "video_ids": [
+      "BTPJ_vkOSUw"
+    ],
+    "video_url": "https://youtu.be/BTPJ_vkOSUw",
+    "download_url": "https://www.mediafire.com/file/undohzepqoex8u4/282._Religious_Peak_Experience.rar/file"
+  },
+  {
+    "id": "466b419d-68b7-4530-a15e-f351cf6a55a5",
+    "episode": 283,
+    "date": "2020-11-04T00:00:00.886Z",
+    "title": "Imam Abu Hanifah",
+    "topic": "Kebijaksanaan Para Faqih",
+    "figure": "Imam Abu Hanifah",
+    "is_official": true,
+    "video_ids": [
+      "-VxKjvS7NdE"
+    ],
+    "video_url": "https://youtu.be/-VxKjvS7NdE",
+    "download_url": "https://www.mediafire.com/file/34yad9dx3yf0e4h/283._Kebijaksanaan_Imam_Abu_Hanifah.rar/file"
+  },
+  {
+    "id": "e2d9addf-5d6e-42f0-a433-43f60fb89935",
+    "episode": 284,
+    "date": "2020-11-11T00:00:00.886Z",
+    "title": "Imam Malik",
+    "topic": "Kebijaksanaan Para Faqih",
+    "figure": "Imam Malik",
+    "is_official": true,
+    "video_ids": [
+      "6qdhWqaaIz4"
+    ],
+    "video_url": "https://youtu.be/6qdhWqaaIz4",
+    "download_url": "http://www.mediafire.com/file/5pvczeezkc4lfur/284._Kebijaksanaan_Imam_Malik.rar/file"
+  },
+  {
+    "id": "f03d9f0e-05ca-44cb-ad54-a369dfcfe52b",
+    "episode": 285,
+    "date": "2020-11-18T00:00:00.886Z",
+    "title": "Imam Syafii",
+    "topic": "Kebijaksanaan Para Faqih",
+    "figure": "Imam Syafii",
+    "is_official": true,
+    "video_ids": [
+      "w3PyhkneV8E"
+    ],
+    "video_url": "https://youtu.be/w3PyhkneV8E",
+    "download_url": "http://www.mediafire.com/file/z79lyxxuguakr26/285._Kebijaksanaan_Imam_Syafii.rar/file"
+  },
+  {
+    "id": "1e1fc742-72a0-46aa-b8f7-89dfc0e38737",
+    "episode": 286,
+    "date": "2020-11-25T00:00:00.886Z",
+    "title": "Imam Ahmad",
+    "topic": "Kebijaksanaan Para Faqih",
+    "figure": "Imam Ahmad",
+    "is_official": true,
+    "video_ids": [
+      "-vy5BLhFqk0"
+    ],
+    "video_url": "https://youtu.be/-vy5BLhFqk0",
+    "download_url": "http://www.mediafire.com/file/uzuwbsuzzneffjk/286._Kebijaksanaan_Imam_Ahmad.rar/file"
+  },
+  {
+    "id": "88bc206c-a1a8-4540-aa86-7e11a70e4383",
+    "episode": 287,
+    "date": "2020-12-02T00:00:00.886Z",
+    "title": "Bertanya Secara Tepat",
+    "topic": "Metode Berilsafat",
+    "is_official": true,
+    "video_ids": [
+      "bQvRTVdqiqA"
+    ],
+    "video_url": "https://youtu.be/bQvRTVdqiqA",
+    "download_url": "https://www.mediafire.com/file/mo6l2vwf5qk83os/287._Seni_Bertanya.rar/file"
+  },
+  {
+    "id": "18f3f4e6-8e5a-48de-b29c-a2de9d7186a7",
+    "episode": 288,
+    "date": "2020-12-09T00:00:00.886Z",
+    "title": "Berdebat Secara Baik",
+    "topic": "Metode Berilsafat",
+    "is_official": true,
+    "video_ids": [
+      "suIh3xGncp4"
+    ],
+    "video_url": "https://youtu.be/suIh3xGncp4",
+    "download_url": "https://www.mediafire.com/file/hs33pv2rhwj3dxq/288._Berdebat_Secara_Baik.rar/file"
+  },
+  {
+    "id": "67113a84-089f-4c39-a9fd-2a9aad6cef80",
+    "episode": 289,
+    "date": "2020-12-16T00:00:00.886Z",
+    "title": "Berdialog Secara Produktif",
+    "topic": "Metode Berilsafat",
+    "is_official": true,
+    "video_ids": [
+      "_qQiFrgbfJU"
+    ],
+    "video_url": "https://youtu.be/_qQiFrgbfJU",
+    "download_url": "https://www.mediafire.com/file/rqlljm0mo3w3dsq/289._Dialog_Yang_Produktif.rar/file"
+  },
+  {
+    "id": "3d6fcc6f-5a3b-46fb-8065-03a272a99b94",
+    "episode": 290,
+    "date": "2020-12-23T00:00:00.886Z",
+    "title": "Berpikir Secara Kritis",
+    "topic": "Metode Berilsafat",
+    "is_official": true,
+    "video_ids": [
+      "jOeGAs8aEUM"
+    ],
+    "video_url": "https://youtu.be/jOeGAs8aEUM",
+    "download_url": "https://www.mediafire.com/file/krmob2ebc0m4pq1/290._Berpikir_Kritis.rar/file"
+  },
+  {
+    "id": "629c33e9-8ce5-4fb8-b83e-d4dca01cfd13",
+    "episode": 291,
+    "date": "2020-12-30T00:00:00.886Z",
+    "title": "Introspeksi Diri (Muhasabah)",
+    "topic": "Metode Berfilsafat",
+    "is_official": true,
+    "video_ids": [
+      "fxugaRM55QE"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=fxugaRM55QE",
+    "download_url": "https://www.mediafire.com/file/azn5vq80zlmdwqj/291._Introspeksi_Diri_%2528Muhasabah%2529.rar/file"
+  },
+  {
+    "id": "8e140472-dad3-4f80-80b1-ca8e2e0e0742",
+    "episode": 292,
+    "date": "2021-01-06T00:00:00.886Z",
+    "title": "Falsafah Cahaya",
+    "topic": "Filsafat Hidup",
+    "is_official": true,
+    "video_ids": [
+      "CJKall39ODc"
+    ],
+    "video_url": "https://youtu.be/CJKall39ODc",
+    "download_url": "https://www.mediafire.com/file/vg57umy2voqzuds/292._Falsafah_Cahaya.rar/file"
+  },
+  {
+    "id": "313ea9cd-e993-431b-b3f2-1e3a59be5818",
+    "episode": 293,
+    "date": "2021-01-13T00:00:00.886Z",
+    "title": "The Law of Attraction",
+    "topic": "Filsafat Hidup",
+    "is_official": true,
+    "video_ids": [
+      "zn1Ib4JJPl0"
+    ],
+    "video_url": "https://youtu.be/zn1Ib4JJPl0",
+    "download_url": "https://www.mediafire.com/file/28ko46xgbc1kkew/293._The_Law_of_Attractions.rar/file"
+  },
+  {
+    "id": "54fa62c8-a3de-4b41-9b3d-6c5e34622b7f",
+    "episode": 294,
+    "date": "2021-01-20T00:00:00.886Z",
+    "title": "Yin Yang",
+    "topic": "Filsafat Hidup",
+    "is_official": true,
+    "video_ids": [
+      "2-iA6eTQqPc"
+    ],
+    "video_url": "https://youtu.be/2-iA6eTQqPc",
+    "download_url": "https://www.mediafire.com/file/xgmpmi40jea24rg/294._Falsafah_Yin_Yang.rar/file"
+  },
+  {
+    "id": "ec669867-9268-4407-bdaf-d298ce98e07e",
+    "episode": 295,
+    "date": "2021-01-27T00:00:00.886Z",
+    "title": "Cakra-Manggilingan",
+    "topic": "Filsafat Hidup",
+    "is_official": true,
+    "video_ids": [
+      "OasNhKCYXLA"
+    ],
+    "video_url": "https://youtu.be/OasNhKCYXLA",
+    "download_url": "https://www.mediafire.com/file/87eitycjwea8vms/295._Cakra_Manggilingan.rar/file"
+  },
+  {
+    "id": "830f8b0e-99ae-4124-9613-315bcecfeb5e",
+    "episode": 296,
+    "date": "2021-02-03T00:00:00.886Z",
+    "title": "William Shakespeare: Romeo & Juliet",
+    "topic": "Risalah Cinta dan Patah Hati",
+    "figure": "William Shakespeare",
+    "is_official": true,
+    "video_ids": [
+      "X5yxm2boBZU"
+    ],
+    "video_url": "https://youtu.be/X5yxm2boBZU",
+    "download_url": "https://www.mediafire.com/file/hm7x0c8svvw10b0/296._William_Shakespeare_-_Romeo_and_Juliet.rar/file"
+  },
+  {
+    "id": "14e8424a-f6fb-42ea-a558-12a2c15e46f7",
+    "episode": 297,
+    "date": "2021-02-10T00:00:00.886Z",
+    "title": "Kahlil Gibran: Sayap-Sayap Patah",
+    "topic": "Risalah Cinta dan Patah Hati",
+    "figure": "Kahlil Gibran",
+    "is_official": true,
+    "video_ids": [
+      "CXmsltZxHi8"
+    ],
+    "video_url": "https://youtu.be/CXmsltZxHi8",
+    "download_url": "https://www.mediafire.com/file/1ttbir9crlv7vsp/297._Kahlil_Gibran_-_Sayap_Sayap_Patah.rar/file"
+  },
+  {
+    "id": "42310ef3-9ca9-4962-aadb-c9c02a08b09c",
+    "episode": 298,
+    "date": "2021-02-17T00:00:00.886Z",
+    "title": "Nizami Ganjavi: Khosrow and Shirin",
+    "topic": "Risalah Cinta dan Patah Hati",
+    "figure": "Nizami Ganjavi",
+    "is_official": true,
+    "video_ids": [
+      "xhG12FDh_GI"
+    ],
+    "video_url": "https://youtu.be/xhG12FDh_GI",
+    "download_url": "https://www.mediafire.com/file/xfsdx71owjf8yt1/298._Nizami_Ganjavi_-_Khosrow_and_Shirin.rar/file"
+  },
+  {
+    "id": "e0c27584-f87f-448f-a1be-b76c6a2de704",
+    "episode": 299,
+    "date": "2021-02-24T00:00:00.886Z",
+    "title": "Hamka: Tenggelamnya Kapal Van Der Wijck",
+    "topic": "Risalah Cinta dan Patah Hati",
+    "figure": "Buya Hamka",
+    "is_official": true,
+    "video_ids": [
+      "LAxyZAgdjsc"
+    ],
+    "video_url": "https://youtu.be/LAxyZAgdjsc",
+    "download_url": "https://www.mediafire.com/file/58l8yhb3edf5pyx/299._Buya_Hamka_-_Tenggelamnya_Kapal_Van_Der_Wijk.rar/file"
+  },
+  {
+    "id": "7a6ad100-29ad-4c6d-b038-b9734bf2d70b",
+    "episode": 300,
+    "date": "2021-03-03T00:00:00.886Z",
+    "title": "Lewis Mumford: Technics and Civilization",
+    "topic": "Filsafat Teknologi",
+    "is_official": true,
+    "video_ids": [
+      "wQSIXbRl19s"
+    ],
+    "video_url": "https://youtu.be/wQSIXbRl19s",
+    "download_url": "https://www.mediafire.com/file/ypj5gw1oolyfwxj/300._Lewis_Mumford_-_Technics_&_Civilization.rar/file"
+  },
+  {
+    "id": "c06fa431-15e6-435e-ac42-3bf70661e058",
+    "episode": 301,
+    "date": "2021-03-10T00:00:00.886Z",
+    "title": "Paul Virilio: Logic of Speed",
+    "topic": "Filsafat Teknologi",
+    "is_official": true,
+    "video_ids": [
+      "nGDL5tPRyoQ"
+    ],
+    "video_url": "https://youtu.be/nGDL5tPRyoQ",
+    "download_url": "https://www.mediafire.com/file/j86ot8qxvta8mq9/301._Paul_Virilio_-_Logic_&_Speed.rar/file"
+  },
+  {
+    "id": "33bcbf6a-4772-4b77-8dfb-a1c68d15d919",
+    "episode": 302,
+    "date": "2021-03-17T00:00:00.886Z",
+    "title": "Donna Haraway: Cyborgs and Women",
+    "topic": "Filsafat Teknologi",
+    "is_official": true,
+    "video_ids": [
+      "HgZ8lId5Gws"
+    ],
+    "video_url": "https://youtu.be/HgZ8lId5Gws",
+    "download_url": "https://www.mediafire.com/file/1yzatczaaq4zp68/302._Donna_Haraway_-_Women_&_Cyborgs.rar/file"
+  },
+  {
+    "id": "f108ddc9-34cc-47bb-b54d-ca4e4d89c2ea",
+    "episode": 303,
+    "date": "2021-03-24T00:00:00.886Z",
+    "title": "Mahatma Gandhi: Humanistic Technology",
+    "topic": "Filsafat Teknologi",
+    "is_official": true,
+    "video_ids": [
+      "cmX6ZNH_bLg"
+    ],
+    "video_url": "https://youtu.be/cmX6ZNH_bLg",
+    "download_url": "https://www.mediafire.com/file/i60px1lyifg8rz8/303._Mahatma_Gandhi_-_Humanistic_Technology.rar/file"
+  },
+  {
+    "id": "4b73fb7d-ade0-47c3-8d66-1f708c4abfcc",
+    "episode": 304,
+    "date": "2021-03-31T00:00:00.886Z",
+    "title": "Falsafah Puasa",
+    "topic": "Filsafat Teknologi",
+    "is_official": true,
+    "video_ids": [
+      "STwKAE0Ghho"
+    ],
+    "video_url": "https://youtu.be/STwKAE0Ghho",
+    "download_url": "https://www.mediafire.com/file/qml6oju6yfagq6k/304._Falsafah_Puasa.rar/file"
+  },
+  {
+    "id": "624e4b7e-dd6c-4600-9104-e487de448891",
+    "episode": 305,
+    "date": "2021-06-09T00:00:00.886Z",
+    "title": "Aldo Leopold: Land Ethics",
+    "topic": "Akhlak Kepada Alam",
+    "figure": "Aldo Leopold",
+    "is_official": true,
+    "video_ids": [
+      "AgFcrcRuAUc"
+    ],
+    "video_url": "https://youtu.be/AgFcrcRuAUc",
+    "download_url": "https://www.mediafire.com/file/f4o66chsf1wx9b5/305._Aldo_Leopold_-_Land_Ethics.rar/file"
+  },
+  {
+    "id": "54e13df6-872e-40f1-bba0-e4476ee15561",
+    "episode": 306,
+    "date": "2021-06-16T00:00:00.886Z",
+    "title": "Fritjhof Capra: Eco Literacy",
+    "topic": "Akhlak Kepada Alam",
+    "figure": "Fritjhof Capra",
+    "is_official": true,
+    "video_ids": [
+      "i4C5rVEZJNw"
+    ],
+    "video_url": "https://youtu.be/i4C5rVEZJNw",
+    "download_url": "https://www.mediafire.com/file/6nt5woh51de2ud6/306._Fritjhof_Capra_-_Eco_Literacy.rar/file"
+  },
+  {
+    "id": "a63301bf-f18a-4215-ae15-eaa2e7220541",
+    "episode": 307,
+    "date": "2021-06-23T00:00:00.886Z",
+    "title": "Seyyed Hossein Nasr: Ecosophy",
+    "topic": "Akhlak Kepada Alam",
+    "figure": "Seyyed Hossein Nasr",
+    "is_official": true,
+    "video_ids": [
+      "a9hEf6Q5yns"
+    ],
+    "video_url": "https://youtu.be/a9hEf6Q5yns",
+    "download_url": "https://www.mediafire.com/file/jysa7olf42ygs9v/307._Seyyed_Hossein_Nasr_-_Ecosophy.rar/file"
+  },
+  {
+    "id": "278b3114-205c-4606-acfe-a810fea1284c",
+    "episode": 308,
+    "date": "2021-06-30T00:00:00.886Z",
+    "title": "Memayu Hayuning Bawana",
+    "topic": "Akhlak Kepada Alam",
+    "is_official": true,
+    "video_ids": [
+      "fI2jpzWWxTk"
+    ],
+    "video_url": "https://youtu.be/fI2jpzWWxTk",
+    "download_url": "https://www.mediafire.com/file/slbcz17oxjxcgmz/308._Memayu_Hayuning_Bawana.rar/file"
+  },
+  {
+    "id": "d3eb4123-6c38-44ad-83e3-96b2791ac5b0",
+    "episode": 309,
+    "date": "2021-07-07T00:00:00.886Z",
+    "title": "Hippocrates",
+    "topic": "Kebijaksanaan Barat Lama",
+    "figure": "Hippocrates",
+    "is_official": true,
+    "video_ids": [
+      "Fjsi-FmSAYc"
+    ],
+    "video_url": "https://youtu.be/Fjsi-FmSAYc",
+    "download_url": "https://www.mediafire.com/file/dgntt5qhdazmiq2/309._Hippocrates.rar/file"
+  },
+  {
+    "id": "00e3ca42-67b3-4a61-887c-7d3a834b61c7",
+    "episode": 310,
+    "date": "2021-07-14T00:00:00.886Z",
+    "title": "Protagoras",
+    "topic": "Kebijaksanaan Barat Lama",
+    "figure": "Protagoras",
+    "is_official": true,
+    "video_ids": [
+      "CLbeIBVnCWY"
+    ],
+    "video_url": "https://youtu.be/CLbeIBVnCWY",
+    "download_url": "https://www.mediafire.com/file/ajm76t5tcamduze/310._Protagoras.rar/file"
+  },
+  {
+    "id": "35d9f159-7d46-4b9d-bd96-753571d17ea2",
+    "episode": 311,
+    "date": "2021-07-21T00:00:00.886Z",
+    "title": "Seneca",
+    "topic": "Kebijaksanaan Barat Lama",
+    "figure": "Seneca",
+    "is_official": true,
+    "video_ids": [
+      "M9mu9M4rwd8"
+    ],
+    "video_url": "https://youtu.be/M9mu9M4rwd8",
+    "download_url": "https://www.mediafire.com/file/sul4y4qf1zu6d69/311._Seneca.rar/file"
+  },
+  {
+    "id": "18c1ccd1-16a0-4fd6-9c26-79529c78f3c0",
+    "episode": 312,
+    "date": "2021-07-28T00:00:00.886Z",
+    "title": "Cicero",
+    "topic": "Kebijaksanaan Barat Lama",
+    "figure": "Cicero",
+    "is_official": true,
+    "video_ids": [
+      "Gwzui8lkHOE"
+    ],
+    "video_url": "https://youtu.be/Gwzui8lkHOE",
+    "download_url": "https://www.mediafire.com/file/k369ok97tagkavl/312._Cicero.rar/file"
+  },
+  {
+    "id": "4e4c5bb1-e61d-41b7-8a72-4ea7b35d4261",
+    "episode": 313,
+    "date": "2021-08-04T00:00:00.886Z",
+    "title": "Alexander The Great",
+    "topic": "Wisdom of the Conquerors",
+    "figure": "Alexander The Great",
+    "is_official": true,
+    "video_ids": [
+      "OuAYF5E6Ajo"
+    ],
+    "video_url": "https://youtu.be/OuAYF5E6Ajo",
+    "download_url": "https://www.mediafire.com/file/4o8dycisxi6uwva/313._Alexander_The_Great.rar/file"
+  },
+  {
+    "id": "77d52f79-bad9-4740-a68c-95311c5a5eb2",
+    "episode": 314,
+    "date": "2021-08-11T00:00:00.886Z",
+    "title": "Genghis Khan",
+    "topic": "Wisdom of the Conquerors",
+    "figure": "Genghis Khan",
+    "is_official": true,
+    "video_ids": [
+      "FLh0yc_gLns"
+    ],
+    "video_url": "https://youtu.be/FLh0yc_gLns",
+    "download_url": "https://www.mediafire.com/file/l9rs4vwj3va3p1g/314._Genghis_Khan.rar/file"
+  },
+  {
+    "id": "0d4447d4-1b35-406d-9a4a-f67a506c30ae",
+    "episode": 315,
+    "date": "2021-08-18T00:00:00.886Z",
+    "title": "Umar Bin Khattab",
+    "topic": "Wisdom of the Conquerors",
+    "figure": "Umar Bin Khattab",
+    "is_official": true,
+    "video_ids": [
+      "MP_XX-7yyqw"
+    ],
+    "video_url": "https://youtu.be/MP_XX-7yyqw",
+    "download_url": "https://www.mediafire.com/file/kttur9xspziu8zg/315._Umar_Bin_Khattab.rar/file"
+  },
+  {
+    "id": "ef7b8722-5012-4c11-a545-a52559a1a6c2",
+    "episode": 316,
+    "date": "2021-08-25T00:00:00.886Z",
+    "title": "Gajah Mada",
+    "topic": "Wisdom of the Conquerors",
+    "figure": "Gajah Mada",
+    "is_official": true,
+    "video_ids": [
+      "57OH-osmFXo"
+    ],
+    "video_url": "https://youtu.be/57OH-osmFXo",
+    "download_url": "https://www.mediafire.com/file/bsb20oler1ndeld/316._Gajah_Mada.rar/file"
+  },
+  {
+    "id": "c9334508-30b8-4410-ae2d-ea55b7968e6c",
+    "episode": 317,
+    "date": "2021-09-01T00:00:00.886Z",
+    "title": "Creative Thinking",
+    "topic": "Keterampilan Berpikir",
+    "is_official": true,
+    "video_ids": [
+      "MzoPfsBL27M"
+    ],
+    "video_url": "https://youtu.be/MzoPfsBL27M",
+    "download_url": "https://www.mediafire.com/file/3hz4tjynqh5o2dt/317._Berpikir_Kreatif.rar/file"
+  },
+  {
+    "id": "5b8e715c-6539-41b1-b404-ba955ff0aeb5",
+    "episode": 318,
+    "date": "2021-09-08T00:00:00.886Z",
+    "title": "Ethical Thinking",
+    "topic": "Keterampilan Berpikir",
+    "is_official": true,
+    "video_ids": [
+      "20f0_KGSXUE"
+    ],
+    "video_url": "https://youtu.be/20f0_KGSXUE",
+    "download_url": "https://www.mediafire.com/file/ika8e4eenhtna49/318._Berpikir_Etis.rar/file"
+  },
+  {
+    "id": "459f6f2e-c233-4f78-a81c-0ac66b099cd2",
+    "episode": 319,
+    "date": "2021-09-15T00:00:00.886Z",
+    "title": "Social Thinking",
+    "topic": "Keterampilan Berpikir",
+    "is_official": true,
+    "video_ids": [
+      "RtVzIjhvpwE"
+    ],
+    "video_url": "https://youtu.be/RtVzIjhvpwE",
+    "download_url": "https://www.mediafire.com/file/2i20hroi3z7n1m0/319._Berpikir_Sosial.rar/file"
+  },
+  {
+    "id": "3271bde1-c31f-4e42-bc15-431be38c3fc3",
+    "episode": 320,
+    "date": "2021-09-22T00:00:00.886Z",
+    "title": "Religious Thinking",
+    "topic": "Keterampilan Berpikir",
+    "is_official": true,
+    "video_ids": [
+      "RUIzjeKSDXg"
+    ],
+    "video_url": "https://youtu.be/RUIzjeKSDXg",
+    "download_url": "https://www.mediafire.com/file/9lar7se5xg5hu8q/320._Berpikir_Religius.rar/file"
+  },
+  {
+    "id": "6166912a-e2c2-4799-b5b8-ed29d19d6c06",
+    "episode": 321,
+    "date": "2021-09-29T00:00:00.886Z",
+    "title": "Limits Of Reason",
+    "topic": "Keterampilan Berpikir",
+    "is_official": true,
+    "video_ids": [
+      "qKL8CB_E_NM"
+    ],
+    "video_url": "https://youtu.be/qKL8CB_E_NM",
+    "download_url": "https://www.mediafire.com/file/4rvxgolk9rhx821/321._Batas_Nalar.rar/file"
+  },
+  {
+    "id": "5f2fdddf-3e69-492c-a30e-e5e321604fc9",
+    "episode": 322,
+    "date": "2021-10-06T00:00:00.886Z",
+    "title": "Harun Al Rasyid",
+    "topic": "Raja dan Wali",
+    "figure": "Harun Al Rasyid",
+    "is_official": true,
+    "video_ids": [
+      "TF4-2aRNx6s"
+    ],
+    "video_url": "https://youtu.be/TF4-2aRNx6s",
+    "download_url": "https://www.mediafire.com/file/1immss9dx6ign5m/322._Harun_Al_Rasyid.rar/file"
+  },
+  {
+    "id": "a578c856-90de-489f-aa9e-e4eef68ace2c",
+    "episode": 323,
+    "date": "2021-10-13T00:00:00.886Z",
+    "title": "Muhammad Al Fatih",
+    "topic": "Raja dan Wali",
+    "figure": "Muhammad Al Fatih",
+    "is_official": true,
+    "video_ids": [
+      "wz0l53CGKtU"
+    ],
+    "video_url": "https://youtu.be/wz0l53CGKtU",
+    "download_url": "https://www.mediafire.com/file/9nsjzbqfz16992m/323._Muhammad_Al_Fatih.rar/file"
+  },
+  {
+    "id": "8462d7b0-3d14-4ba9-95dc-942f28a68dfb",
+    "episode": 324,
+    "date": "2021-10-20T00:00:00.886Z",
+    "title": "Ibrahim Bin Adham",
+    "topic": "Raja dan Wali",
+    "figure": "Ibrahim Bin Adham",
+    "is_official": true,
+    "video_ids": [
+      "DBPWjmmSJKI"
+    ],
+    "video_url": "https://youtu.be/DBPWjmmSJKI",
+    "download_url": "https://www.mediafire.com/file/i7n2tql6npv10vf/324._Ibrahim_Bin_Adham.rar/file"
+  },
+  {
+    "id": "a2004338-f525-4c5a-b9a4-0c4ed56331c1",
+    "episode": 325,
+    "date": "2021-10-27T00:00:00.887Z",
+    "title": "Sunan Gunung Jati",
+    "topic": "Raja dan Wali",
+    "figure": "Sunan Gunung Jati",
+    "is_official": true,
+    "video_ids": [
+      "278-a2S8z8A"
+    ],
+    "video_url": "https://youtu.be/278-a2S8z8A",
+    "download_url": "https://www.mediafire.com/file/4hmuj84fjmt9vz3/325._Sunan_Gunung_Jati.rar/file"
+  },
+  {
+    "id": "22f8ed1b-d53c-4b2e-9807-4a33242edbe6",
+    "episode": 326,
+    "date": "2021-11-03T00:00:00.887Z",
+    "title": "Emile Durkheim",
+    "topic": "Perspektif Tentang Agama",
+    "figure": "Emile Durkheim",
+    "is_official": true,
+    "video_ids": [
+      "bJRPesjFxeY"
+    ],
+    "video_url": "https://youtu.be/bJRPesjFxeY",
+    "download_url": "https://www.mediafire.com/file/ne7mg87i2tgrsfe/326._Emile_Durkheim_-_Agama.rar/file"
+  },
+  {
+    "id": "e1db399c-2a09-4b4d-801f-283013de582d",
+    "episode": 327,
+    "date": "2021-11-10T00:00:00.887Z",
+    "title": "William James",
+    "topic": "Perspektif Tentang Agama",
+    "figure": "William James",
+    "is_official": true,
+    "video_ids": [
+      "7FpQ4ufCbuc"
+    ],
+    "video_url": "https://youtu.be/7FpQ4ufCbuc",
+    "download_url": "https://www.mediafire.com/file/1o4i6keobeqnaat/327._William_James_-_Agama.rar/file"
+  },
+  {
+    "id": "8d2a1d99-e927-4499-bb78-f5878b397499",
+    "episode": 328,
+    "date": "2021-11-17T00:00:00.887Z",
+    "title": "Clifford Geertz",
+    "topic": "Perspektif Tentang Agama",
+    "figure": "Clifford Geertz",
+    "is_official": true,
+    "video_ids": [
+      "R9lib6qLP18"
+    ],
+    "video_url": "https://youtu.be/R9lib6qLP18",
+    "download_url": "https://www.mediafire.com/file/9eeg0t67cxr0ps9/328._Clifford_Geertz_-_Agama.rar/file"
+  },
+  {
+    "id": "36f3aa52-92d1-47a0-adae-cf84bd46c171",
+    "episode": 329,
+    "date": "2021-11-24T00:00:00.887Z",
+    "title": "Mukti Ali: Perbandingan Agama",
+    "topic": "Perspektif Tentang Agama",
+    "figure": "Mukti Ali",
+    "is_official": true,
+    "video_ids": [
+      "A9fz4ZJEqok"
+    ],
+    "video_url": "https://youtu.be/A9fz4ZJEqok",
+    "download_url": "https://www.mediafire.com/file/vs1lxox4x0u7tri/329._Mukti_Ali_-_Perbandingan_Agama.rar/file"
+  },
+  {
+    "id": "236903c3-3ce8-4a24-bbd9-cec836020372",
+    "episode": 330,
+    "date": "2021-12-01T00:00:00.887Z",
+    "title": "Self-Love",
+    "topic": "Menjaga Kewarasan di Akhir Tahun",
+    "is_official": true,
+    "video_ids": [
+      "ubkvHUO5H4w"
+    ],
+    "video_url": "https://youtu.be/ubkvHUO5H4w",
+    "download_url": null
+  },
+  {
+    "id": "e65af556-3c69-453e-b7d5-376ed371eec1",
+    "episode": 331,
+    "date": "2021-12-08T00:00:00.887Z",
+    "title": "People Pleaser",
+    "topic": "Menjaga Kewarasan di Akhir Tahun",
+    "is_official": true,
+    "video_ids": [
+      "M6Pq6L3fHZU"
+    ],
+    "video_url": "https://youtu.be/M6Pq6L3fHZU",
+    "download_url": null
+  },
+  {
+    "id": "c89eeb4e-0036-4d9f-9130-bd546594be29",
+    "episode": 332,
+    "date": "2021-12-15T00:00:00.887Z",
+    "title": "Overthingking & Insecurity",
+    "topic": "Menjaga Kewarasan di Akhir Tahun",
+    "is_official": true,
+    "video_ids": [
+      "QF74QSFAPMc"
+    ],
+    "video_url": "https://youtu.be/QF74QSFAPMc",
+    "download_url": null
+  },
+  {
+    "id": "3dbceedd-5b44-4217-851f-b5ec06acd7bf",
+    "episode": 333,
+    "date": "2021-12-22T00:00:00.887Z",
+    "title": "Mindfullness",
+    "topic": "Menjaga Kewarasan di Akhir Tahun",
+    "is_official": true,
+    "video_ids": [
+      "k4fOs_7HyUs"
+    ],
+    "video_url": "https://youtu.be/k4fOs_7HyUs",
+    "download_url": null
+  },
+  {
+    "id": "37129b42-f195-4ca2-bc34-35d0ad36af0d",
+    "episode": 334,
+    "date": "2021-12-29T00:00:00.887Z",
+    "title": "Sesi Q & A",
+    "topic": "Menjaga Kewarasan di Akhir Tahun",
+    "is_official": true,
+    "video_ids": [
+      "MEUZD1ogxuM"
+    ],
+    "video_url": "https://youtu.be/MEUZD1ogxuM",
+    "download_url": null
+  },
+  {
+    "id": "4f3784bb-0aa8-4f38-b341-47ee35f82af9",
+    "episode": 335,
+    "date": "2022-01-05T00:00:00.887Z",
+    "title": "Identitas",
+    "topic": "Falsafah Hidup \"Who Am I\"",
+    "is_official": true,
+    "video_ids": [
+      "WyzF33drvPw"
+    ],
+    "video_url": "https://youtu.be/WyzF33drvPw",
+    "download_url": null
+  },
+  {
+    "id": "11cc1479-d89f-4fd8-b4f4-a44f88876116",
+    "episode": 336,
+    "date": "2022-01-12T00:00:00.887Z",
+    "title": "Mimpi",
+    "topic": "Falsafah Hidup \"Who Am I\"",
+    "is_official": true,
+    "video_ids": [
+      "xPtG8nBfJZs"
+    ],
+    "video_url": "https://youtu.be/xPtG8nBfJZs",
+    "download_url": null
+  },
+  {
+    "id": "e80572bb-75c5-4ed3-9428-c317ecc6726b",
+    "episode": 337,
+    "date": "2022-01-19T00:00:00.887Z",
+    "title": "Kerja",
+    "topic": "Falsafah Hidup \"Who Am I\"",
+    "is_official": true,
+    "video_ids": [
+      "Wf8DyJY6o4w"
+    ],
+    "video_url": "https://youtu.be/Wf8DyJY6o4w",
+    "download_url": null
+  },
+  {
+    "id": "800a0ff6-221d-43ac-a2ca-e2ad9d4a5196",
+    "episode": 338,
+    "date": "2022-01-26T00:00:00.887Z",
+    "title": "Generasi",
+    "topic": "Falsafah Hidup \"Who Am I\"",
+    "is_official": true,
+    "video_ids": [
+      "emHlIeXLdCw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=emHlIeXLdCw",
+    "download_url": null
+  },
+  {
+    "id": "d7ad8049-0a52-44ce-867e-19ae8cb4154d",
+    "episode": 339,
+    "date": "2022-02-02T00:00:00.887Z",
+    "title": "Syaikh Abdul Qodir al-Jailani",
+    "topic": "Divine Love (Mahabbatullah)",
+    "figure": "Syaikh Abdul Qodir al-Jailani",
+    "is_official": true,
+    "video_ids": [
+      "I4oo8KFR_8A"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=I4oo8KFR_8A",
+    "download_url": null
+  },
+  {
+    "id": "02643db1-ba72-48fc-8427-3e81ceeff729",
+    "episode": 340,
+    "date": "2022-02-09T00:00:00.887Z",
+    "title": "Ibnu Atha'illah al-Sakandari",
+    "topic": "Divine Love (Mahabbatullah)",
+    "figure": "Ibnu Atha'illah al-Sakandari",
+    "is_official": true,
+    "video_ids": [
+      "oV5VUovIoVw"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=oV5VUovIoVw",
+    "download_url": null
+  },
+  {
+    "id": "3bc723f9-3de8-472a-a0bc-60b492cd7192",
+    "episode": 341,
+    "date": "2022-02-16T00:00:00.887Z",
+    "title": "Imam al-Ghazali",
+    "topic": "Divine Love (Mahabbatullah)",
+    "figure": "Imam al-Ghazali",
+    "is_official": true,
+    "video_ids": [
+      "oQiwYcrf35A"
+    ],
+    "video_url": "https://youtu.be/oQiwYcrf35A",
+    "download_url": null
+  },
+  {
+    "id": "73703605-f09c-4a6e-834e-a24efc7e71c9",
+    "episode": 342,
+    "date": "2022-02-23T00:00:00.887Z",
+    "title": "Ibnu Qayyim al-Jauziyah",
+    "topic": "Divine Love (Mahabbatullah)",
+    "figure": "Ibnu Qayyim al-Jauziyah",
+    "is_official": true,
+    "video_ids": [
+      "zDxf54pox_c"
+    ],
+    "video_url": "https://youtu.be/zDxf54pox_c",
+    "download_url": null
+  },
+  {
+    "id": "fbe725d1-a981-4512-b3dc-887f49bdfe20",
+    "episode": 343,
+    "date": "2022-03-02T00:00:00.887Z",
+    "title": "Karl Jaspers",
+    "topic": "Para Eksistensialis (Lagi)",
+    "figure": "Karl Jaspers",
+    "is_official": true,
+    "video_ids": [
+      "3BaJOrHRQcM"
+    ],
+    "video_url": "https://youtu.be/3BaJOrHRQcM",
+    "download_url": null
+  },
+  {
+    "id": "f1769c96-0822-4dd2-a38c-ccf950328c4e",
+    "episode": 344,
+    "date": "2022-03-09T00:00:00.887Z",
+    "title": "Fyodor Dostoyevsky",
+    "topic": "Para Eksistensialis (Lagi)",
+    "figure": "Fyodor Dostoyevsky",
+    "is_official": true,
+    "video_ids": [
+      "6X5ULS5blAg"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=6X5ULS5blAg",
+    "download_url": null
+  },
+  {
+    "id": "0cdc5537-f1ed-44ec-8be5-b120e335ca0b",
+    "episode": 345,
+    "date": "2022-03-16T00:00:00.886Z",
+    "title": "Nikolai Berdyaev",
+    "topic": "Para Eksistensialis (Lagi)",
+    "figure": "Nikolai Berdyaev",
+    "is_official": true,
+    "video_ids": [],
+    "video_url": null,
+    "download_url": null
+  },
+  {
+    "id": "dbe317e9-7ed7-4a20-abaa-dfdb9bbd00b6",
+    "episode": 346,
+    "date": "2022-03-23T00:00:00.312Z",
+    "title": "Victor Frankl",
+    "topic": "Para Eksistensialis (Lagi)",
+    "figure": "Victor Frankl",
+    "is_official": true,
+    "video_ids": [],
+    "video_url": null,
+    "download_url": null
+  },
+  {
+    "id": "5cf07981-d306-4e5f-a03b-ca930ef5863c",
+    "episode": 347,
+    "date": "2022-03-30T00:00:00.921Z",
+    "title": "Menuju Puasa",
+    "is_official": true,
+    "video_ids": [],
+    "video_url": null,
+    "download_url": null
+  }
+]
