@@ -3,6 +3,7 @@
   import { slugify } from "$lib/helpers";
   import EpisodeCard from "../components/EpisodeCard.svelte";
   import Header from "../components/Header.svelte";
+  import ContentWrapper from "../components/ContentWrapper.svelte";
 
   export let data: PageData;
 </script>
@@ -15,7 +16,7 @@
   <h1 class="text-xl font-bold text-white">Ngaji Filsafat</h1>
 </Header>
 
-<div class="px-4 py-8 relative z-10 bg-white rounded-t-3xl">
+<ContentWrapper>
   {#each data.episodes as episode (episode.id)}
     <EpisodeCard
       episode={episode.episode}
@@ -25,4 +26,4 @@
       href={`/${episode.episode}/${slugify(episode.title)}`}
     />
   {/each}
-</div>
+</ContentWrapper>
