@@ -1,18 +1,7 @@
 import { error, redirect } from "@sveltejs/kit";
 import type { PageServerLoad } from "./$types";
 import { slugify } from "$lib/helpers";
-
-type Episode = {
-  id: string;
-  episode: number;
-  date: string;
-  title: string;
-  topic: string;
-  is_official: boolean;
-  video_ids: string[];
-  video_url: string;
-  download_url: string;
-};
+import type { Episode } from "../../types";
 
 export const load = (async ({ fetch, params }) => {
   const response = await fetch("/database.json");
