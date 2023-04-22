@@ -4,6 +4,10 @@
   import Header from "../components/Header.svelte";
 </script>
 
+<svelte:head>
+  <title>{$page.error?.message} - Ngaji Filsafat</title>
+</svelte:head>
+
 <Header />
 <ContentWrapper>
   <div class="py-16 text-center">
