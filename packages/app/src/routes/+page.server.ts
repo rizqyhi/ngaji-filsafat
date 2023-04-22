@@ -1,4 +1,4 @@
-import type { PageLoad } from "./$types";
+import type { PageServerLoad } from "./$types";
 
 type Episode = {
   id: string;
@@ -19,4 +19,4 @@ export const load = (async ({ fetch }) => {
   return {
     episodes,
   };
-}) satisfies PageLoad;
+}) satisfies PageServerLoad;
