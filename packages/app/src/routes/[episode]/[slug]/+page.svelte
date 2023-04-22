@@ -2,6 +2,8 @@
   import type { PageServerData } from "./$types";
   import Header from "../../../components/Header.svelte";
   import ContentWrapper from "../../../components/ContentWrapper.svelte";
+  import { Icon } from "@steeze-ui/svelte-icon";
+  import { ArrowSmallLeft } from "@steeze-ui/heroicons";
 
   export let data: PageServerData;
   export const episode = data.episode;
@@ -12,6 +14,9 @@
 </svelte:head>
 
 <Header>
+  <a href="/" class="mr-4">
+    <Icon src={ArrowSmallLeft} class="w-6 h-6" />
+  </a>
   <h1 class="text-xl font-bold text-white">
     #{episode.episode}: {episode.title}
   </h1>
