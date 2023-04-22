@@ -12,9 +12,7 @@
   <title>Ngaji Filsafat</title>
 </svelte:head>
 
-<Header>
-  <h1 class="text-xl font-bold text-white">Ngaji Filsafat</h1>
-</Header>
+<Header title="Ngaji Filsafat" />
 
 <ContentWrapper>
   {#each data.episodes as episode (episode.id)}
