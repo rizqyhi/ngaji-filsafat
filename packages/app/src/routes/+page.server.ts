@@ -6,6 +6,6 @@ export const load = (async ({ fetch }) => {
   const episodes: Episode[] = await response.json();
 
   return {
-    episodes: episodes.slice(0, 10),
+    episodes: episodes.slice(0, 5),
   };
 }) satisfies PageServerLoad;

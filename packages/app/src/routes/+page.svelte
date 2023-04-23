@@ -26,6 +26,8 @@
 </div>
 
 <ContentWrapper>
+  <h2 class="text-lg font-bold mb-4">Episode Terbaru</h2>
+
   {#each data.episodes as episode (episode.id)}
     <EpisodeCard
       episode={episode.episode}
