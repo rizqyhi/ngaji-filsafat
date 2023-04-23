@@ -5,7 +5,12 @@
   import Header from "../components/Header.svelte";
   import ContentWrapper from "../components/ContentWrapper.svelte";
   import { Icon } from "@steeze-ui/svelte-icon";
-  import { RectangleStack, Hashtag, Sparkles } from "@steeze-ui/heroicons";
+  import {
+    RectangleStack,
+    Hashtag,
+    Sparkles,
+    Users,
+  } from "@steeze-ui/heroicons";
 
   export let data: PageData;
 </script>
@@ -22,6 +27,10 @@
   <a href="/episode" class="p-4 bg-white rounded-lg shadow">
     <Icon src={Hashtag} class="w-6 h-6 mb-2 text-cyan-500" />
     <span class="font-medium">Indeks Episode</span>
+  </a>
+  <a href="/tokoh" class="p-4 bg-white rounded-lg shadow">
+    <Icon src={Users} class="w-6 h-6 mb-2 text-cyan-500" />
+    <span class="font-medium">Tokoh A-Z</span>
   </a>
 </div>
 
