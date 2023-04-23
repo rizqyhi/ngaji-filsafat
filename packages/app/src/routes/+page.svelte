@@ -19,7 +19,7 @@
     <Icon src={RectangleStack} class="w-6 h-6 mb-2" />
     <span class="font-medium">Topik A-Z</span>
   </a>
-  <a href="/topik" class="p-4 bg-white rounded-lg shadow">
+  <a href="/episode" class="p-4 bg-white rounded-lg shadow">
     <Icon src={Hashtag} class="w-6 h-6 mb-2" />
     <span class="font-medium">Indeks Episode</span>
   </a>
