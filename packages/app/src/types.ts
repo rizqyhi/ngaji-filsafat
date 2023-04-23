@@ -4,6 +4,7 @@ export type Episode = {
   date: string;
   title: string;
   topic: string;
+  figure: string | undefined;
   is_official: boolean;
   video_ids: string[];
   video_url: string;
