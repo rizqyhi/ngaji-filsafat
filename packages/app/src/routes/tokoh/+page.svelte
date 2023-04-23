@@ -11,8 +11,11 @@
 <ContentWrapper withoutPadding>
   <ul>
     {#each Object.entries(data.figures) as [figure, episodes]}
-      <li class="p-4 border-b">
-        <a href="/tokoh/{figure}" class="flex items-center justify-between">
+      <li>
+        <a
+          href="/tokoh/{figure}"
+          class="flex items-center justify-between p-4 border-b"
+        >
           <span class="mr-4">{figure}</span>
           <span
             class="px-2 py-1 rounded-md bg-cyan-100 text-cyan-600 text-xs font-medium tracking-wider"

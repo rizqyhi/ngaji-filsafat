@@ -12,10 +12,10 @@
 <ContentWrapper withoutPadding>
   <ul>
     {#each data.episodes as episode}
-      <li class="p-4 border-b">
+      <li>
         <a
           href={`/${episode.episode}/${slugify(episode.title)}`}
-          class="flex items-center justify-between"
+          class="flex items-center justify-between p-4 border-b"
         >
           <span class="mr-6">{episode.title}</span>
           <span
