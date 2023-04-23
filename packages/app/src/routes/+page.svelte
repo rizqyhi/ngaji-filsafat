@@ -8,10 +8,6 @@
   export let data: PageData;
 </script>
 
-<svelte:head>
-  <title>Ngaji Filsafat</title>
-</svelte:head>
-
 <Header title="Ngaji Filsafat" />
 
 <ContentWrapper>

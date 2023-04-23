@@ -7,11 +7,6 @@
   export const episode = data.episode;
 </script>
 
-<svelte:head>
-  <title>#{episode.episode}: {episode.title} - Ngaji Filsafat</title>
-  <link rel="canonical" href="/{episode.episode}" />
-</svelte:head>
-
 <Header title="#{episode.episode}: {episode.title}" backTo="/" />
 
 <ContentWrapper>

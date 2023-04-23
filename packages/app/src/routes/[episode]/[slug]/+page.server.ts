@@ -22,5 +22,8 @@ export const load = (async ({ fetch, params }) => {
     throw error(404, "Episode not found");
   }
 
-  return { episode };
+  return {
+    episode,
+    title: `#${episode.episode}: ${episode.title} - Ngaji Filsafat`,
+  };
 }) satisfies PageServerLoad;
