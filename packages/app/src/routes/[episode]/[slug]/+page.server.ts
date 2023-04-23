@@ -13,7 +13,7 @@ type Episode = {
   download_url: string;
 };
 
-export const load = (async ({ fetch, params }) => {
+export const load = (async ({ fetch, params, request }) => {
   const response = await fetch("/database.json");
   const episodes: Episode[] = await response.json();
   const episode = episodes.find((e) => e.episode.toString() === params.episode);
@@ -25,5 +25,6 @@ export const load = (async ({ fetch, params }) => {
   return {
     episode,
     title: `#${episode.episode}: ${episode.title} - Ngaji Filsafat`,
+    backTo: request.headers.get("Referer") ?? "/",
   };
 }) satisfies PageServerLoad;

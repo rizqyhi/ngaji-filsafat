@@ -13,7 +13,7 @@
   }
 </script>
 
-<Header title="#{episode.episode}: {episode.title}" backTo="/" />
+<Header title="#{episode.episode}: {episode.title}" backTo={data.backTo} />
 
 <ContentWrapper>
   <iframe
