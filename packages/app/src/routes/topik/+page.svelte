@@ -11,7 +11,7 @@
 <ContentWrapper withoutPadding>
   <ul>
     {#each data.topics as topic}
-      <li class="p-4 border-b">{topic}</li>
+      <li class="p-4 border-b"><a href="/topik/{topic}">{topic}</a></li>
     {/each}
   </ul>
 </ContentWrapper>
