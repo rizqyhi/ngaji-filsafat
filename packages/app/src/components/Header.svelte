@@ -17,7 +17,7 @@
     {/if}
 
     {#if title}
-      <h1 class="text-xl font-bold text-white">
+      <h1 class="text-lg font-bold text-white truncate">
         {title}
       </h1>
     {/if}
