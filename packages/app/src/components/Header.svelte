@@ -11,13 +11,13 @@
 >
   <div class="flex items-center">
     {#if backTo}
-      <a href={backTo} class="mr-4">
+      <a href={backTo} class="mr-4 text-cyan-800">
         <Icon src={ArrowSmallLeft} class="w-6 h-6" />
       </a>
     {/if}
 
     {#if title}
-      <h1 class="text-lg font-bold text-white truncate">
+      <h1 class="text-lg font-medium text-white truncate">
         {title}
       </h1>
     {/if}

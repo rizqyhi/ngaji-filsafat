@@ -15,7 +15,7 @@
         <a href="/topik/{topic}" class="flex items-center justify-between">
           <span class="mr-4">{topic}</span>
           <span
-            class="px-2 py-1 rounded-md bg-orange-100 text-orange-600 text-xs font-medium tracking-wider"
+            class="px-2 py-1 rounded-md bg-cyan-100 text-cyan-600 text-xs font-medium tracking-wider"
             >#{episodes[0].episode} &ndash; #{episodes[episodes.length - 1]
               .episode}</span
           >

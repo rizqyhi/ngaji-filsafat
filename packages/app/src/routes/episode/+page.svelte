@@ -19,7 +19,7 @@
         >
           <span class="mr-6">{episode.title}</span>
           <span
-            class="px-2 py-1 rounded-md bg-orange-100 text-orange-600 text-xs font-medium tracking-wider"
+            class="px-2 py-1 rounded-md bg-cyan-100 text-cyan-600 text-xs font-medium tracking-wider"
             >#{episode.episode}</span
           >
         </a>
