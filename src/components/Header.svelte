@@ -7,21 +7,21 @@
 </script>
 
 <div
-  class="sticky top-0 z-0 h-24 px-4 py-6 bg-gradient-to-r from-cyan-300 to-teal-300"
+  class="sticky top-0 z-0 min-h-24 px-4 pt-6 py-12 bg-gradient-to-r from-cyan-300 to-teal-300"
 >
-  <div class="flex items-center">
-    {#if backTo}
-      <a href={backTo} class="mr-4 text-cyan-800">
+  {#if backTo}
+    <div class="mb-6">
+      <a href={backTo} class="text-white">
         <Icon src={ArrowSmallLeft} class="w-6 h-6" />
       </a>
-    {/if}
+    </div>
+  {/if}
 
-    {#if title}
-      <h1 class="text-2xl font-medium text-blue-700 font-serif">
-        {title}
-      </h1>
-    {/if}
+  {#if title}
+    <h1 class="text-2xl font-medium text-blue-700 font-serif">
+      {title}
+    </h1>
+  {/if}
 
-    <slot />
-  </div>
+  <slot />
 </div>
