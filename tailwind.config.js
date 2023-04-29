@@ -7,6 +7,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ["Libre Franklin", ...defaultTheme.fontFamily.sans],
+        serif: ["Fraunces", ...defaultTheme.fontFamily.serif],
       },
     },
   },

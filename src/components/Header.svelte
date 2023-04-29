@@ -7,7 +7,7 @@
 </script>
 
 <div
-  class="sticky top-0 z-0 h-24 px-4 py-6 bg-gradient-to-r from-cyan-500 to-teal-400"
+  class="sticky top-0 z-0 h-24 px-4 py-6 bg-gradient-to-r from-cyan-300 to-teal-300"
 >
   <div class="flex items-center">
     {#if backTo}
@@ -17,7 +17,7 @@
     {/if}
 
     {#if title}
-      <h1 class="text-lg font-medium text-white truncate">
+      <h1 class="text-2xl font-medium text-blue-700 font-serif">
         {title}
       </h1>
     {/if}

@@ -18,7 +18,7 @@
 <Header title="Ngaji Filsafat" />
 
 <div
-  class="sticky top-0 grid grid-cols-2 gap-4 pt-4 pb-16 px-4 bg-gradient-to-r from-cyan-500 to-teal-400"
+  class="sticky top-0 grid grid-cols-2 gap-4 pt-4 pb-16 px-4 bg-gradient-to-r from-cyan-300 to-teal-300"
 >
   <a href="/topik" class="p-4 bg-white rounded-lg shadow">
     <Icon src={RectangleStack} class="w-6 h-6 mb-2 text-cyan-500" />
@@ -37,7 +37,7 @@
 <ContentWrapper>
   <h2 class="flex items-center mb-8">
     <Icon src={Sparkles} class="w-6 h-6 mr-2 text-cyan-500" />
-    <span class="text-lg font-medium">Episode Terbaru</span>
+    <span class="text-lg font-semibold font-serif">Episode Terbaru</span>
   </h2>
 
   {#each data.episodes as episode (episode.id)}
