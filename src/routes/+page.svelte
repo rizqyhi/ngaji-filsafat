@@ -15,24 +15,22 @@
   export let data: PageData;
 </script>
 
-<Header title="Ngaji Filsafat" />
-
-<div
-  class="sticky top-0 grid grid-cols-2 gap-4 pt-4 pb-16 px-4 bg-gradient-to-r from-cyan-300 to-teal-300"
->
-  <a href="/topik" class="p-4 bg-white rounded-lg shadow">
-    <Icon src={RectangleStack} class="w-6 h-6 mb-2 text-cyan-500" />
-    <span class="font-medium">Topik A-Z</span>
-  </a>
-  <a href="/episode" class="p-4 bg-white rounded-lg shadow">
-    <Icon src={Hashtag} class="w-6 h-6 mb-2 text-cyan-500" />
-    <span class="font-medium">Indeks Episode</span>
-  </a>
-  <a href="/tokoh" class="p-4 bg-white rounded-lg shadow">
-    <Icon src={Users} class="w-6 h-6 mb-2 text-cyan-500" />
-    <span class="font-medium">Tokoh A-Z</span>
-  </a>
-</div>
+<Header title="Ngaji Filsafat">
+  <div class="grid grid-cols-2 gap-4 mt-12">
+    <a href="/topik" class="p-4 bg-white rounded-lg shadow">
+      <Icon src={RectangleStack} class="w-6 h-6 mb-2 text-cyan-500" />
+      <span class="font-medium">Topik A-Z</span>
+    </a>
+    <a href="/episode" class="p-4 bg-white rounded-lg shadow">
+      <Icon src={Hashtag} class="w-6 h-6 mb-2 text-cyan-500" />
+      <span class="font-medium">Indeks Episode</span>
+    </a>
+    <a href="/tokoh" class="p-4 bg-white rounded-lg shadow">
+      <Icon src={Users} class="w-6 h-6 mb-2 text-cyan-500" />
+      <span class="font-medium">Tokoh A-Z</span>
+    </a>
+  </div>
+</Header>
 
 <ContentWrapper>
   <h2 class="flex items-center mb-8">
