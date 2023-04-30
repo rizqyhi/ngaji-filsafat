@@ -2,9 +2,9 @@
   import type { PageServerData } from "./$types";
   import { page } from "$app/stores";
   import { slugify } from "$lib/helpers";
-  import Header from "../../../components/Header.svelte";
-  import ContentWrapper from "../../../components/ContentWrapper.svelte";
-  import EpisodeCard from "../../../components/EpisodeCard.svelte";
+  import Header from "$components/Header.svelte";
+  import ContentWrapper from "$components/ContentWrapper.svelte";
+  import EpisodeCard from "$components/EpisodeCard.svelte";
 
   export let data: PageServerData;
 </script>

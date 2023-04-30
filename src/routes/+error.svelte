@@ -1,7 +1,7 @@
 <script>
   import { page } from "$app/stores";
-  import ContentWrapper from "../components/ContentWrapper.svelte";
-  import Header from "../components/Header.svelte";
+  import ContentWrapper from "$components/ContentWrapper.svelte";
+  import Header from "$components/Header.svelte";
   import { Icon } from "@steeze-ui/svelte-icon";
   import { Home } from "@steeze-ui/heroicons";
 </script>

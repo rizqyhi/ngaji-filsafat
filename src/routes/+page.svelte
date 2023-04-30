@@ -1,9 +1,9 @@
 <script lang="ts">
   import type { PageData } from "./$types";
   import { slugify } from "$lib/helpers";
-  import EpisodeCard from "../components/EpisodeCard.svelte";
-  import Header from "../components/Header.svelte";
-  import ContentWrapper from "../components/ContentWrapper.svelte";
+  import EpisodeCard from "$components/EpisodeCard.svelte";
+  import Header from "$components/Header.svelte";
+  import ContentWrapper from "$components/ContentWrapper.svelte";
   import { Icon } from "@steeze-ui/svelte-icon";
   import {
     RectangleStack,

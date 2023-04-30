@@ -1,7 +1,7 @@
 <script lang="ts">
   import type { PageServerData } from "./$types";
-  import Header from "../../../components/Header.svelte";
-  import ContentWrapper from "../../../components/ContentWrapper.svelte";
+  import Header from "$components/Header.svelte";
+  import ContentWrapper from "$components/ContentWrapper.svelte";
 
   export let data: PageServerData;
   export const episode = data.episode;

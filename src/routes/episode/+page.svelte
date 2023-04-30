@@ -1,8 +1,8 @@
 <script lang="ts">
   import type { PageServerData } from "./$types";
   import { slugify } from "$lib/helpers";
-  import Header from "../../components/Header.svelte";
-  import ContentWrapper from "../../components/ContentWrapper.svelte";
+  import Header from "$components/Header.svelte";
+  import ContentWrapper from "$components/ContentWrapper.svelte";
 
   export let data: PageServerData;
 </script>
