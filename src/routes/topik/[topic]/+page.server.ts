@@ -1,15 +1,9 @@
-import type { Episode } from "../../../types";
+import { findByTopic } from "$lib/data/topics";
 import type { PageServerLoad } from "./$types";
 
-export const load = (async ({ fetch, params }) => {
-  const response = await fetch("/database.json");
-  const allEpisodes: Episode[] = await response.json();
-  const episodes = allEpisodes.filter(
-    (episode) => episode.topic === params.topic
-  );
-
+export const load = (async ({ params }) => {
   return {
-    episodes,
+    episodes: findByTopic(params.topic),
     title: `${params.topic} - Ngaji Filsafat`,
   };
 }) satisfies PageServerLoad;

@@ -1,11 +1,8 @@
-import type { Episode } from "../types";
 import type { PageServerLoad } from "./$types";
+import { getLatest } from "$lib/data/episodes";
 
-export const load = (async ({ fetch }) => {
-  const response = await fetch("/database.json");
-  const episodes: Episode[] = await response.json();
-
+export const load = (async () => {
   return {
-    episodes: episodes.slice(0, 5),
+    episodes: getLatest(),
   };
 }) satisfies PageServerLoad;

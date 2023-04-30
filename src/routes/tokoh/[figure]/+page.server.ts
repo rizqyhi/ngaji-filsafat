@@ -1,15 +1,9 @@
-import type { Episode } from "../../../types";
+import { findByFigureName } from "$lib/data/figures";
 import type { PageServerLoad } from "./$types";
 
-export const load = (async ({ fetch, params }) => {
-  const response = await fetch("/database.json");
-  const allEpisodes: Episode[] = await response.json();
-  const episodes = allEpisodes.filter(
-    (episode) => episode.figure === params.figure
-  );
-
+export const load = (async ({ params }) => {
   return {
-    episodes,
+    episodes: findByFigureName(params.figure),
     title: `${params.figure} - Ngaji Filsafat`,
   };
 }) satisfies PageServerLoad;

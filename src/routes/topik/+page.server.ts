@@ -1,13 +1,8 @@
-import type { Episode } from "../../types";
+import { getAll } from "$lib/data/topics";
 import type { PageServerLoad } from "./$types";
-import groupBy from "lodash-es/groupBy";
 
-export const load = (async ({ fetch }) => {
-  const response = await fetch("/database.json");
-  const episodes: Episode[] = await response.json();
-  const topics = groupBy(episodes, "topic");
-
+export const load = (async () => {
   return {
-    topics,
+    topics: getAll(),
   };
 }) satisfies PageServerLoad;

@@ -1,22 +1,9 @@
 import { error } from "@sveltejs/kit";
 import type { PageServerLoad } from "./$types";
+import { findByEpisode } from "$lib/data/episodes";
 
-type Episode = {
-  id: string;
-  episode: number;
-  date: string;
-  title: string;
-  topic: string;
-  is_official: boolean;
-  video_ids: string[];
-  video_url: string;
-  download_url: string;
-};
-
-export const load = (async ({ fetch, params, request }) => {
-  const response = await fetch("/database.json");
-  const episodes: Episode[] = await response.json();
-  const episode = episodes.find((e) => e.episode.toString() === params.episode);
+export const load = (async ({ params, request }) => {
+  const episode = findByEpisode(parseInt(params.episode));
 
   if (!episode) {
     throw error(404, "Episode not found");
