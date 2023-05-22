@@ -1,0 +1,28 @@
+name: Daily database sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: pnpm
+      - name: Install dependencies
+        run: pnpm ci
+      - name: Fetch records
+        run: pnpx ts-node --esm ./data-sync/SyncFromSheets.ts
+      - name: Push updated database
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: data
+          message: Update database `date +'%Y-%m-%d'`
+          committer_name: GitHub Actions
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
