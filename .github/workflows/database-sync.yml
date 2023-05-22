@@ -19,7 +19,7 @@ jobs:
           node-version: 16
           cache: pnpm
       - name: Install dependencies
-        run: pnpm ci
+        run: pnpm install
       - name: Fetch records
         run: pnpx ts-node --esm ./data-sync/SyncFromSheets.ts
       - name: Push updated database
