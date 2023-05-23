@@ -21,7 +21,10 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Fetch records
-        run: pnpx ts-node --esm ./data-sync/SyncFromSheets.ts
+        run: |
+          export SHEETS_ID=${{ secrets.SHEETS_ID }}
+          export SHEETS_API_KEY=${{ secrets.SHEETS_API_KEY }}
+          pnpx ts-node --esm ./data-sync/SyncFromSheets.ts
       - name: Push updated database
         uses: EndBug/add-and-commit@v9
         with:
