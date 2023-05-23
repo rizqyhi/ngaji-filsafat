@@ -1,8 +1,8 @@
 <script lang="ts">
   import type { PageServerData } from "./$types";
-  import { slugify } from "$lib/helpers";
   import Header from "$components/Header.svelte";
   import ContentWrapper from "$components/ContentWrapper.svelte";
+  import { generateEpisodeRoute } from "$lib/routeHelper";
 
   export let data: PageServerData;
 </script>
@@ -14,7 +14,7 @@
     {#each data.episodes as episode}
       <li>
         <a
-          href={`/${episode.episode}/${slugify(episode.title)}`}
+          href={generateEpisodeRoute(episode.episode, episode.title)}
           class="flex items-center justify-between p-4 border-b"
         >
           <span class="mr-6">{episode.title}</span>

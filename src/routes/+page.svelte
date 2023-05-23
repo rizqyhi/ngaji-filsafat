@@ -1,6 +1,6 @@
 <script lang="ts">
   import type { PageData } from "./$types";
-  import { slugify } from "$lib/helpers";
+  import { generateEpisodeRoute } from "$lib/routeHelper";
   import EpisodeCard from "$components/EpisodeCard.svelte";
   import Header from "$components/Header.svelte";
   import ContentWrapper from "$components/ContentWrapper.svelte";
@@ -44,7 +44,7 @@
       title={episode.title}
       topic={episode.topic}
       videoId={episode.video_ids[0]}
-      href={`/${episode.episode}/${slugify(episode.title)}`}
+      href={generateEpisodeRoute(episode.episode, episode.title)}
     />
   {/each}
 </ContentWrapper>
