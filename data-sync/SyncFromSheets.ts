@@ -2,6 +2,7 @@ import * as dotenv from "dotenv";
 import fetch from "node-fetch";
 import path from "node:path";
 import { writeFileSync } from "node:fs";
+import { extractVideoIdFromUrl, parseDate } from "./utils";
 
 dotenv.config();
 
@@ -62,30 +63,4 @@ async function fetchRecordsFromGoogleSheets(): Promise<Episode[]> {
 
 function writeJsonFile(filePath: string, episodes: Episode[]) {
   writeFileSync(filePath, JSON.stringify(episodes, null, 2));
-}
-
-function extractVideoIdFromUrl(videoUrl: string | null): string {
-  if (videoUrl === null) return "";
-
-  const videoRegex = videoUrl.match(
-    /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/i
-  );
-
-  return videoRegex ? videoRegex[1] : "";
-}
-
-function parseDate(toBeParsedDate: string): string {
-  const [year, month, date] = toBeParsedDate.split("-");
-
-  if (!year || !month || !date) {
-    throw new Error(`INVALID_DATE_FORMAT: ${toBeParsedDate}`);
-  }
-
-  const d = new Date();
-  d.setUTCHours(0, 0, 0, 0);
-  d.setFullYear(2000 + Number(year));
-  d.setMonth(Number(month) - 1);
-  d.setDate(Number(date));
-
-  return d.toJSON();
 }
