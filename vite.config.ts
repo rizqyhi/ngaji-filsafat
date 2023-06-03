@@ -5,6 +5,6 @@ export default defineConfig({
   plugins: [sveltekit()],
   legacy: { buildSsrCjsExternalHeuristics: true },
   test: {
-    include: ["src/**/*.{test,spec}.{js,ts}"],
+    include: ["{src,data-sync}/**/*.{test,spec}.{js,ts}"],
   },
 });
