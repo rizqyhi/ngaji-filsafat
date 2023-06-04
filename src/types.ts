@@ -1,12 +1,11 @@
 export type Episode = {
-  id: string;
+  id: number;
   episode: number;
   date: string;
   title: string;
   topic: string;
-  figure: string | undefined;
+  figure: string;
   is_official: boolean;
   video_ids: string[];
-  video_url: string;
   download_url: string;
 };

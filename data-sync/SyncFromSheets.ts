@@ -3,6 +3,7 @@ import fetch from "node-fetch";
 import path from "node:path";
 import { writeFileSync } from "node:fs";
 import { extractVideoIdFromUrl, parseDate } from "./utils";
+import type { Episode } from "../src/types";
 
 dotenv.config();
 
@@ -10,18 +11,6 @@ type SheetsResponse = {
   range: string;
   majorDimension: string;
   values: string[][];
-};
-
-type Episode = {
-  id: number;
-  episode: number;
-  date: string;
-  title: string;
-  topic: string;
-  figure: string;
-  is_official: boolean;
-  video_ids: string[];
-  download_url: string;
 };
 
 (async () => {
