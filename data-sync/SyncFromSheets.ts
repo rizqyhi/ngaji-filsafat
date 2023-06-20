@@ -25,7 +25,7 @@ type SheetsResponse = {
 
 async function fetchRecordsFromGoogleSheets(): Promise<Episode[]> {
   const response = await fetch(
-    `https://sheets.googleapis.com/v4/spreadsheets/${process.env.SHEETS_ID}/values/A1:L?key=${process.env.SHEETS_API_KEY}`
+    `https://sheets.googleapis.com/v4/spreadsheets/${process.env.SHEETS_ID}/values/${process.env.SHEETS_NAME}!A1:L?key=${process.env.SHEETS_API_KEY}`
   );
 
   const rows = (await response.json()) as SheetsResponse;
