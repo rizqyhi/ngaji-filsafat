@@ -8,18 +8,24 @@ export function extractVideoIdFromUrl(videoUrl: string | null): string {
   return videoRegex ? videoRegex[1] : "";
 }
 
-export function parseDate(toBeParsedDate: string): string {
-  const [year, month, date] = toBeParsedDate.split("-");
+export function parseDate(toBeParsedDate: string, episode: string): string {
+  try {
+    const [year, month, date] = toBeParsedDate.split("-");
 
-  if (!year || !month || !date) {
-    throw new Error(`INVALID_DATE_FORMAT: ${toBeParsedDate}`);
+    if (!year || !month || !date) {
+      throw new Error(`INVALID_DATE_FORMAT: ${toBeParsedDate}`);
+    }
+
+    const d = new Date();
+    d.setUTCHours(0, 0, 0, 0);
+    d.setFullYear(2000 + Number(year));
+    d.setMonth(Number(month) - 1);
+    d.setDate(Number(date));
+
+    return d.toJSON();
+  } catch (e) {
+    throw new Error(
+      `FAILED_PARSING_DATE: episode: ${episode}, date value: ${toBeParsedDate}`
+    );
   }
-
-  const d = new Date();
-  d.setUTCHours(0, 0, 0, 0);
-  d.setFullYear(2000 + Number(year));
-  d.setMonth(Number(month) - 1);
-  d.setDate(Number(date));
-
-  return d.toJSON();
 }

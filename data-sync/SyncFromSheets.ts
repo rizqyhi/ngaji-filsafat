@@ -39,7 +39,7 @@ async function fetchRecordsFromGoogleSheets(): Promise<Episode[]> {
     return {
       id: parseInt((columns[0] + columns[1]).replaceAll("-", "")),
       episode: parseInt(columns[0]),
-      date: parseDate(columns[1]),
+      date: parseDate(columns[1], columns[0]),
       title: columns[2],
       topic: columns[3],
       figure: columns[4] || "",
