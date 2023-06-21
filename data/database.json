@@ -382,7 +382,7 @@
     "date": "2014-02-19T00:00:00.000Z",
     "title": "Romantisisme 1 - Jean Jacques Rousseau",
     "topic": "Romantisisme",
-    "figure": "",
+    "figure": "Jean Jacques Rousseau",
     "is_official": true,
     "video_ids": [
       "JD1PqCzyWYM"
@@ -423,9 +423,7 @@
     "topic": "Eksistensialisme",
     "figure": "Jean Paul Sartre",
     "is_official": false,
-    "video_ids": [
-      "AodFzKWc_Ko"
-    ],
+    "video_ids": [],
     "download_url": "http://www.mediafire.com/download/6y455oha2f67q1a/Ngaji_Filsafat_Rutin_MJS_31-33_(Seadanya).rar"
   },
   {
@@ -754,8 +752,8 @@
     "download_url": "http://www.mediafire.com/file/4tg1aad55e6mszf/Ngaji_Filsafat_Rutin_MJS_57-58.rar/file"
   },
   {
-    "id": 60141203,
-    "episode": 60,
+    "id": 59141203,
+    "episode": 59,
     "date": "2014-12-03T00:00:00.000Z",
     "title": "Pengantar Postmodernisme",
     "topic": "Posmodernisme",
@@ -767,8 +765,8 @@
     "download_url": "http://www.mediafire.com/download/plvenwv1ad9p88e/Ngaji_Filsafat_Rutin_MJS_59.rar"
   },
   {
-    "id": 61141217,
-    "episode": 61,
+    "id": 60141217,
+    "episode": 60,
     "date": "2014-12-17T00:00:00.000Z",
     "title": "Richard Rorty",
     "topic": "Posmodernisme",
@@ -780,8 +778,8 @@
     "download_url": "http://www.mediafire.com/download/ll11o1egnr9ti5s/Ngaji_Filsafat_Rutin_61-62.rar"
   },
   {
-    "id": 62141224,
-    "episode": 62,
+    "id": 61141224,
+    "episode": 61,
     "date": "2014-12-24T00:00:00.000Z",
     "title": "Jacques Derrida",
     "topic": "Posmodernisme",
@@ -791,6 +789,19 @@
       "1GT3V-HfyWo"
     ],
     "download_url": "http://www.mediafire.com/download/ll11o1egnr9ti5s/Ngaji_Filsafat_Rutin_61-62.rar"
+  },
+  {
+    "id": 62150107,
+    "episode": 62,
+    "date": "2015-01-07T00:00:00.000Z",
+    "title": "Michel Foucault",
+    "topic": "Posmodernisme",
+    "figure": "Michel Foucault",
+    "is_official": true,
+    "video_ids": [
+      "eMLeOaMZJ-k"
+    ],
+    "download_url": ""
   },
   {
     "id": 63150114,
@@ -2166,7 +2177,7 @@
     "date": "2017-10-04T00:00:00.000Z",
     "title": "Herbert Marcuse: Kritik Modernitas",
     "topic": "Kritik Ideologi dan Modernitas",
-    "figure": "",
+    "figure": "Herbert Marcuse",
     "is_official": true,
     "video_ids": [
       "K4O8Yqx_PfM"
@@ -2179,7 +2190,7 @@
     "date": "2017-10-11T00:00:00.000Z",
     "title": "Jürgen Habermas: Teori Kritis",
     "topic": "Kritik Ideologi dan Modernitas",
-    "figure": "",
+    "figure": "Jürgen Habermas",
     "is_official": true,
     "video_ids": [
       "71XZC4XwnqA"
@@ -2192,7 +2203,7 @@
     "date": "2017-10-18T00:00:00.000Z",
     "title": "Antonio Gramsci: Hegemoni",
     "topic": "Kritik Ideologi dan Modernitas",
-    "figure": "",
+    "figure": "Antonio Gramsci",
     "is_official": true,
     "video_ids": [
       "2fkoOX8h3IA"
@@ -2205,7 +2216,7 @@
     "date": "2017-10-25T00:00:00.000Z",
     "title": "Louis Althusser - Ideologi",
     "topic": "Kritik Ideologi dan Modernitas",
-    "figure": "",
+    "figure": "Louis Althusser",
     "is_official": true,
     "video_ids": [
       "bx-0E1mMCAs",
@@ -2220,7 +2231,7 @@
     "date": "2017-11-01T00:00:00.000Z",
     "title": "Filsafat Sejarah G.W.F Hegel",
     "topic": "Filsafat Sejarah",
-    "figure": "",
+    "figure": "G. W. F. Hegel",
     "is_official": true,
     "video_ids": [
       "_kqMDfB3WpY"
@@ -2233,7 +2244,7 @@
     "date": "2017-11-08T00:00:00.000Z",
     "title": "Filsafat Sejarah Ibnu Khaldun",
     "topic": "Filsafat Sejarah",
-    "figure": "",
+    "figure": "Ibnu Khaldun",
     "is_official": true,
     "video_ids": [
       "DdqNRND7Q6I"
@@ -2261,7 +2272,7 @@
     "date": "2017-11-29T00:00:00.000Z",
     "title": "Kuntowijoyo: Ilmu Sosial Profetik",
     "topic": "Sisipan Filsafat Sejarah",
-    "figure": "",
+    "figure": "Kuntowijoyo",
     "is_official": true,
     "video_ids": [
       "oj59hArgvYM"
@@ -2274,7 +2285,7 @@
     "date": "2017-12-06T00:00:00.000Z",
     "title": "Immanuel Kant: Deontologi",
     "topic": "Filsafat Moral",
-    "figure": "",
+    "figure": "Immanuel Kant",
     "is_official": true,
     "video_ids": [
       "bY8rtp7w6Fs"
@@ -2287,7 +2298,7 @@
     "date": "2017-12-13T00:00:00.000Z",
     "title": "John Dewey: Pragmatisme",
     "topic": "Filsafat Moral",
-    "figure": "",
+    "figure": "John Dewey",
     "is_official": true,
     "video_ids": [
       "F1g2jgGAZIE"
@@ -2300,10 +2311,10 @@
     "date": "2017-12-20T00:00:00.000Z",
     "title": "Ibnu Miskawaih: Filsafat Akhlak",
     "topic": "Filsafat Moral",
-    "figure": "",
-    "is_official": false,
+    "figure": "Ibnu Miskawaih",
+    "is_official": true,
     "video_ids": [
-      "OySYpAV5qJ4"
+      "hDRm35iTjB4"
     ],
     "download_url": "http://www.mediafire.com/file/85b9o5ddgbj593n/178._Filsafat_Akhlak_-_Ibnu_Miskawaih.rar"
   },
@@ -2313,10 +2324,10 @@
     "date": "2017-12-27T00:00:00.000Z",
     "title": "Mangkunegara IV: Wedhatama",
     "topic": "Filsafat Moral",
-    "figure": "",
-    "is_official": false,
+    "figure": "Mangkunegara IV",
+    "is_official": true,
     "video_ids": [
-      "eudItUEGCTQ"
+      "yLNEFza_mtE"
     ],
     "download_url": "http://www.mediafire.com/file/9wwn8dwk7h3u69u/179._Wedhatama_-_Mangkunegara_IV.rar"
   },
@@ -2326,10 +2337,10 @@
     "date": "2018-01-03T00:00:00.000Z",
     "title": "Teologi Pembebasan Islam – Asghar Ali Engineer",
     "topic": "Teologi Pembebasan Islam",
-    "figure": "",
-    "is_official": false,
+    "figure": "Asghar Ali Engineer",
+    "is_official": true,
     "video_ids": [
-      "OXwmfoJCXyk"
+      "dcEeOrTm36M"
     ],
     "download_url": "http://www.mediafire.com/file/h1d2q0dplk8pr6f/180._Teologi_Pembebasan_Islam_-_Asghar_Ali_Engineer.rar"
   },
@@ -2339,10 +2350,10 @@
     "date": "2018-01-10T00:00:00.000Z",
     "title": "Teologi Pembebasan Islam – Ali Syari’ati",
     "topic": "Teologi Pembebasan Islam",
-    "figure": "",
-    "is_official": false,
+    "figure": "Ali Syari'ati",
+    "is_official": true,
     "video_ids": [
-      "eD3wsr3guSI"
+      "4O_pih0-Ezs"
     ],
     "download_url": "http://www.mediafire.com/file/iyq8w8jvbqc5ala/181._Teologi_Pembebasan_Islam_-_Ali_Syari%27ati.rar"
   },
@@ -2352,10 +2363,10 @@
     "date": "2018-01-17T00:00:00.000Z",
     "title": "Teologi Pembebasan Islam – Hasan Hanafi",
     "topic": "Teologi Pembebasan Islam",
-    "figure": "",
-    "is_official": false,
+    "figure": "Hasan Hanafi",
+    "is_official": true,
     "video_ids": [
-      "6Mxb7bs8ed8"
+      "ALOtnd8JTeE"
     ],
     "download_url": "http://www.mediafire.com/file/3c0pyihzs9qg4ub/182._Teologi_Pembebasan_Islam_-_Hasan_Hanafi.rar"
   },
@@ -2365,10 +2376,10 @@
     "date": "2018-01-24T00:00:00.000Z",
     "title": "Teologi Pembebasan Islam – Farid Esack",
     "topic": "Teologi Pembebasan Islam",
-    "figure": "",
-    "is_official": false,
+    "figure": "Farid Esack",
+    "is_official": true,
     "video_ids": [
-      "bUFfCHPIbv8"
+      "0Bry23A8A6s"
     ],
     "download_url": "http://www.mediafire.com/file/qe8idsvdvll6sma/183._Teologi_Pembebasan_Islam_-_Farid_Esack.rar"
   },
@@ -2378,7 +2389,7 @@
     "date": "2018-02-07T00:00:00.000Z",
     "title": "Cinta Eksistensialis – Gabriel Marcel",
     "topic": "Cinta Eksistensialis",
-    "figure": "",
+    "figure": "Gabriel Marcel",
     "is_official": true,
     "video_ids": [
       "YvEWm8CQ34c"
@@ -2391,7 +2402,7 @@
     "date": "2018-02-14T00:00:00.000Z",
     "title": "Cinta Eksistensialis – Soren Kierkegaard",
     "topic": "Cinta Eksistensialis",
-    "figure": "",
+    "figure": "Søren Kierkegaard",
     "is_official": true,
     "video_ids": [
       "wdXx5yPK1oA"
@@ -2404,7 +2415,7 @@
     "date": "2018-02-21T00:00:00.000Z",
     "title": "Cinta Eksistensialis – Arthur Schopenhauer",
     "topic": "Cinta Eksistensialis",
-    "figure": "",
+    "figure": "Arthur Schopenhauer",
     "is_official": true,
     "video_ids": [
       "YcPXRP8DtcU"
@@ -2417,7 +2428,7 @@
     "date": "2018-02-28T00:00:00.000Z",
     "title": "Cinta Eksistensialis – Jean Paul Sartre",
     "topic": "Cinta Eksistensialis",
-    "figure": "",
+    "figure": "Jean Paul Sartre",
     "is_official": true,
     "video_ids": [
       "yjCKHP8Rj74"
@@ -2430,7 +2441,7 @@
     "date": "2018-03-07T00:00:00.000Z",
     "title": "Thomas Kuhn: Paradigma Ilmu",
     "topic": "Ilmu dan Pengetahuan",
-    "figure": "",
+    "figure": "Thomas Kuhn",
     "is_official": true,
     "video_ids": [
       "EIlWCLEbDl0"
@@ -2443,7 +2454,7 @@
     "date": "2018-03-14T00:00:00.000Z",
     "title": "Paul K. Feyerabend: Anarkhisme Epistemologi",
     "topic": "Ilmu dan Pengetahuan",
-    "figure": "",
+    "figure": "Paul K. Feyerabend",
     "is_official": true,
     "video_ids": [
       "qcxZl8cI75Q"
@@ -2456,7 +2467,7 @@
     "date": "2018-03-20T00:00:00.000Z",
     "title": "Seyyed Hossein Nasr: Scientia Sacra",
     "topic": "Ilmu dan Pengetahuan",
-    "figure": "",
+    "figure": "Seyyed Hossein Nasr",
     "is_official": true,
     "video_ids": [
       "2yGa5K3rcmw"
@@ -2469,7 +2480,7 @@
     "date": "2018-03-28T00:00:00.000Z",
     "title": "Al Ghazali: Ilmu Laduni",
     "topic": "Ilmu dan Pengetahuan",
-    "figure": "",
+    "figure": "Al Ghazali",
     "is_official": true,
     "video_ids": [
       "1DKFKTPrdfE"
@@ -2482,7 +2493,7 @@
     "date": "2018-07-04T00:00:00.000Z",
     "title": "Jamaluddin Al Afghani: Pan Islamisme",
     "topic": "Teologi Islam Modern",
-    "figure": "",
+    "figure": "Jamaluddin Al Afghani",
     "is_official": true,
     "video_ids": [
       "uvFy0g3P0LE"
@@ -2495,7 +2506,7 @@
     "date": "2018-07-11T00:00:00.000Z",
     "title": "Muhammad Abduh: Risalah Tauhid",
     "topic": "Teologi Islam Modern",
-    "figure": "",
+    "figure": "Muhammad Abduh",
     "is_official": true,
     "video_ids": [
       "RFcZ_CUMUU8"
@@ -2508,7 +2519,7 @@
     "date": "2018-07-18T00:00:00.000Z",
     "title": "Rekonstruksi Pemikiran Religius dalam Islam – Muhammad Iqbal",
     "topic": "Teologi Islam Modern",
-    "figure": "",
+    "figure": "Muhammad Iqbal",
     "is_official": true,
     "video_ids": [
       "ECzA-knrTTY"
@@ -2521,7 +2532,7 @@
     "date": "2018-07-25T00:00:00.000Z",
     "title": "Sayyid Amir Ali: The Spirit Of Islam",
     "topic": "Teologi Islam Modern",
-    "figure": "",
+    "figure": "Sayyid Amir Ali",
     "is_official": true,
     "video_ids": [
       "gWP8QVEFakY"
@@ -2592,7 +2603,7 @@
     "date": "2018-09-05T00:00:00.000Z",
     "title": "Manusia Alternatif – Diogenes",
     "topic": "Manusia Alternatif",
-    "figure": "",
+    "figure": "Diogenes",
     "is_official": true,
     "video_ids": [
       "JbVrC__ns0c",
@@ -2607,7 +2618,7 @@
     "date": "2018-09-12T00:00:00.000Z",
     "title": "Manusia Alternatif – Nasrudin Hoja",
     "topic": "Manusia Alternatif",
-    "figure": "",
+    "figure": "Nasrudi Hoja",
     "is_official": true,
     "video_ids": [
       "4LgZ1S4NxxM",
@@ -2622,7 +2633,7 @@
     "date": "2018-09-19T00:00:00.000Z",
     "title": "Manusia Alternatif – H.P. Blavatsky",
     "topic": "Manusia Alternatif",
-    "figure": "",
+    "figure": "H. P. Blavatsky",
     "is_official": true,
     "video_ids": [
       "AltDAMD2_nE",
@@ -2637,7 +2648,7 @@
     "date": "2018-09-26T00:00:00.000Z",
     "title": "Manusia Alternatif – R.M.P. Sosrokartono",
     "topic": "Manusia Alternatif",
-    "figure": "",
+    "figure": "R. M. P. Sosrokartono",
     "is_official": true,
     "video_ids": [
       "gOQHuLoy19A",
@@ -2652,7 +2663,7 @@
     "date": "2018-10-03T00:00:00.000Z",
     "title": "Filsafat Pendidikan – Benjamin S. Bloom",
     "topic": "Filsafat Pendidikan",
-    "figure": "",
+    "figure": "Benjamin S. Bloom",
     "is_official": true,
     "video_ids": [
       "OMep2ub37Rg"
@@ -2665,7 +2676,7 @@
     "date": "2018-10-10T00:00:00.000Z",
     "title": "Filsafat Pendidikan – Jean Piaget",
     "topic": "Filsafat Pendidikan",
-    "figure": "",
+    "figure": "Jean Piaget",
     "is_official": true,
     "video_ids": [
       "cYlukfJ1ltA"
@@ -2678,7 +2689,7 @@
     "date": "2018-10-17T00:00:00.000Z",
     "title": "Filsafat Pendidikan – Paulo Freire",
     "topic": "Filsafat Pendidikan",
-    "figure": "",
+    "figure": "Paulo Freire",
     "is_official": true,
     "video_ids": [
       "kr_oTzSxtb8"
@@ -2691,7 +2702,7 @@
     "date": "2018-10-24T00:00:00.000Z",
     "title": "Filsafat Pendidikan – Ivan Illich",
     "topic": "Filsafat Pendidikan",
-    "figure": "",
+    "figure": "Ivan Illich",
     "is_official": true,
     "video_ids": [
       "hc_lAAu8RWs"
@@ -2704,7 +2715,7 @@
     "date": "2018-10-31T00:00:00.000Z",
     "title": "Filsafat Pendidikan – Rudolf Steiner",
     "topic": "Filsafat Pendidikan",
-    "figure": "",
+    "figure": "Rudolf Steiner",
     "is_official": true,
     "video_ids": [
       "zJdC934ot94"
@@ -2717,7 +2728,7 @@
     "date": "2018-11-07T00:00:00.000Z",
     "title": "The Philisopher King – Marcus Aurelius",
     "topic": "The Philosopher King",
-    "figure": "",
+    "figure": "Marcus Aurelius",
     "is_official": true,
     "video_ids": [
       "pvOI47sTDUM"
@@ -2730,7 +2741,7 @@
     "date": "2018-11-14T00:00:00.000Z",
     "title": "The Philisopher King – Umar Bin Abdul Aziz",
     "topic": "The Philosopher King",
-    "figure": "",
+    "figure": "Umar Bin Abdul Aziz",
     "is_official": true,
     "video_ids": [
       "wvvr2c-SJuM"
@@ -2743,7 +2754,7 @@
     "date": "2018-11-21T00:00:00.000Z",
     "title": "The Philisopher King – Sultan Akbar Agung",
     "topic": "The Philosopher King",
-    "figure": "",
+    "figure": "Sultan Akbar Agung",
     "is_official": true,
     "video_ids": [
       "hhD0SUX_U-8"
@@ -2756,7 +2767,7 @@
     "date": "2018-11-28T00:00:00.000Z",
     "title": "The Philisopher King – Sultan Agung Hanyakrakusuma",
     "topic": "The Philosopher King",
-    "figure": "",
+    "figure": "Sultan Agung Hanyakrakusuma",
     "is_official": true,
     "video_ids": [
       "b-Wnhfjq1y4"
@@ -2769,7 +2780,7 @@
     "date": "2018-12-05T00:00:00.000Z",
     "title": "Filsafat Manusia: Kepribadian - Carl Gustav Jung",
     "topic": "FIlsafat Manusia",
-    "figure": "",
+    "figure": "Carl Gustav Jung",
     "is_official": true,
     "video_ids": [
       "wPJmc-En-rQ"
@@ -2782,7 +2793,7 @@
     "date": "2018-12-12T00:00:00.000Z",
     "title": "Filsafat Manusia: Kepribadian - Gordon Allport",
     "topic": "FIlsafat Manusia",
-    "figure": "",
+    "figure": "Gordon Allport",
     "is_official": true,
     "video_ids": [
       "nROFneuU6Ac"
@@ -2795,7 +2806,7 @@
     "date": "2018-12-19T00:00:00.000Z",
     "title": "Filsafat Manusia: Kepribadian - Abraham Maslow",
     "topic": "FIlsafat Manusia",
-    "figure": "",
+    "figure": "Abraham Maslow",
     "is_official": true,
     "video_ids": [
       "18dN9LJOpCU"
@@ -2808,7 +2819,7 @@
     "date": "2018-12-26T00:00:00.000Z",
     "title": "Filsafat Manusia: Kepribadian - Erich Fromm",
     "topic": "FIlsafat Manusia",
-    "figure": "",
+    "figure": "Erich Fromm",
     "is_official": true,
     "video_ids": [
       "GTmmSC6PfQg"
@@ -2886,7 +2897,7 @@
     "date": "2019-03-13T00:00:00.000Z",
     "title": "Rene Descartes: Skeptisisme",
     "topic": "Filsafat Barat Lagi",
-    "figure": "",
+    "figure": "Rene Descartes",
     "is_official": true,
     "video_ids": [
       "qgyQ5O0X4W8"
@@ -2899,7 +2910,7 @@
     "date": "2019-03-20T00:00:00.000Z",
     "title": "Henri Bergson: Intuisisme",
     "topic": "Filsafat Barat Lagi",
-    "figure": "",
+    "figure": "Henri Bergson",
     "is_official": true,
     "video_ids": [
       "rBqtgwLw868"
@@ -2912,7 +2923,7 @@
     "date": "2019-03-27T00:00:00.000Z",
     "title": "Albert Camus: Absurditas",
     "topic": "Filsafat Barat Lagi",
-    "figure": "",
+    "figure": "Albert Camus",
     "is_official": true,
     "video_ids": [
       "UCRw1ZKwSLQ"
@@ -2925,7 +2936,7 @@
     "date": "2019-04-03T00:00:00.000Z",
     "title": "Buya Hamka: Lembaga Budi",
     "topic": "Filsafat Kitab Penata Moral",
-    "figure": "",
+    "figure": "Buya Hamka",
     "is_official": true,
     "video_ids": [
       "TQYoTl1eg3s"
@@ -2938,7 +2949,7 @@
     "date": "2019-04-10T00:00:00.000Z",
     "title": "Sri Susuhunan Pakubuwana IV: Serat Wulangreh",
     "topic": "Filsafat Kitab Penata Moral",
-    "figure": "",
+    "figure": "Sri Susuhunan Pakubuwana IV",
     "is_official": true,
     "video_ids": [
       "LaZ5F5x0MEk"
@@ -2951,7 +2962,7 @@
     "date": "2019-04-17T00:00:00.000Z",
     "title": "Al Ghazali: Al Kasyfu Wa Al Tabyin",
     "topic": "Filsafat Kitab Penata Moral",
-    "figure": "",
+    "figure": "Al Ghazali",
     "is_official": true,
     "video_ids": [
       "QDahUn6vUKA"
@@ -3042,7 +3053,7 @@
     "date": "2019-08-14T00:00:00.000Z",
     "title": "Tokoh Muda: Ahmad Wahib",
     "topic": "Tokoh Muda",
-    "figure": "",
+    "figure": "Ahmad Wahib",
     "is_official": true,
     "video_ids": [
       "VB7L5t2Mm7c"
@@ -3055,7 +3066,7 @@
     "date": "2019-08-21T00:00:00.000Z",
     "title": "Tokoh Muda: K.H Abdul Wahid Hasyim",
     "topic": "Tokoh Muda",
-    "figure": "",
+    "figure": "KH. Abdul Wahid Hasyim",
     "is_official": true,
     "video_ids": [
       "8KZIL_6oC_g"
@@ -3068,7 +3079,7 @@
     "date": "2019-08-28T00:00:00.000Z",
     "title": "Tokoh Muda: Chairil Anwar",
     "topic": "Tokoh Muda",
-    "figure": "",
+    "figure": "Chairil Anwar",
     "is_official": true,
     "video_ids": [
       "Nnlq9VSZdfU"
@@ -3081,7 +3092,7 @@
     "date": "2019-09-04T00:00:00.000Z",
     "title": "Ismail Raji al-Faruqi: Seni Tauhid",
     "topic": "Seni dan Estetika Islam",
-    "figure": "",
+    "figure": "Ismail Raji Al Faruqi",
     "is_official": true,
     "video_ids": [
       "bO23fo3WyFw"
@@ -3094,7 +3105,7 @@
     "date": "2019-09-11T00:00:00.000Z",
     "title": "Seyyed Hossein Nasr",
     "topic": "Seni dan Estetika Islam",
-    "figure": "",
+    "figure": "Seyyed Hossein Nasr",
     "is_official": true,
     "video_ids": [
       "Ow3EXP62HaY"
@@ -3107,7 +3118,7 @@
     "date": "2019-09-18T00:00:00.000Z",
     "title": "Muhammad Iqbal",
     "topic": "Seni dan Estetika Islam",
-    "figure": "",
+    "figure": "Muhammad Iqbal",
     "is_official": true,
     "video_ids": [
       "TrSqL_GwNQA"
@@ -3120,7 +3131,7 @@
     "date": "2019-09-25T00:00:00.000Z",
     "title": "Hazrat Inayat Khan: Dimensi Mistik Musik dan Bunyi",
     "topic": "Seni dan Estetika Islam",
-    "figure": "",
+    "figure": "Hazrat Inayat Khan",
     "is_official": true,
     "video_ids": [
       "hZOYcqEEvck"
@@ -3198,7 +3209,7 @@
     "date": "2019-11-13T00:00:00.000Z",
     "title": "Wisdom of Albert Einstein",
     "topic": "Para Genius",
-    "figure": "",
+    "figure": "Albert Einstein",
     "is_official": true,
     "video_ids": [
       "TQbYPlOE_N8"
@@ -3211,7 +3222,7 @@
     "date": "2019-11-20T00:00:00.000Z",
     "title": "Wisdom of Isaac Newton",
     "topic": "Para Genius",
-    "figure": "",
+    "figure": "Isaac Newton",
     "is_official": true,
     "video_ids": [
       "iCYoPnxwvtY"
@@ -3224,7 +3235,7 @@
     "date": "2019-11-27T00:00:00.000Z",
     "title": "Wisdom of Leonardo da Vinci",
     "topic": "Para Genius",
-    "figure": "",
+    "figure": "Leonardo da Vinci",
     "is_official": true,
     "video_ids": [
       "lpRAiobhVYw"
@@ -3276,7 +3287,7 @@
     "date": "2020-01-08T00:00:00.000Z",
     "title": "Meng Zi (konfusianisme)",
     "topic": "Belajar Sampai Ke Negeri Cina",
-    "figure": "",
+    "figure": "Meng Zi",
     "is_official": true,
     "video_ids": [
       "J1wgTZ-pVR8"
@@ -3289,7 +3300,7 @@
     "date": "2020-01-15T00:00:00.000Z",
     "title": "Han Fei Zi (legalisme)",
     "topic": "Belajar Sampai Ke Negeri Cina",
-    "figure": "",
+    "figure": "Han Fei Zi",
     "is_official": true,
     "video_ids": [
       "NlU8DCWjz3g"
@@ -3302,7 +3313,7 @@
     "date": "2020-01-22T00:00:00.000Z",
     "title": "Zhuang Zi (taoisme)",
     "topic": "Belajar Sampai Ke Negeri Cina",
-    "figure": "",
+    "figure": "Zhuang Zi",
     "is_official": true,
     "video_ids": [
       "EL8axwGEe48"
@@ -3315,7 +3326,7 @@
     "date": "2020-01-29T00:00:00.000Z",
     "title": "Mozi (mohisme)",
     "topic": "Belajar Sampai Ke Negeri Cina",
-    "figure": "",
+    "figure": "Mozi",
     "is_official": true,
     "video_ids": [
       "n9zztdwf1qM"
@@ -3900,7 +3911,7 @@
     "date": "2021-03-03T00:00:00.000Z",
     "title": "Lewis Mumford: Technics and Civilization",
     "topic": "Filsafat Teknologi",
-    "figure": "",
+    "figure": "Lewis Mumford",
     "is_official": true,
     "video_ids": [
       "wQSIXbRl19s"
@@ -3913,7 +3924,7 @@
     "date": "2021-03-10T00:00:00.000Z",
     "title": "Paul Virilio: Logic of Speed",
     "topic": "Filsafat Teknologi",
-    "figure": "",
+    "figure": "Paul Virilio",
     "is_official": true,
     "video_ids": [
       "nGDL5tPRyoQ"
@@ -3926,7 +3937,7 @@
     "date": "2021-03-17T00:00:00.000Z",
     "title": "Donna Haraway: Cyborgs and Women",
     "topic": "Filsafat Teknologi",
-    "figure": "",
+    "figure": "Donna Haraway",
     "is_official": true,
     "video_ids": [
       "HgZ8lId5Gws"
@@ -3939,7 +3950,7 @@
     "date": "2021-03-24T00:00:00.000Z",
     "title": "Mahatma Gandhi: Humanistic Technology",
     "topic": "Filsafat Teknologi",
-    "figure": "",
+    "figure": "Mahatma Gandhi",
     "is_official": true,
     "video_ids": [
       "cmX6ZNH_bLg"
@@ -4523,8 +4534,8 @@
     "episode": 348,
     "date": "2022-06-01T00:00:00.000Z",
     "title": "Aristoteles",
-    "topic": "",
-    "figure": "",
+    "topic": "Persahabatan",
+    "figure": "Aristoteles",
     "is_official": true,
     "video_ids": [
       "9caIpEOKBJk"
@@ -4536,8 +4547,8 @@
     "episode": 349,
     "date": "2022-06-08T00:00:00.000Z",
     "title": "Michel de Montaigne",
-    "topic": "",
-    "figure": "",
+    "topic": "Persahabatan",
+    "figure": "Michel de Montaigne",
     "is_official": true,
     "video_ids": [
       "dxvGUSR1KZI"
@@ -4549,8 +4560,8 @@
     "episode": 350,
     "date": "2022-06-15T00:00:00.000Z",
     "title": "Konfucius",
-    "topic": "",
-    "figure": "",
+    "topic": "Persahabatan",
+    "figure": "Konfucius",
     "is_official": true,
     "video_ids": [
       "nDn27ys5ClI"
@@ -4562,8 +4573,8 @@
     "episode": 351,
     "date": "2022-06-22T00:00:00.000Z",
     "title": "Said Nursi",
-    "topic": "",
-    "figure": "",
+    "topic": "Persahabatan",
+    "figure": "Said Nursi",
     "is_official": true,
     "video_ids": [
       "AlS0_281t54"
@@ -4575,8 +4586,8 @@
     "episode": 352,
     "date": "2022-06-29T00:00:00.000Z",
     "title": "Jalaluddin Rumi",
-    "topic": "",
-    "figure": "",
+    "topic": "Persahabatan",
+    "figure": "Jalaluddin Rumi",
     "is_official": true,
     "video_ids": [
       "8_qyCnAZqQc"
@@ -4588,7 +4599,7 @@
     "episode": 353,
     "date": "2022-07-06T00:00:00.000Z",
     "title": "Kecerdasan Emosional",
-    "topic": "",
+    "topic": "Ragam Kecerdasan",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4601,7 +4612,7 @@
     "episode": 354,
     "date": "2022-07-13T00:00:00.000Z",
     "title": "Kecerdasan Spiritual",
-    "topic": "",
+    "topic": "Ragam Kecerdasan",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4614,7 +4625,7 @@
     "episode": 355,
     "date": "2022-07-20T00:00:00.000Z",
     "title": "Kecerdasan Majemuk",
-    "topic": "",
+    "topic": "Ragam Kecerdasan",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4627,7 +4638,7 @@
     "episode": 356,
     "date": "2022-07-27T00:00:00.000Z",
     "title": "Kecerdasan Artifisial",
-    "topic": "",
+    "topic": "Ragam Kecerdasan",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4640,7 +4651,7 @@
     "episode": 357,
     "date": "2022-08-03T00:00:00.000Z",
     "title": "Sutan Takdir Alisjahbana - Kebudayaan Indonesia",
-    "topic": "",
+    "topic": "Kebudayaan",
     "figure": "Sutan Takdir Alisjahbana",
     "is_official": true,
     "video_ids": [
@@ -4653,7 +4664,7 @@
     "episode": 358,
     "date": "2022-08-10T00:00:00.000Z",
     "title": "Ki Hadjar Dewantara - Kebudayaan Nasional",
-    "topic": "",
+    "topic": "Kebudayaan",
     "figure": "Ki Hadjar Dewantara",
     "is_official": true,
     "video_ids": [
@@ -4665,8 +4676,8 @@
     "id": 359220817,
     "episode": 359,
     "date": "2022-08-17T00:00:00.000Z",
-    "title": "Mensyukuri Indonesia",
-    "topic": "",
+    "title": "Dari Merdeka Menuju Cinta",
+    "topic": "Kebudayaan",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4679,7 +4690,7 @@
     "episode": 360,
     "date": "2022-08-24T00:00:00.000Z",
     "title": "Stuart Hall - Budaya dan Media",
-    "topic": "",
+    "topic": "Kebudayaan",
     "figure": "Stuart Hall",
     "is_official": true,
     "video_ids": [
@@ -4692,7 +4703,7 @@
     "episode": 361,
     "date": "2022-08-31T00:00:00.000Z",
     "title": "John Storey - Budaya Populer",
-    "topic": "",
+    "topic": "Kebudayaan",
     "figure": "John Storey",
     "is_official": true,
     "video_ids": [
@@ -4705,7 +4716,7 @@
     "episode": 362,
     "date": "2022-09-07T00:00:00.000Z",
     "title": "Hedonisme",
-    "topic": "",
+    "topic": "Gaya Hidup",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4718,7 +4729,7 @@
     "episode": 363,
     "date": "2022-09-14T00:00:00.000Z",
     "title": "Heroisme",
-    "topic": "",
+    "topic": "Gaya Hidup",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4731,7 +4742,7 @@
     "episode": 364,
     "date": "2022-09-21T00:00:00.000Z",
     "title": "Minimalism",
-    "topic": "",
+    "topic": "Gaya Hidup",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4744,7 +4755,7 @@
     "episode": 365,
     "date": "2022-09-28T00:00:00.000Z",
     "title": "Asketisme",
-    "topic": "",
+    "topic": "Gaya Hidup",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4757,7 +4768,7 @@
     "episode": 366,
     "date": "2022-10-05T00:00:00.000Z",
     "title": "Akhlak dan Adab Nabi",
-    "topic": "",
+    "topic": "Kenabian",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4770,7 +4781,7 @@
     "episode": 367,
     "date": "2022-10-12T00:00:00.000Z",
     "title": "Filsafat Kenabian",
-    "topic": "",
+    "topic": "Kenabian",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4783,7 +4794,7 @@
     "episode": 368,
     "date": "2022-10-19T00:00:00.000Z",
     "title": "Nur Muhammad",
-    "topic": "",
+    "topic": "Kenabian",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4796,7 +4807,7 @@
     "episode": 369,
     "date": "2022-10-26T00:00:00.000Z",
     "title": "Mahabbatur-Rasul",
-    "topic": "",
+    "topic": "Kenabian",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4809,8 +4820,8 @@
     "episode": 370,
     "date": "2022-11-02T00:00:00.000Z",
     "title": "Lawrence Kohlberg - Tahap Perkembangan Moral",
-    "topic": "",
-    "figure": "",
+    "topic": "Belajar Lagi Tentang Moral",
+    "figure": "Lawrence Kohlberg",
     "is_official": true,
     "video_ids": [
       "AJnRk8k3Ez4"
@@ -4822,8 +4833,8 @@
     "episode": 371,
     "date": "2022-11-09T00:00:00.000Z",
     "title": "Max Scheler - Hirarki Nilai",
-    "topic": "",
-    "figure": "",
+    "topic": "Belajar Lagi Tentang Moral",
+    "figure": "Max Scheler",
     "is_official": true,
     "video_ids": [
       "BOfiod_Ws-8"
@@ -4835,8 +4846,8 @@
     "episode": 372,
     "date": "2022-11-16T00:00:00.000Z",
     "title": "Emmanuel Levinas - Etika Tanggungjawab",
-    "topic": "",
-    "figure": "",
+    "topic": "Belajar Lagi Tentang Moral",
+    "figure": "Emmanuel Levinas",
     "is_official": true,
     "video_ids": [
       "KdIK0D0Fwk8"
@@ -4848,8 +4859,8 @@
     "episode": 373,
     "date": "2022-11-23T00:00:00.000Z",
     "title": "Hans Jonas - Etika Masa Depan",
-    "topic": "",
-    "figure": "",
+    "topic": "Belajar Lagi Tentang Moral",
+    "figure": "Hans Jonas",
     "is_official": true,
     "video_ids": [
       "iOpFpYTxBZU"
@@ -4861,7 +4872,7 @@
     "episode": 374,
     "date": "2022-11-30T00:00:00.000Z",
     "title": "Kegelisahan Moral Masa Kini (Q & A)",
-    "topic": "",
+    "topic": "Belajar Lagi Tentang Moral",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4873,8 +4884,8 @@
     "id": 375221207,
     "episode": 375,
     "date": "2022-12-07T00:00:00.000Z",
-    "title": "Taubat : penyesalan dan perbaikan",
-    "topic": "",
+    "title": "Taubat: Penyesalan dan Perbaikan",
+    "topic": "Muhasabah Akhir Tahun",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4886,8 +4897,8 @@
     "id": 376221214,
     "episode": 376,
     "date": "2022-12-14T00:00:00.000Z",
-    "title": "Istiqamah : kesabaran dan kekuatan",
-    "topic": "",
+    "title": "Istiqamah: Kesabaran dan Kekuatan",
+    "topic": "Muhasabah Akhir Tahun",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4899,8 +4910,8 @@
     "id": 377221221,
     "episode": 377,
     "date": "2022-12-21T00:00:00.000Z",
-    "title": "Karamah : anugerah dan ujian",
-    "topic": "",
+    "title": "Karamah: Anugerah dan Ujian",
+    "topic": "Muhasabah Akhir Tahun",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4912,8 +4923,8 @@
     "id": 378221228,
     "episode": 378,
     "date": "2022-12-28T00:00:00.000Z",
-    "title": "Ikhlas : cinta dan ketulusan",
-    "topic": "",
+    "title": "Ikhlas: Cinta dan Ketulusan",
+    "topic": "Muhasabah Akhir Tahun",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4926,8 +4937,8 @@
     "episode": 379,
     "date": "2023-01-04T00:00:00.000Z",
     "title": "Mengenali Diri",
-    "topic": "",
-    "figure": "",
+    "topic": "Socrates",
+    "figure": "Socrates",
     "is_official": true,
     "video_ids": [
       "bcR9xmnYNbk"
@@ -4939,8 +4950,8 @@
     "episode": 380,
     "date": "2023-01-11T00:00:00.000Z",
     "title": "Etika",
-    "topic": "",
-    "figure": "",
+    "topic": "Socrates",
+    "figure": "Socrates",
     "is_official": true,
     "video_ids": [
       "JqxyPJCXjNY"
@@ -4952,8 +4963,8 @@
     "episode": 381,
     "date": "2023-01-18T00:00:00.000Z",
     "title": "Metode Dialog",
-    "topic": "",
-    "figure": "",
+    "topic": "Socrates",
+    "figure": "Socrates",
     "is_official": true,
     "video_ids": [
       "MgKWjAuD6W0"
@@ -4965,8 +4976,8 @@
     "episode": 382,
     "date": "2023-01-25T00:00:00.000Z",
     "title": "Apology",
-    "topic": "",
-    "figure": "",
+    "topic": "Socrates",
+    "figure": "Socrates",
     "is_official": true,
     "video_ids": [
       "W1FsuVnChRg"
@@ -4978,7 +4989,7 @@
     "episode": 383,
     "date": "2023-02-01T00:00:00.000Z",
     "title": "Patah Hati Perspektif Ilmu Jiwa",
-    "topic": "",
+    "topic": "Patah Hati",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -4991,7 +5002,7 @@
     "episode": 384,
     "date": "2023-02-08T00:00:00.000Z",
     "title": "Patah Hati Perspektif Filsafat Eksistensialisme",
-    "topic": "",
+    "topic": "Patah Hati",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -5004,7 +5015,7 @@
     "episode": 385,
     "date": "2023-02-15T00:00:00.000Z",
     "title": "Patah Hati Perspektif Filsafat Stoikisme",
-    "topic": "",
+    "topic": "Patah Hati",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -5017,7 +5028,7 @@
     "episode": 386,
     "date": "2023-02-22T00:00:00.000Z",
     "title": "Patah Hati Perspektif Sufisme",
-    "topic": "",
+    "topic": "Patah Hati",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -5030,7 +5041,7 @@
     "episode": 387,
     "date": "2023-03-01T00:00:00.000Z",
     "title": "Membersihkan Pikiran",
-    "topic": "",
+    "topic": "Bersih-bersih",
     "figure": "",
     "is_official": true,
     "video_ids": [
@@ -5043,10 +5054,12 @@
     "episode": 388,
     "date": "2023-03-08T00:00:00.000Z",
     "title": "Membersihkan Jiwa",
-    "topic": "",
+    "topic": "Bersih-bersih",
     "figure": "",
-    "is_official": false,
-    "video_ids": [],
+    "is_official": true,
+    "video_ids": [
+      "nsGj7Uf9vUs"
+    ],
     "download_url": ""
   }
 ]
