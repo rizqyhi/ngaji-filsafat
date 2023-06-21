@@ -24,6 +24,8 @@ jobs:
         run: |
           export SHEETS_ID=${{ secrets.SHEETS_ID }}
           export SHEETS_API_KEY=${{ secrets.SHEETS_API_KEY }}
+          export SHEETS_NAME=${{ secrets.SHEETS_NAME }}
+
           pnpm sync-data
       - name: Push updated database
         uses: EndBug/add-and-commit@v9
